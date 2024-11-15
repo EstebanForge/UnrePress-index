@@ -1,21 +1,33 @@
 {
-  "slug": "unrepress",
   "name": "UnrePress",
+  "slug": "unrepress",
+  "author": "Esteban Cuevas",
+  "author_profile": "https://actitud.xyz",
+  "version": "",
+  "download_url": "",
+  "requires": "6.5",
+  "tested": "6.7",
+  "requires_php": "8.1",
+  "last_updated": "",
+  "sections": {
+    "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
+    "installation": "",
+    "changelog": "https://raw.githubusercontent.com/TCattd/UnrePress/master/CHANGELOG.md"
+  },
+  "banners": {
+    "low": "https://example.com/banner-772x250.jpg",
+    "high": "https://example.com/banner-1544x500.jpg"
+  },
   "type": "plugin",
   "wp-meta": true,
+  "free": true,
+  "freemium": false,
+  "paid": false,
   "date_added": "2024-10-04",
   "homepage": "https://unrepress.org",
   "repository": "https://github.com/TCattd/UnrePress",
   "tags": "https://api.github.com/repos/TCattd/UnrePress/tags",
-  "releases": "https://api.github.com/repos/TCattd/UnrePress/releases",
+  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/TCattd/UnrePress/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/TCattd/UnrePress/master/readme.txt",
-  "changelog": "https://raw.githubusercontent.com/TCattd/UnrePress/master/CHANGELOG.md",
-  "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
-  "author": "Esteban Cuevas",
-  "author_url": "https://actitud.xyz",
-  "free": true,
-  "paid_features": false,
-  "license": "GPL-2.0-or-later",
-  "license_url": "https://www.gnu.org/licenses/gpl-2.0.html"
 }
