@@ -1,0 +1,32 @@
+{
+  "name": "Transients Manager",
+  "slug": "transients-manager",
+  "author": "WPBeginner",
+  "author_profile": "https://wpbeginner.com",
+  "version": "",
+  "download_url": "",
+  "requires": "6.5",
+  "tested": "6.7",
+  "requires_php": "8.1",
+  "last_updated": "",
+  "sections": {
+    "description": "Provides a familiar interface to view, search, edit, and delete Transients.",
+    "installation": "",
+    "changelog": "https://github.com/awesomemotive/Transients-Manager/releases"
+  },
+  "banners": {
+    "low": "https://example.com/banner-772x250.jpg",
+    "high": "https://example.com/banner-1544x500.jpg"
+  },
+  "type": "plugin",
+  "wp-meta": false,
+  "free": true,
+  "paid_features": false,
+  "date_added": "2024-12-23",
+  "homepage": "https://github.com/awesomemotive/Transients-Manager",
+  "repository": "https://github.com/awesomemotive/Transients-Manager",
+  "tags": "https://api.github.com/repos/awesomemotive/Transients-Manager/tags",
+  "update_from": "tags",
+  "readme_md": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/README.md",
+  "readme_txt": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/readme.txt"
+}

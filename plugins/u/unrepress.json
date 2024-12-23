@@ -12,22 +12,21 @@
   "sections": {
     "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
     "installation": "",
-    "changelog": "https://raw.githubusercontent.com/TCattd/UnrePress/master/CHANGELOG.md"
+    "changelog": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/CHANGELOG.md"
   },
   "banners": {
     "low": "https://example.com/banner-772x250.jpg",
     "high": "https://example.com/banner-1544x500.jpg"
   },
   "type": "plugin",
-  "wp-meta": true,
+  "wp-meta": false,
   "free": true,
-  "freemium": false,
-  "paid": false,
+  "paid_features": false,
   "date_added": "2024-10-04",
   "homepage": "https://unrepress.org",
-  "repository": "https://github.com/TCattd/UnrePress",
-  "tags": "https://api.github.com/repos/TCattd/UnrePress/tags",
+  "repository": "https://github.com/EstebanForge/UnrePress",
+  "tags": "https://api.github.com/repos/EstebanForge/UnrePress/tags",
   "update_from": "tags",
-  "readme_md": "https://raw.githubusercontent.com/TCattd/UnrePress/master/README.md",
-  "readme_txt": "https://raw.githubusercontent.com/TCattd/UnrePress/master/readme.txt",
+  "readme_md": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/README.md",
+  "readme_txt": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/readme.txt"
 }
