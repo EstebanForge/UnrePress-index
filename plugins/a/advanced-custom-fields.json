@@ -3,12 +3,6 @@
   "slug": "advanced-custom-fields",
   "author": "Advanced Custom Fields",
   "author_profile": "https://www.advancedcustomfields.com/",
-  "version": "",
-  "download_url": "",
-  "requires": "6.5",
-  "tested": "6.7",
-  "requires_php": "8.1",
-  "last_updated": "",
   "sections": {
     "description": "ACF helps customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million sites, WordPress developers love ACF.",
     "installation": "",
