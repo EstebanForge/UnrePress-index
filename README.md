@@ -1,6 +1,6 @@
 # UnrePress Index
 
-To be used with UnrePress
+To be used with [UnrePress](https://github.com/EstebanForge/UnrePress)
 
 ## License
 
