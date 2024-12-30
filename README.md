@@ -2,7 +2,6 @@
 
 To be used with [UnrePress](https://github.com/EstebanForge/UnrePress)
 
-## License
+## Documentation
 
-This project is licensed under the GPL-2.0+ License.
-
+Check the updated documentation on how to publish your plugin or theme on UnrePress at [The Wiki](https://github.com/EstebanForge/UnrePress/wiki)

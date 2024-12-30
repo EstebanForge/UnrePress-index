@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "name": "Transients Manager",
   "slug": "transients-manager",
   "author": "WPBeginner",
