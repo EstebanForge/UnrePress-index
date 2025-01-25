@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "name": "UnrePress",
-  "slug": "unrepress",
-  "author": "Esteban Cuevas",
-  "author_profile": "https://actitud.xyz",
+  "name": "WP-Crontrol",
+  "slug": "wp-crontrol",
+  "author": "John Blackbourn",
+  "author_profile": "https://wp-crontrol.com",
   "sections": {
-    "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
+    "description": "WP Crontrol enables you to take control of the scheduled cron events on your WordPress website or WooCommerce store. From the admin screens you can: View all scheduled cron events along with their arguments, schedule, callback functions, and when they are next due. Edit, delete, pause, resume, and immediately add new cron events. Bulk delete cron events. Add and remove custom cron schedules. Export and download cron event lists as a CSV file. WP Crontrol is aware of timezones, will alert you to events that have no actions or that have missed their schedule, and will show you a helpful warning message if it detects any problems with your cron system.",
     "installation": "",
-    "changelog": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/CHANGELOG.md"
+    "changelog": "https://github.com/johnbillion/wp-crontrol/releases"
   },
   "banners": {
     "low": "https://example.com/banner-772x250.jpg",
@@ -17,13 +17,13 @@
   "wp-meta": false,
   "free": true,
   "paid_features": false,
-  "date_added": "2024-10-04",
-  "homepage": "https://unrepress.org",
-  "repository": "https://github.com/EstebanForge/UnrePress",
-  "tags": "https://api.github.com/repos/EstebanForge/UnrePress/tags",
+  "date_added": "2025-01-25",
+  "homepage": "https://wp-crontrol.com",
+  "repository": "https://github.com/johnbillion/wp-crontrol",
+  "tags": "https://api.github.com/repos/johnbillion/wp-crontrol/tags",
   "update_from": "tags",
-  "readme_md": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/README.md",
-  "readme_txt": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/readme.txt",
+  "readme_md": "https://raw.githubusercontent.com/johnbillion/wp-crontrol/master/README.md",
+  "readme_txt": "https://raw.githubusercontent.com/johnbillion/wp-crontrol/master/readme.txt",
   "unrepress-meta": {
     "taken-down": false,
     "vulnerability": false
