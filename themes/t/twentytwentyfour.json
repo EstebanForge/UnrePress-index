@@ -27,6 +27,6 @@
   "changelog": "https://themes.trac.wordpress.org/log/twentytwentyfour",
   "unrepress-meta": {
     "taken-down": false,
-    "vulnerability": false
+    "vulnerable": false
   }
 }
