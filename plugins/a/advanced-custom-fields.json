@@ -23,5 +23,9 @@
   "tags": "https://api.github.com/repos/advancedcustomfields/acf/tags",
   "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/README.md",
-  "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt"
+  "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt",
+  "unrepress-meta": {
+    "taken-down": false,
+    "vulnerability": false
+  }
 }
