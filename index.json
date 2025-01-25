@@ -6,10 +6,16 @@
   },
   "plugins": {
     "path": "plugins",
-    "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/plugins/"
+    "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/plugins/",
+    "featured": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/featured-plugins.json",
+    "popular": null,
+    "recent": null
   },
   "themes": {
     "path": "themes",
-    "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/themes/"
+    "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/themes/",
+    "featured": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/featured-themes.json",
+    "popular": null,
+    "recent": null
   }
 }
