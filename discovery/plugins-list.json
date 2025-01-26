@@ -18,6 +18,8 @@
       "name": "Transients Manager",
       "description": "Manage WordPress transients effortlessly.",
       "tags": [
+        "cron",
+        "crontrol",
         "transient",
         "transients"
       ]
