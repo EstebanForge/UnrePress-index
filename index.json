@@ -9,13 +9,15 @@
     "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/plugins/",
     "featured": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/featured-plugins.json",
     "popular": null,
-    "recent": null
+    "recent": null,
+    "list": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/plugins-list.json"
   },
   "themes": {
     "path": "themes",
     "url": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/themes/",
     "featured": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/featured-themes.json",
     "popular": null,
-    "recent": null
+    "recent": null,
+    "list": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/discovery/themes-list.json"
   }
 }
