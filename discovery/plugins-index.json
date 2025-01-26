@@ -1,28 +1,72 @@
 {
   "schema_version": 1,
-  "total": 2,
+  "total": 4,
   "plugins": [
+    {
+      "slug": "advanced-custom-fields",
+      "name": "Advanced Custom Fields",
+      "description": "ACF helps customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million sites, WordPress developers love ACF.",
+      "tags": [
+        "acf",
+        "field",
+        "advanced",
+        "custom",
+        "customize",
+        "developer",
+        "help",
+        "intuitive",
+        "love",
+        "million"
+      ]
+    },
     {
       "slug": "unrepress",
       "name": "UnrePress",
-      "description": "Update WordPress core/plugins/themes directly from git providers.",
+      "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
       "tags": [
-        "github",
+        "unrepress",
+        "allows",
         "bitbucket",
+        "core",
+        "directly",
+        "dot",
+        "git",
+        "github",
         "gitlab",
-        "updates",
-        "updater"
+        "instead"
       ]
     },
     {
       "slug": "transients-manager",
       "name": "Transients Manager",
-      "description": "Manage WordPress transients effortlessly.",
+      "description": "Provides a familiar interface to view, search, edit, and delete Transients.",
+      "tags": [
+        "transient",
+        "delete",
+        "edit",
+        "familiar",
+        "interface",
+        "manager",
+        "provides",
+        "search",
+        "view"
+      ]
+    },
+    {
+      "slug": "wp-crontrol",
+      "name": "WP-Crontrol",
+      "description": "WP Crontrol enables you to take control of the scheduled cron events on your WordPress website or WooCommerce store. From the admin screens you can: View all scheduled cron events along with their arguments, schedule, callback functions, and when they are next due. Edit, delete, pause, resume, and immediately add new cron events. Bulk delete cron events. Add and remove custom cron schedules. Export and download cron event lists as a CSV file. WP Crontrol is aware of timezones, will alert you to events that have no actions or that have missed their schedule, and will show you a helpful warning message if it detects any problems with your cron system.",
       "tags": [
         "cron",
+        "event",
+        "schedule",
         "crontrol",
-        "transient",
-        "transients"
+        "delete",
+        "scheduled",
+        "action",
+        "admin",
+        "alert",
+        "along"
       ]
     }
   ]
