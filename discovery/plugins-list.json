@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "total": 2,
   "plugins": [
     {
       "slug": "unrepress",
