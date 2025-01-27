@@ -10,8 +10,12 @@
     "changelog": "https://github.com/johnbillion/wp-crontrol/releases"
   },
   "banners": {
-    "low": "https://example.com/banner-772x250.jpg",
-    "high": "https://example.com/banner-1544x500.jpg"
+    "low": "",
+    "high": ""
+  },
+  "icons": {
+    "low": "",
+    "high": ""
   },
   "type": "plugin",
   "wp-meta": false,

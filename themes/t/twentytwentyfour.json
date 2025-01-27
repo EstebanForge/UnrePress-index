@@ -10,8 +10,12 @@
     "changelog": ""
   },
   "banners": {
-    "low": "https://example.com/banner-772x250.jpg",
-    "high": "https://example.com/banner-1544x500.jpg"
+    "low": "",
+    "high": ""
+  },
+  "icons": {
+    "low": "",
+    "high": ""
   },
   "type": "theme",
   "wp-meta": false,
