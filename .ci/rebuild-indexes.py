@@ -9,15 +9,8 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-# Download required NLTK data
-try:
-    nltk.data.find('tokenizers/punkt')
-    nltk.data.find('corpora/wordnet')
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('punkt')
-    nltk.download('wordnet')
-    nltk.download('stopwords')
+# Set NLTK data path to ~/.config/pip/nltk_data
+nltk.data.path.insert(0, os.path.expanduser("~/.config/pip/nltk_data"))
 
 def extract_keywords(text: str) -> List[str]:
     """Extract meaningful keywords from text using NLTK.

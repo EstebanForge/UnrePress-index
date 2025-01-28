@@ -31,11 +31,11 @@ def resize_image(image, target_size):
     """
     target_width, target_height = target_size
     original_width, original_height = image.size
-    
+
     # Calculate aspect ratios
     target_aspect = target_width / target_height
     original_aspect = original_width / original_height
-    
+
     # Calculate dimensions to maintain aspect ratio while covering
     if original_aspect > target_aspect:
         # Original image is wider - scale to match height
@@ -45,17 +45,17 @@ def resize_image(image, target_size):
         # Original image is taller - scale to match width
         new_width = target_width
         new_height = int(new_width / original_aspect)
-    
+
     # Resize image
     resized = image.resize((new_width, new_height), Image.Resampling.LANCZOS)
-    
+
     # Create new image with target size
     result = Image.new('RGB', target_size)
-    
+
     # Calculate position to center the crop
     left = (new_width - target_width) // 2
     top = (new_height - target_height) // 2
-    
+
     # Crop and paste into center
     crop_box = (left, top, left + target_width, top + target_height)
     cropped = resized.crop((
@@ -69,7 +69,7 @@ def resize_image(image, target_size):
         max(0, -top)
     )
     result.paste(cropped, paste_position)
-    
+
     return result
 
 def process_image(source_path):

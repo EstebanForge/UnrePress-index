@@ -1,0 +1,16 @@
+{
+    "name": "estebanforge/unrepress-index",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Esteban",
+            "email": "esteban@attitude.cl"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "install-dependencies": "python .ci/install-dependencies.py",
+        "rebuild-indexes": "python .ci/rebuild-indexes.py",
+        "rebuild-placeholder": "python .ci/rebuild-placeholder.py"
+    }
+}
