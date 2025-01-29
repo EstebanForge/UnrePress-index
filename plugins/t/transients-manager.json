@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "type": "plugin",
   "name": "Transients Manager",
   "slug": "transients-manager",
   "author": "WPBeginner",
@@ -17,18 +18,18 @@
     "low": "",
     "high": ""
   },
-  "type": "plugin",
-  "wp-meta": false,
-  "free": true,
-  "paid_features": false,
-  "date_added": "2024-12-23",
   "homepage": "https://github.com/awesomemotive/Transients-Manager",
-  "repository": "https://github.com/awesomemotive/Transients-Manager",
-  "tags": "https://api.github.com/repos/awesomemotive/Transients-Manager/tags",
-  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/readme.txt",
   "unrepress-meta": {
+    "wp-meta": false,
+    "free": true,
+    "paid_features": false,
+    "date_added": "2024-12-23",
+    "repository": "https://github.com/awesomemotive/Transients-Manager",
+    "tags": "https://api.github.com/repos/awesomemotive/Transients-Manager/tags",
+    "update_from": "tags",
+    "abandoned": false,
     "taken-down": false,
     "vulnerable": false
   }

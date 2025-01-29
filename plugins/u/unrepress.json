@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "type": "plugin",
   "name": "UnrePress",
   "slug": "unrepress",
   "author": "Esteban Cuevas",
@@ -17,18 +18,18 @@
     "low": "",
     "high": ""
   },
-  "type": "plugin",
-  "wp-meta": false,
-  "free": true,
-  "paid_features": false,
-  "date_added": "2024-10-04",
   "homepage": "https://unrepress.org",
-  "repository": "https://github.com/EstebanForge/UnrePress",
-  "tags": "https://api.github.com/repos/EstebanForge/UnrePress/tags",
-  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/readme.txt",
   "unrepress-meta": {
+    "wp-meta": false,
+    "free": true,
+    "paid_features": false,
+    "date_added": "2024-10-04",
+    "repository": "https://github.com/EstebanForge/UnrePress",
+    "tags": "https://api.github.com/repos/EstebanForge/UnrePress/tags",
+    "update_from": "tags",
+    "abandoned": false,
     "taken-down": false,
     "vulnerable": false
   }

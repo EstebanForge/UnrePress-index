@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "type": "plugin",
   "name": "Advanced Custom Fields",
   "slug": "advanced-custom-fields",
   "author": "Advanced Custom Fields",
@@ -17,18 +18,18 @@
     "low": "",
     "high": ""
   },
-  "type": "plugin",
-  "wp-meta": false,
-  "free": true,
-  "paid_features": true,
-  "date_added": "2024-10-04",
   "homepage": "https://www.advancedcustomfields.com/",
-  "repository": "https://github.com/advancedcustomfields/acf",
-  "tags": "https://api.github.com/repos/advancedcustomfields/acf/tags",
-  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt",
   "unrepress-meta": {
+    "wp-meta": false,
+    "free": true,
+    "paid_features": true,
+    "date_added": "2024-10-04",
+    "repository": "https://github.com/advancedcustomfields/acf",
+    "tags": "https://api.github.com/repos/advancedcustomfields/acf/tags",
+    "update_from": "tags",
+    "abandoned": false,
     "taken-down": false,
     "vulnerable": false
   }

@@ -11,6 +11,7 @@
     "scripts": {
         "install-dependencies": "python .ci/install-dependencies.py",
         "rebuild-indexes": "python .ci/rebuild-indexes.py",
-        "rebuild-placeholder": "python .ci/rebuild-placeholder.py"
+        "rebuild-placeholder": "python .ci/rebuild-placeholder.py",
+        "remove-json-comments": "python .ci/remove-json-comments.py"
     }
 }

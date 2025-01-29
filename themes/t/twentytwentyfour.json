@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "type": "theme",
   "name": "Twenty Twenty Four",
   "slug": "twentytwentyfour",
   "author": "WordPress.org",
@@ -7,7 +8,7 @@
   "sections": {
     "description": "Twenty Twenty-Four is a clean and modern theme that lets you build unique and beautiful designs with patterns. The theme is built with a Block theme framework, making it highly customizable and flexible for creating stunning websites. With its minimalist design and focus on Block Editor compatibility, Twenty Twenty-Four is perfect for blogs, portfolios, business sites, and more.",
     "installation": "",
-    "changelog": ""
+    "changelog": "https://themes.trac.wordpress.org/log/twentytwentyfour"
   },
   "banners": {
     "low": "",
@@ -17,19 +18,18 @@
     "low": "",
     "high": ""
   },
-  "type": "theme",
-  "wp-meta": false,
-  "free": true,
-  "paid_features": false,
-  "date_added": "2024-10-04",
   "homepage": "https://wordpress.org/themes/twentytwentyfour/",
-  "repository": "https://github.com/WordPress/twentytwentyfour",
-  "tags": "https://api.github.com/repos/WordPress/twentytwentyfour/tags",
-  "update_from": "main",
   "readme_md": "https://raw.githubusercontent.com/WordPress/twentytwentyfour/trunk/README.md",
   "readme_txt": "https://raw.githubusercontent.com/WordPress/twentytwentyfour/trunk/readme.txt",
-  "changelog": "https://themes.trac.wordpress.org/log/twentytwentyfour",
   "unrepress-meta": {
+    "wp-meta": false,
+    "free": true,
+    "paid_features": false,
+    "date_added": "2024-10-04",
+    "repository": "https://github.com/WordPress/twentytwentyfour",
+    "tags": "https://api.github.com/repos/WordPress/twentytwentyfour/tags",
+    "update_from": "main",
+    "abandoned": false,
     "taken-down": false,
     "vulnerable": false
   }

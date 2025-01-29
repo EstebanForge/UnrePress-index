@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "type": "plugin",
   "name": "WP-Crontrol",
   "slug": "wp-crontrol",
   "author": "John Blackbourn",
@@ -17,18 +18,18 @@
     "low": "",
     "high": ""
   },
-  "type": "plugin",
-  "wp-meta": false,
-  "free": true,
-  "paid_features": false,
-  "date_added": "2025-01-25",
   "homepage": "https://wp-crontrol.com",
-  "repository": "https://github.com/johnbillion/wp-crontrol",
-  "tags": "https://api.github.com/repos/johnbillion/wp-crontrol/tags",
-  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/johnbillion/wp-crontrol/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/johnbillion/wp-crontrol/master/readme.txt",
   "unrepress-meta": {
+    "wp-meta": false,
+    "free": true,
+    "paid_features": false,
+    "date_added": "2025-01-25",
+    "repository": "https://github.com/johnbillion/wp-crontrol",
+    "tags": "https://api.github.com/repos/johnbillion/wp-crontrol/tags",
+    "update_from": "tags",
+    "abandoned": false,
     "taken-down": false,
     "vulnerable": false
   }
