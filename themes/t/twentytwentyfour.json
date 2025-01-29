@@ -4,7 +4,7 @@
   "name": "Twenty Twenty Four",
   "slug": "twentytwentyfour",
   "author": "WordPress.org",
-  "author_profile": "https://wordpress.org/",
+  "author_url": "https://wordpress.org/",
   "sections": {
     "description": "Twenty Twenty-Four is a clean and modern theme that lets you build unique and beautiful designs with patterns. The theme is built with a Block theme framework, making it highly customizable and flexible for creating stunning websites. With its minimalist design and focus on Block Editor compatibility, Twenty Twenty-Four is perfect for blogs, portfolios, business sites, and more.",
     "installation": "",

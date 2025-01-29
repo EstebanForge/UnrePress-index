@@ -4,7 +4,7 @@
   "name": "The SEO Framework",
   "slug": "autodescription",
   "author": "Sybre Waaijer",
-  "author_profile": "https://github.com/sybrew",
+  "author_url": "https://github.com/sybrew",
   "sections": {
     "description": "The fastest and only feature-complete SEO plugin that follows the guidelines and rules imposed by WordPress and search engines. Start using proven SEO tactics to improve your website’s ranking. Clean, dedicated, extensible, unrestricted, ad-free, and no strings attached.",
     "installation": "Install The SEO Framework either via your WordPress dashboard using plugin search or by uploading the files to your server.\nEither network-activate this plugin or activate it on a single site.\nThat's it! The plugin now improves your website with SEO. It also protects your website against SEO attacks.",

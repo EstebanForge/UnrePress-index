@@ -4,7 +4,7 @@
   "name": "", // Theme name
   "slug": "", // Theme slug: sanitize_title_with_dashes(name)
   "author": "", // Author name
-  "author_profile": "", // Author profile URL
+  "author_url": "", // Author profile URL
   "sections": {
     "description": "", // Theme description
     "installation": "", // Theme installation instructions

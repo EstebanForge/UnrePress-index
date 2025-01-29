@@ -4,7 +4,7 @@
   "name": "", // Plugin name
   "slug": "", // Plugin slug: sanitize_title_with_dashes(name)
   "author": "", // Author name
-  "author_profile": "", // Author profile URL
+  "author_url": "", // Author profile URL
   "sections": {
     "description": "", // Plugin description
     "installation": "", // Installation instructions

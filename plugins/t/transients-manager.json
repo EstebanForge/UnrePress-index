@@ -4,7 +4,7 @@
   "name": "Transients Manager",
   "slug": "transients-manager",
   "author": "WPBeginner",
-  "author_profile": "https://wpbeginner.com",
+  "author_url": "https://wpbeginner.com",
   "sections": {
     "description": "Provides a familiar interface to view, search, edit, and delete Transients.",
     "installation": "",

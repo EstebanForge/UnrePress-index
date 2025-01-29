@@ -12,7 +12,7 @@
   "changelog": "https://github.com/WordPress/WordPress/tags",
   "description": "The WordPress Core",
   "homepage": "https://github.com/WordPress/WordPress",
-  "author": "WordPress community",
+  "author": "WordPress Community",
   "author_url": "https://github.com/WordPress/WordPress",
   "free": true,
   "paid_features": false,

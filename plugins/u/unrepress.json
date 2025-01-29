@@ -4,7 +4,7 @@
   "name": "UnrePress",
   "slug": "unrepress",
   "author": "Esteban Cuevas",
-  "author_profile": "https://actitud.xyz",
+  "author_url": "https://actitud.xyz",
   "sections": {
     "description": "UnrePress is a WordPress plugin that allows you to update WordPress core and plugins/themes directly from git providers (like GitHub, BitBucket or GitLab), instead of the 'official' WordPress dot org repository.",
     "installation": "",

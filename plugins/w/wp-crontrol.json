@@ -4,7 +4,7 @@
   "name": "WP-Crontrol",
   "slug": "wp-crontrol",
   "author": "John Blackbourn",
-  "author_profile": "https://wp-crontrol.com",
+  "author_url": "https://wp-crontrol.com",
   "sections": {
     "description": "WP Crontrol enables you to take control of the scheduled cron events on your WordPress website or WooCommerce store. From the admin screens you can: View all scheduled cron events along with their arguments, schedule, callback functions, and when they are next due. Edit, delete, pause, resume, and immediately add new cron events. Bulk delete cron events. Add and remove custom cron schedules. Export and download cron event lists as a CSV file. WP Crontrol is aware of timezones, will alert you to events that have no actions or that have missed their schedule, and will show you a helpful warning message if it detects any problems with your cron system.",
     "installation": "",
