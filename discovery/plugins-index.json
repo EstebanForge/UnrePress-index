@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "total": 4,
+  "total": 5,
   "plugins": [
     {
       "slug": "advanced-custom-fields",
@@ -17,6 +17,23 @@
         "intuitive",
         "love",
         "million"
+      ]
+    },
+    {
+      "slug": "autodescription",
+      "name": "The SEO Framework",
+      "description": "The fastest and only feature-complete SEO plugin that follows the guidelines and rules imposed by WordPress and search engines. Start using proven SEO tactics to improve your website\u2019s ranking. Clean, dedicated, extensible, unrestricted, ad-free, and no strings attached.",
+      "tags": [
+        "seo",
+        "attached",
+        "clean",
+        "dedicated",
+        "engine",
+        "extensible",
+        "fastest",
+        "follows",
+        "framework",
+        "guideline"
       ]
     },
     {
