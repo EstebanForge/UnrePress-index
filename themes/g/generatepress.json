@@ -21,8 +21,8 @@
   "homepage": "https://generatepress.com",
   "readme_md": "https://github.com/tomusborne/generatepress/blob/master/README.md",
   "readme_txt": "https://github.com/tomusborne/generatepress/blob/master/readme.txt",
-  "unrepress-meta": {
-    "wp-meta": false,
+  "unrepress_meta": {
+    "wp_meta": false,
     "free": true,
     "paid_features": true,
     "date_added": "2024-12-24",
@@ -30,7 +30,7 @@
     "tags": "https://github.com/tomusborne/generatepress/tags",
     "update_from": "tags",
     "abandoned": false,
-    "taken-down": false,
+    "taken_down": false,
     "vulnerable": false
   }
 }

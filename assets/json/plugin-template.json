@@ -21,8 +21,8 @@
   "homepage": "", // Plugin homepage URL
   "readme_md": "", // Plugin README full URL, in Markdown format
   "readme_txt": "", // Plugin README full URL, in plain text WP format
-  "unrepress-meta": {
-    "wp-meta": false, // True if the repository contains a root .wp-meta/ folder with extra data for UnrePress
+  "unrepress_meta": {
+    "wp_meta": false, // True if the repository contains a root .wp-meta/ folder with extra data for UnrePress
     "free": true, // Free plugin. False if it's paid only
     "paid_features": false, // Has paid features, beside the free ones
     "date_added": "2024-12-23", // Date when the plugin was added to UnrePress Index
@@ -30,7 +30,7 @@
     "tags": "", // Plugin tags full URL
     "update_from": "tags", // For now, fixed to "tags"
     "abandoned": false, // If the plugin is abandoned
-    "taken-down": false, // If the plugin is taken down by the author
+    "taken_down": false, // If the plugin is taken down by the author
     "vulnerable": false // If the plugin has any known vulnerabilities
   }
 }

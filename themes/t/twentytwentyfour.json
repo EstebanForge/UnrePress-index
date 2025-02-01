@@ -21,8 +21,8 @@
   "homepage": "https://wordpress.org/themes/twentytwentyfour/",
   "readme_md": "https://raw.githubusercontent.com/WordPress/twentytwentyfour/trunk/README.md",
   "readme_txt": "https://raw.githubusercontent.com/WordPress/twentytwentyfour/trunk/readme.txt",
-  "unrepress-meta": {
-    "wp-meta": false,
+  "unrepress_meta": {
+    "wp_meta": false,
     "free": true,
     "paid_features": false,
     "date_added": "2024-10-04",
@@ -30,7 +30,7 @@
     "tags": "https://api.github.com/repos/WordPress/twentytwentyfour/tags",
     "update_from": "main",
     "abandoned": false,
-    "taken-down": false,
+    "taken_down": false,
     "vulnerable": false
   }
 }

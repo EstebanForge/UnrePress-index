@@ -2,7 +2,7 @@
   "slug": "wordpress-core",
   "name": "WordPress Core",
   "type": "core",
-  "wp-meta": false,
+  "wp_meta": false,
   "date_added": "2024-10-04",
   "repository": "https://github.com/WordPress/WordPress/",
   "tags": "https://api.github.com/repos/wordpress/wordpress/tags",

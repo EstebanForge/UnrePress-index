@@ -21,8 +21,8 @@
   "homepage": "https://github.com/awesomemotive/Transients-Manager",
   "readme_md": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/awesomemotive/Transients-Manager/master/readme.txt",
-  "unrepress-meta": {
-    "wp-meta": false,
+  "unrepress_meta": {
+    "wp_meta": false,
     "free": true,
     "paid_features": false,
     "date_added": "2024-12-23",
@@ -30,7 +30,7 @@
     "tags": "https://api.github.com/repos/awesomemotive/Transients-Manager/tags",
     "update_from": "tags",
     "abandoned": false,
-    "taken-down": false,
+    "taken_down": false,
     "vulnerable": false
   }
 }

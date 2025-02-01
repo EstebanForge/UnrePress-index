@@ -21,8 +21,8 @@
   "homepage": "https://unrepress.org",
   "readme_md": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/README.md",
   "readme_txt": "https://raw.githubusercontent.com/EstebanForge/UnrePress/master/readme.txt",
-  "unrepress-meta": {
-    "wp-meta": false,
+  "unrepress_meta": {
+    "wp_meta": false,
     "free": true,
     "paid_features": false,
     "date_added": "2024-10-04",
@@ -30,7 +30,7 @@
     "tags": "https://api.github.com/repos/EstebanForge/UnrePress/tags",
     "update_from": "tags",
     "abandoned": false,
-    "taken-down": false,
+    "taken_down": false,
     "vulnerable": false
   }
 }
