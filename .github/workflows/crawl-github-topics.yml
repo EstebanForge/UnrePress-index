@@ -1,0 +1,48 @@
+name: Crawl GitHub topics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-github-topics
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl
+        env:
+          # A PAT secret lifts the 1000 req/hr repo limit to 5000; built-in token works either way.
+          GITHUB_TOKEN: ${{ secrets.CRAWL_GITHUB_TOKEN || github.token }}
+        run: python .ci/crawl-github-topics.py
+
+      - name: Detect changes
+        id: changed
+        run: |
+          count=$(git status --porcelain -- discovery/github-plugins.json discovery/github-themes.json .ci/github-crawl-state.json | wc -l)
+          echo "changed=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Commit catalogs
+        if: steps.changed.outputs.changed != '0'
+        run: |
+          git config user.name "unrepress-index-bot"
+          git config user.email "esteban@attitude.cl"
+          git add -- discovery/github-plugins.json discovery/github-themes.json .ci/github-crawl-state.json
+          git commit -m "index update"
+          # github.token pushes never retrigger workflows; the crawl PAT is never used here.
+          git push "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
