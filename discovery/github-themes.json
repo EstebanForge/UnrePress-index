@@ -1,19 +1,14 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-01T12:38:33Z",
+ "generated_at": "2026-10-02T11:42:49Z",
  "truncated": false,
  "themes": [
   {
-   "slug": "solstice23--argon-theme",
-   "name": "argon",
-   "version": "1.3.5",
    "author": "<a href=\"https://github.com/solstice23\">solstice23</a>",
    "author_profile": "https://github.com/solstice23",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "download_url": "https://github.com/solstice23/argon-theme/releases/download/v1.3.5/argon.zip",
    "homepage": "https://github.com/solstice23/argon-theme",
@@ -21,6 +16,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-07-21 23:40:29",
+   "name": "argon",
+   "provider": "github",
+   "pushed_at": "2026-07-21T23:40:29Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
+   "slug": "solstice23--argon-theme",
+   "stars": 5591,
    "tags": [
     "argon",
     "argon-theme",
@@ -29,25 +32,17 @@
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 5589,
-   "pushed_at": "2026-07-21T23:40:29Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.5"
   },
   {
-   "slug": "mirai-mamori--Sakurairo",
-   "name": "Sakurairo",
-   "version": "3.0.10",
    "author": "<a href=\"https://github.com/mirai-mamori\">mirai-mamori</a>",
    "author_profile": "https://github.com/mirai-mamori",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura. 一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。",
    "download_url": "https://codeload.github.com/mirai-mamori/Sakurairo/zip/refs/tags/3.0.10",
    "homepage": "https://github.com/mirai-mamori/Sakurairo",
@@ -55,6 +50,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-26 08:21:34",
+   "name": "Sakurairo",
+   "provider": "github",
+   "pushed_at": "2026-09-26T08:21:34Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
+   "slug": "mirai-mamori--Sakurairo",
+   "stars": 4074,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -68,25 +71,17 @@
     "well-rounded",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 4072,
-   "pushed_at": "2026-09-26T08:21:34Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "3.0.10"
   },
   {
-   "slug": "afragen--git-updater",
-   "name": "Git Updater",
-   "version": "14.4.2",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "requires": "5.9",
-   "tested": "6.7",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "build": "release-asset",
+   "default_branch": "develop",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "download_url": "https://github.com/afragen/git-updater/releases/download/14.4.2/git-updater-14.4.2.zip",
    "homepage": "https://github.com/afragen/git-updater",
@@ -94,31 +89,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-13 01:08:44",
+   "name": "Git Updater",
+   "provider": "github",
+   "pushed_at": "2026-09-13T01:08:44Z",
+   "requires": "5.9",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "slug": "afragen--git-updater",
+   "stars": 3319,
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 3319,
-   "pushed_at": "2026-09-13T01:08:44Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "develop"
+   "version": "14.4.2"
   },
   {
-   "slug": "Licoy--wordpress-theme-puock",
-   "name": "Puock",
-   "version": "2.11.0",
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
    "author_profile": "https://github.com/Licoy",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.",
    "download_url": "https://github.com/Licoy/wordpress-theme-puock/releases/download/v2.11.0/Puock-V2.11.0.zip",
    "homepage": "https://github.com/Licoy/wordpress-theme-puock",
@@ -126,6 +121,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-11 01:13:04",
+   "name": "Puock",
+   "provider": "github",
+   "pushed_at": "2026-09-11T01:13:04Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
+   "slug": "Licoy--wordpress-theme-puock",
+   "stars": 2974,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -146,25 +149,17 @@
     "wordpress",
     "wp"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 2974,
-   "pushed_at": "2026-09-11T01:13:04Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.11.0"
   },
   {
-   "slug": "owen0o0--WebStack",
-   "name": "WebStack",
-   "version": "1.2024.0",
    "author": "<a href=\"https://github.com/owen0o0\">owen0o0</a>",
    "author_profile": "https://github.com/owen0o0",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "download_url": "https://codeload.github.com/owen0o0/WebStack/zip/refs/tags/1.2024",
    "homepage": "https://github.com/owen0o0/WebStack",
@@ -172,6 +167,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-04-01 07:24:24",
+   "name": "WebStack",
+   "provider": "github",
+   "pushed_at": "2025-04-01T07:24:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
+   "slug": "owen0o0--WebStack",
+   "stars": 2479,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -183,25 +186,17 @@
     "wordpress",
     "wordpress-webstack"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 2479,
-   "pushed_at": "2025-04-01T07:24:24Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.2024.0"
   },
   {
-   "slug": "imranhsayed--aquila",
-   "name": "Aquila",
-   "version": "1.0.0",
    "author": "<a href=\"https://github.com/imranhsayed\">imranhsayed</a>",
    "author_profile": "https://github.com/imranhsayed",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "🎨 An Advanced WordPress theme",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "🎨 An Advanced WordPress theme",
    "download_url": "https://codeload.github.com/imranhsayed/aquila/zip/refs/tags/v1.0",
    "homepage": "https://github.com/imranhsayed/aquila",
@@ -209,6 +204,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-03-31 02:47:46",
+   "name": "Aquila",
+   "provider": "github",
+   "pushed_at": "2024-03-31T02:47:46Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎨 An Advanced WordPress theme",
+   "slug": "imranhsayed--aquila",
+   "stars": 1057,
    "tags": [
     "advanced-wordpress-theme-devlopment",
     "babel",
@@ -221,25 +224,17 @@
     "wordpress-development",
     "wordpress-theme-development"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 1057,
-   "pushed_at": "2024-03-31T02:47:46Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.0.0"
   },
   {
-   "slug": "yrccondor--mdx",
-   "name": "MDx",
-   "version": "2.0.4",
    "author": "<a href=\"https://github.com/yrccondor\">yrccondor</a>",
    "author_profile": "https://github.com/yrccondor",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "MDx - Material Design WordPress Theme",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "MDx - Material Design WordPress Theme",
    "download_url": "https://github.com/yrccondor/mdx/releases/download/V2.0.4/mdx.zip",
    "homepage": "https://github.com/yrccondor/mdx",
@@ -247,29 +242,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-11-15 13:53:12",
+   "name": "MDx",
+   "provider": "github",
+   "pushed_at": "2024-11-15T13:53:12Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "MDx - Material Design WordPress Theme",
+   "slug": "yrccondor--mdx",
+   "stars": 1012,
    "tags": [
     "material-design",
     "php"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 1012,
-   "pushed_at": "2024-11-15T13:53:12Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.0.4"
   },
   {
-   "slug": "JeremyEnglert--JointsWP",
-   "name": "JointsWP - Sass",
-   "version": "5.0.0",
    "author": "<a href=\"https://github.com/JeremyEnglert\">JeremyEnglert</a>",
    "author_profile": "https://github.com/JeremyEnglert",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "**ARCHIVED**: A blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly web",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "**ARCHIVED**: A blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly websites without having to start from scratch.",
    "download_url": "https://codeload.github.com/JeremyEnglert/JointsWP/zip/refs/tags/5.0",
    "homepage": "https://github.com/JeremyEnglert/JointsWP",
@@ -277,28 +272,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-06-23 04:15:38",
+   "name": "JointsWP - Sass",
+   "provider": "github",
+   "pushed_at": "2026-06-23T04:15:38Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "**ARCHIVED**: A blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly web",
+   "slug": "JeremyEnglert--JointsWP",
+   "stars": 840,
    "tags": [
     "blank-wordpress-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 840,
-   "pushed_at": "2026-06-23T04:15:38Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "5.0.0"
   },
   {
-   "slug": "wpengine--frost",
-   "name": "Frost",
-   "version": "1.0.10",
    "author": "<a href=\"https://github.com/wpengine\">wpengine</a>",
    "author_profile": "https://github.com/wpengine",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "The ultimate WordPress block theme for website designers and developers.",
+   "build": "release-asset",
+   "default_branch": "trunk",
    "description": "The ultimate WordPress block theme for website designers and developers.",
    "download_url": "https://github.com/wpengine/frost/releases/download/v1.0.10/frost.zip",
    "homepage": "https://github.com/wpengine/frost",
@@ -306,31 +301,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-12-15 16:52:54",
+   "name": "Frost",
+   "provider": "github",
+   "pushed_at": "2025-12-15T16:52:54Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "The ultimate WordPress block theme for website designers and developers.",
+   "slug": "wpengine--frost",
+   "stars": 632,
    "tags": [
     "block-theme",
     "wordpress",
     "wordpress-block-theme",
     "wordpress-themes"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 632,
-   "pushed_at": "2025-12-15T16:52:54Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "trunk"
+   "version": "1.0.10"
   },
   {
-   "slug": "presscustomizr--hueman",
-   "name": "Hueman",
-   "version": "3.7.27",
    "author": "<a href=\"https://github.com/presscustomizr\">presscustomizr</a>",
    "author_profile": "https://github.com/presscustomizr",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Hueman WordPress theme is one of the best rated theme for blogs and magazines on WordPress.org. Powers 70k+ websites around the world.",
+   "build": "release-asset",
+   "default_branch": "dev",
    "description": "Hueman WordPress theme is one of the best rated theme for blogs and magazines on WordPress.org. Powers 70k+ websites around the world.",
    "download_url": "https://github.com/presscustomizr/hueman/releases/download/v3.7.27/hueman.zip",
    "homepage": "https://github.com/presscustomizr/hueman",
@@ -338,6 +333,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-12-18 07:40:42",
+   "name": "Hueman",
+   "provider": "github",
+   "pushed_at": "2024-12-18T07:40:42Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Hueman WordPress theme is one of the best rated theme for blogs and magazines on WordPress.org. Powers 70k+ websites around the world.",
+   "slug": "presscustomizr--hueman",
+   "stars": 574,
    "tags": [
     "free-software",
     "gplv3",
@@ -346,25 +349,17 @@
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 574,
-   "pushed_at": "2024-12-18T07:40:42Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "dev"
+   "version": "3.7.27"
   },
   {
-   "slug": "ttttonyhe--tony",
-   "name": "Tony",
-   "version": "4.382.0",
    "author": "<a href=\"https://github.com/ttttonyhe\">ttttonyhe</a>",
    "author_profile": "https://github.com/ttttonyhe",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "World's first WordPress theme with a decoupled frontend — served entirely through the WP REST API, powered by Vue",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "World's first WordPress theme with a decoupled frontend — served entirely through the WP REST API, powered by Vue",
    "download_url": "https://codeload.github.com/ttttonyhe/tony/zip/refs/tags/v4.382",
    "homepage": "https://github.com/ttttonyhe/tony",
@@ -372,6 +367,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2022-07-05 16:24:23",
+   "name": "Tony",
+   "provider": "github",
+   "pushed_at": "2022-07-05T16:24:23Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "World's first WordPress theme with a decoupled frontend — served entirely through the WP REST API, powered by Vue",
+   "slug": "ttttonyhe--tony",
+   "stars": 566,
    "tags": [
     "blog-theme",
     "bootstrap4",
@@ -393,25 +396,17 @@
     "wordpress-api",
     "wordpress-rest-api"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 566,
-   "pushed_at": "2022-07-05T16:24:23Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "4.382.0"
   },
   {
-   "slug": "ColorlibHQ--Sparkling",
-   "name": "Sparkling",
-   "version": "2.6.10",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free responsive WordPress blog, business and WooCommerce theme built on Bootstrap — full-width slider, four sidebar layouts and dozens of live Customi",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free responsive WordPress blog, business and WooCommerce theme built on Bootstrap — full-width slider, four sidebar layouts and dozens of live Customizer options.",
    "download_url": "https://github.com/ColorlibHQ/Sparkling/releases/download/v2.6.10/sparkling.zip",
    "homepage": "https://github.com/ColorlibHQ/Sparkling",
@@ -419,6 +414,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-24 13:49:37",
+   "name": "Sparkling",
+   "provider": "github",
+   "pushed_at": "2026-09-24T13:49:37Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free responsive WordPress blog, business and WooCommerce theme built on Bootstrap — full-width slider, four sidebar layouts and dozens of live Customi",
+   "slug": "ColorlibHQ--Sparkling",
+   "stars": 430,
    "tags": [
     "blog-theme",
     "bootstrap",
@@ -434,25 +437,17 @@
     "wordpress",
     "wordpress-customizer"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 430,
-   "pushed_at": "2026-09-24T13:49:37Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.6.10"
   },
   {
-   "slug": "syfxlin--origami",
-   "name": "Origami",
-   "version": "2.2.10",
    "author": "<a href=\"https://github.com/syfxlin\">syfxlin</a>",
    "author_profile": "https://github.com/syfxlin",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
    "download_url": "https://github.com/syfxlin/origami/releases/download/v2.2.10/Origami-2.2.10.zip",
    "homepage": "https://github.com/syfxlin/origami",
@@ -460,30 +455,30 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2020-08-05 04:05:42",
+   "name": "Origami",
+   "provider": "github",
+   "pushed_at": "2020-08-05T04:05:42Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
+   "slug": "syfxlin--origami",
+   "stars": 402,
    "tags": [
     "origami",
     "php",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 402,
-   "pushed_at": "2020-08-05T04:05:42Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.2.10"
   },
   {
-   "slug": "blonestar--wp-theme-vite-tailwind",
-   "name": "Vite & Tailwindcss Boilerplate",
-   "version": "0.4.1",
    "author": "<a href=\"https://github.com/blonestar\">blonestar</a>",
    "author_profile": "https://github.com/blonestar",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Wordpress + ViteJS + TailwindCSS development example theme, similar to Tailpress but without additional code added",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Wordpress + ViteJS + TailwindCSS development example theme, similar to Tailpress but without additional code added",
    "download_url": "https://codeload.github.com/blonestar/wp-theme-vite-tailwind/zip/refs/tags/v0.4.1",
    "homepage": "https://github.com/blonestar/wp-theme-vite-tailwind",
@@ -491,6 +486,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-06-12 08:06:01",
+   "name": "Vite & Tailwindcss Boilerplate",
+   "provider": "github",
+   "pushed_at": "2024-06-12T08:06:01Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Wordpress + ViteJS + TailwindCSS development example theme, similar to Tailpress but without additional code added",
+   "slug": "blonestar--wp-theme-vite-tailwind",
+   "stars": 353,
    "tags": [
     "tailpress",
     "tailwind",
@@ -499,25 +502,17 @@
     "vitejs",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 353,
-   "pushed_at": "2024-06-12T08:06:01Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "0.4.1"
   },
   {
-   "slug": "friend-nicen--theme-document",
-   "name": "Document",
-   "version": "1.2.108",
    "author": "<a href=\"https://github.com/friend-nicen\">friend-nicen</a>",
    "author_profile": "https://github.com/friend-nicen",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "download_url": "https://codeload.github.com/friend-nicen/theme-document/zip/refs/tags/1.2.108",
    "homepage": "https://github.com/friend-nicen/theme-document",
@@ -525,28 +520,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-07-25 08:43:50",
+   "name": "Document",
+   "provider": "github",
+   "pushed_at": "2025-07-25T08:43:50Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
+   "slug": "friend-nicen--theme-document",
+   "stars": 348,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 348,
-   "pushed_at": "2025-07-25T08:43:50Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.2.108"
   },
   {
-   "slug": "bigfa--Farallon",
-   "name": "Farallon",
-   "version": "0.9.3",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "📓 single column wordpress theme",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "📓 single column wordpress theme",
    "download_url": "https://codeload.github.com/bigfa/Farallon/zip/refs/tags/v0.9.3",
    "homepage": "https://github.com/bigfa/Farallon",
@@ -554,26 +549,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-08-05 15:59:28",
+   "name": "Farallon",
+   "provider": "github",
+   "pushed_at": "2025-08-05T15:59:28Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "📓 single column wordpress theme",
+   "slug": "bigfa--Farallon",
+   "stars": 246,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 246,
-   "pushed_at": "2025-08-05T15:59:28Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "0.9.3"
   },
   {
-   "slug": "puikinsh--Dazzling",
-   "name": "Dazzling",
-   "version": "2.2.8",
    "author": "<a href=\"https://github.com/puikinsh\">puikinsh</a>",
    "author_profile": "https://github.com/puikinsh",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free, responsive flat design WordPress theme with WooCommerce and Jigoshop support, built on Bootstrap 3. Over 600,000 downloads on WordPress.org.",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free, responsive flat design WordPress theme with WooCommerce and Jigoshop support, built on Bootstrap 3. Over 600,000 downloads on WordPress.org.",
    "download_url": "https://github.com/puikinsh/Dazzling/releases/download/v2.2.8/dazzling.zip",
    "homepage": "https://github.com/puikinsh/Dazzling",
@@ -581,6 +576,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-17 10:51:35",
+   "name": "Dazzling",
+   "provider": "github",
+   "pushed_at": "2026-09-17T10:51:35Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free, responsive flat design WordPress theme with WooCommerce and Jigoshop support, built on Bootstrap 3. Over 600,000 downloads on WordPress.org.",
+   "slug": "puikinsh--Dazzling",
+   "stars": 196,
    "tags": [
     "blog",
     "blog-theme",
@@ -602,25 +605,17 @@
     "woocommerce-theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 196,
-   "pushed_at": "2026-09-17T10:51:35Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.2.8"
   },
   {
-   "slug": "Tetrakern--fictioneer",
-   "name": "Fictioneer",
-   "version": "5.35.3",
    "author": "<a href=\"https://github.com/Tetrakern\">Tetrakern</a>",
    "author_profile": "https://github.com/Tetrakern",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A web fiction theme for WordPress.",
+   "build": "release-asset",
+   "default_branch": "main",
    "description": "A web fiction theme for WordPress.",
    "download_url": "https://github.com/Tetrakern/fictioneer/releases/download/v5.35.3/fictioneer-v5.35.3.zip",
    "homepage": "https://github.com/Tetrakern/fictioneer",
@@ -628,6 +623,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-08-25 19:31:23",
+   "name": "Fictioneer",
+   "provider": "github",
+   "pushed_at": "2026-08-25T19:31:23Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A web fiction theme for WordPress.",
+   "slug": "Tetrakern--fictioneer",
+   "stars": 188,
    "tags": [
     "creative-writing",
     "epub",
@@ -641,14 +644,11 @@
     "webnovel",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 188,
-   "pushed_at": "2026-08-25T19:31:23Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "main"
+   "version": "5.35.3"
   },
   {
    "slug": "michaelliunsky--niRvana-theme",
@@ -666,7 +666,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-01 07:12:43",
+   "last_updated": "2026-10-02 03:02:17",
    "tags": [
     "ajax",
     "nirvana",
@@ -678,21 +678,16 @@
     "wordpress-theme"
    ],
    "stars": 175,
-   "pushed_at": "2026-10-01T07:12:43Z",
+   "pushed_at": "2026-10-02T03:02:17Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "main"
   },
   {
-   "slug": "bigfa--Puma",
-   "name": "Puma",
-   "version": "6.0.2",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "✍️ single column wordpress theme",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "✍️ single column wordpress theme",
    "download_url": "https://codeload.github.com/bigfa/Puma/zip/refs/tags/v6.0.2",
    "homepage": "https://github.com/bigfa/Puma",
@@ -700,26 +695,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-08-26 03:30:50",
+   "name": "Puma",
+   "provider": "github",
+   "pushed_at": "2025-08-26T03:30:50Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "✍️ single column wordpress theme",
+   "slug": "bigfa--Puma",
+   "stars": 168,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 168,
-   "pushed_at": "2025-08-26T03:30:50Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "6.0.2"
   },
   {
-   "slug": "ColorlibHQ--Activello",
-   "name": "Activello",
-   "version": "1.6.2",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WordPress Bootstrap blog theme with doeznes of options using WordPress Customizer",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "WordPress Bootstrap blog theme with doeznes of options using WordPress Customizer",
    "download_url": "https://github.com/ColorlibHQ/Activello/releases/download/v1.6.2/activello.zip",
    "homepage": "https://github.com/ColorlibHQ/Activello",
@@ -727,28 +722,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-29 13:21:07",
+   "name": "Activello",
+   "provider": "github",
+   "pushed_at": "2026-09-29T13:21:07Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Bootstrap blog theme with doeznes of options using WordPress Customizer",
+   "slug": "ColorlibHQ--Activello",
+   "stars": 163,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 163,
-   "pushed_at": "2026-09-29T13:21:07Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.6.2"
   },
   {
-   "slug": "thewirelessguy--cornerstone",
-   "name": "Cornerstone, for WordPress",
-   "version": "5.3.0",
    "author": "<a href=\"https://github.com/thewirelessguy\">thewirelessguy</a>",
    "author_profile": "https://github.com/thewirelessguy",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Cornerstone is a WordPress starter theme based on the Zurb Foundation Responsive Framework. Cornerstone aims to provide a lightweight starter theme th",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Cornerstone is a WordPress starter theme based on the Zurb Foundation Responsive Framework. Cornerstone aims to provide a lightweight starter theme that is responsive and SEO friendly that web designers can build great looking websites on.",
    "download_url": "https://codeload.github.com/thewirelessguy/cornerstone/zip/refs/tags/5.3.0",
    "homepage": "https://github.com/thewirelessguy/cornerstone",
@@ -756,6 +751,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2021-02-11 15:29:09",
+   "name": "Cornerstone, for WordPress",
+   "provider": "github",
+   "pushed_at": "2021-02-11T15:29:09Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Cornerstone is a WordPress starter theme based on the Zurb Foundation Responsive Framework. Cornerstone aims to provide a lightweight starter theme th",
+   "slug": "thewirelessguy--cornerstone",
+   "stars": 153,
    "tags": [
     "css",
     "foundation",
@@ -763,25 +766,17 @@
     "wordpress",
     "zurb"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 153,
-   "pushed_at": "2021-02-11T15:29:09Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "5.3.0"
   },
   {
-   "slug": "presscustomizr--customizr",
-   "name": "Customizr",
-   "version": "4.4.24",
    "author": "<a href=\"https://github.com/presscustomizr\">presscustomizr</a>",
    "author_profile": "https://github.com/presscustomizr",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Simple and fast WordPress theme designed to help you attract and engage more visitors. Provides a perfect user experience on smartphones. Powers 100k+",
+   "build": "release-asset",
+   "default_branch": "dev",
    "description": "Simple and fast WordPress theme designed to help you attract and engage more visitors. Provides a perfect user experience on smartphones. Powers 100k+ active sites around the world. Hundreds of 5-stars reviews received on WordPress.org.",
    "download_url": "https://github.com/presscustomizr/customizr/releases/download/v4.4.24/customizr.zip",
    "homepage": "https://github.com/presscustomizr/customizr",
@@ -789,6 +784,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-12-11 06:29:57",
+   "name": "Customizr",
+   "provider": "github",
+   "pushed_at": "2024-12-11T06:29:57Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Simple and fast WordPress theme designed to help you attract and engage more visitors. Provides a perfect user experience on smartphones. Powers 100k+",
+   "slug": "presscustomizr--customizr",
+   "stars": 139,
    "tags": [
     "customizer",
     "gplv2",
@@ -796,25 +799,17 @@
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 139,
-   "pushed_at": "2024-12-11T06:29:57Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "dev"
+   "version": "4.4.24"
   },
   {
-   "slug": "VisualComposer--visual-composer-starter",
-   "name": "Visual Composer Starter",
-   "version": "1.3.0",
    "author": "<a href=\"https://github.com/VisualComposer\">VisualComposer</a>",
    "author_profile": "https://github.com/VisualComposer",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Visual Composer Starter theme for WordPress designed to be a perfect companion for a simple and good looking website or blog.",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Visual Composer Starter theme for WordPress designed to be a perfect companion for a simple and good looking website or blog.",
    "download_url": "https://github.com/VisualComposer/visual-composer-starter/releases/download/1.3/visual-composer-starter.zip",
    "homepage": "https://github.com/VisualComposer/visual-composer-starter",
@@ -822,30 +817,30 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-08-27 11:24:39",
+   "name": "Visual Composer Starter",
+   "provider": "github",
+   "pushed_at": "2024-08-27T11:24:39Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Visual Composer Starter theme for WordPress designed to be a perfect companion for a simple and good looking website or blog.",
+   "slug": "VisualComposer--visual-composer-starter",
+   "stars": 132,
    "tags": [
     "gpl",
     "visual-composer",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 132,
-   "pushed_at": "2024-08-27T11:24:39Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.0"
   },
   {
-   "slug": "elmastudio--aino-theme",
-   "name": "Aino",
-   "version": "2.6.6",
    "author": "<a href=\"https://github.com/elmastudio\">elmastudio</a>",
    "author_profile": "https://github.com/elmastudio",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A Gutenberg-ready WordPress theme.",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "A Gutenberg-ready WordPress theme.",
    "download_url": "https://codeload.github.com/elmastudio/aino-theme/zip/refs/tags/2.6.6",
    "homepage": "https://github.com/elmastudio/aino-theme",
@@ -853,31 +848,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-04 12:03:36",
+   "name": "Aino",
+   "provider": "github",
+   "pushed_at": "2026-09-04T12:03:36Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A Gutenberg-ready WordPress theme.",
+   "slug": "elmastudio--aino-theme",
+   "stars": 113,
    "tags": [
     "blocks",
     "design-system",
     "gutenberg",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 113,
-   "pushed_at": "2026-09-04T12:03:36Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "2.6.6"
   },
   {
-   "slug": "joshuaiz--plate",
-   "name": "Plate",
-   "version": "1.4.1",
    "author": "<a href=\"https://github.com/joshuaiz\">joshuaiz</a>",
    "author_profile": "https://github.com/joshuaiz",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Plate: a super stripped-down WordPress starter theme for developers.",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Plate: a super stripped-down WordPress starter theme for developers.",
    "download_url": "https://codeload.github.com/joshuaiz/plate/zip/refs/tags/v1.4.1",
    "homepage": "https://github.com/joshuaiz/plate",
@@ -885,6 +880,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-02-02 05:48:34",
+   "name": "Plate",
+   "provider": "github",
+   "pushed_at": "2024-02-02T05:48:34Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Plate: a super stripped-down WordPress starter theme for developers.",
+   "slug": "joshuaiz--plate",
+   "stars": 108,
    "tags": [
     "acf",
     "acf-ready",
@@ -901,25 +904,17 @@
     "woocommerce-support",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 108,
-   "pushed_at": "2024-02-02T05:48:34Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "1.4.1"
   },
   {
-   "slug": "imjeff--wordpress-dear",
-   "name": "Dear",
-   "version": "1.2.0",
    "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
    "author_profile": "https://github.com/imjeff",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。力求极简，对程序自带功能进行禁用及优化，主题无 ",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。力求极简，对程序自带功能进行禁用及优化，主题无 JS、图片文件引用。",
    "download_url": "https://codeload.github.com/imjeff/wordpress-dear/zip/refs/tags/v1.2.0",
    "homepage": "https://github.com/imjeff/wordpress-dear",
@@ -927,6 +922,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-01-15 07:10:35",
+   "name": "Dear",
+   "provider": "github",
+   "pushed_at": "2025-01-15T07:10:35Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。力求极简，对程序自带功能进行禁用及优化，主题无 ",
+   "slug": "imjeff--wordpress-dear",
+   "stars": 101,
    "tags": [
     "dark-mode",
     "minimal-theme",
@@ -935,25 +938,17 @@
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 101,
-   "pushed_at": "2025-01-15T07:10:35Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.2.0"
   },
   {
-   "slug": "splorp--tersus",
-   "name": "Tersus",
-   "version": "0.4.1",
    "author": "<a href=\"https://github.com/splorp\">splorp</a>",
    "author_profile": "https://github.com/splorp",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "An achingly simple WordPress theme without all the usual cruft.",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "An achingly simple WordPress theme without all the usual cruft.",
    "download_url": "https://codeload.github.com/splorp/tersus/zip/refs/tags/0.4.1",
    "homepage": "https://github.com/splorp/tersus",
@@ -961,29 +956,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-01-03 19:11:13",
+   "name": "Tersus",
+   "provider": "github",
+   "pushed_at": "2024-01-03T19:11:13Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "An achingly simple WordPress theme without all the usual cruft.",
+   "slug": "splorp--tersus",
+   "stars": 94,
    "tags": [
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 94,
-   "pushed_at": "2024-01-03T19:11:13Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "0.4.1"
   },
   {
-   "slug": "jevantang--JieStyle-Two",
-   "name": "JieStyle Two",
-   "version": "2.6.3",
    "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
    "author_profile": "https://github.com/jevantang",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "WordPress Themes",
    "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
    "homepage": "https://github.com/jevantang/JieStyle-Two",
@@ -991,28 +986,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 90,
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.6.3"
   },
   {
-   "slug": "TheYahya--thewhite",
-   "name": "The White",
-   "version": "2.0.0",
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": ":black_nib: It's a minimal and light wordpress blog theme :art:",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": ":black_nib: It's a minimal and light wordpress blog theme :art:",
    "download_url": "https://codeload.github.com/TheYahya/thewhite/zip/refs/tags/v2.0",
    "homepage": "https://github.com/TheYahya/thewhite",
@@ -1020,6 +1015,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2020-11-09 05:20:59",
+   "name": "The White",
+   "provider": "github",
+   "pushed_at": "2020-11-09T05:20:59Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": ":black_nib: It's a minimal and light wordpress blog theme :art:",
+   "slug": "TheYahya--thewhite",
+   "stars": 90,
    "tags": [
     "farsi",
     "light",
@@ -1031,25 +1034,17 @@
     "white",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 90,
-   "pushed_at": "2020-11-09T05:20:59Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.0.0"
   },
   {
-   "slug": "saltnpixels--ignition",
-   "name": "Ignition",
-   "version": "4.0.1",
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
    "author_profile": "https://github.com/saltnpixels",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "The Starter Theme that Could",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "The Starter Theme that Could",
    "download_url": "https://codeload.github.com/saltnpixels/ignition/zip/refs/tags/v4.0.1",
    "homepage": "https://github.com/saltnpixels/ignition",
@@ -1057,29 +1052,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2021-06-21 16:02:34",
+   "name": "Ignition",
+   "provider": "github",
+   "pushed_at": "2021-06-21T16:02:34Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "The Starter Theme that Could",
+   "slug": "saltnpixels--ignition",
+   "stars": 75,
    "tags": [
     "starter-theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 75,
-   "pushed_at": "2021-06-21T16:02:34Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "4.0.1"
   },
   {
-   "slug": "sukiwp--suki",
-   "name": "Suki",
-   "version": "1.3.7",
    "author": "<a href=\"https://github.com/sukiwp\">sukiwp</a>",
    "author_profile": "https://github.com/sukiwp",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A flexible and lightweight WordPress theme for blogs, WooCommerce, and other purposes",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "A flexible and lightweight WordPress theme for blogs, WooCommerce, and other purposes",
    "download_url": "https://github.com/sukiwp/suki/releases/download/1.3.7/suki-1.3.7.zip",
    "homepage": "https://github.com/sukiwp/suki",
@@ -1087,6 +1082,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2023-09-06 03:57:04",
+   "name": "Suki",
+   "provider": "github",
+   "pushed_at": "2023-09-06T03:57:04Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A flexible and lightweight WordPress theme for blogs, WooCommerce, and other purposes",
+   "slug": "sukiwp--suki",
+   "stars": 75,
    "tags": [
     "elementor",
     "free-wordpress-theme",
@@ -1094,25 +1097,17 @@
     "woocommerce",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 75,
-   "pushed_at": "2023-09-06T03:57:04Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.7"
   },
   {
-   "slug": "ColorlibHQ--Travelify",
-   "name": "Travelify",
-   "version": "3.1.2",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free responsive WordPress travel and blogging theme — full-width featured post slider, left/right sidebar layouts, WooCommerce ready and a jQuery-free",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free responsive WordPress travel and blogging theme — full-width featured post slider, left/right sidebar layouts, WooCommerce ready and a jQuery-free front end.",
    "download_url": "https://github.com/ColorlibHQ/Travelify/releases/download/v3.1.2/travelify.zip",
    "homepage": "https://github.com/ColorlibHQ/Travelify",
@@ -1120,6 +1115,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-16 19:11:59",
+   "name": "Travelify",
+   "provider": "github",
+   "pushed_at": "2026-09-16T19:11:59Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free responsive WordPress travel and blogging theme — full-width featured post slider, left/right sidebar layouts, WooCommerce ready and a jQuery-free",
+   "slug": "ColorlibHQ--Travelify",
+   "stars": 71,
    "tags": [
     "blog-theme",
     "colorlib",
@@ -1133,25 +1136,17 @@
     "wordpress",
     "wordpress-customizer"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 71,
-   "pushed_at": "2026-09-16T19:11:59Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.1.2"
   },
   {
-   "slug": "siteorigin--vantage",
-   "name": "Vantage",
-   "version": "1.20.33",
    "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
    "author_profile": "https://github.com/siteorigin",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page ",
+   "build": "tag-archive",
+   "default_branch": "develop",
    "description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page layouts, Smart Slider 3 for big beautiful sliders and WooCommerce to help you sell online. Vantage is fully responsive and retina ready. Use it to start a business site, portfolio or online store.",
    "download_url": "https://codeload.github.com/siteorigin/vantage/zip/refs/tags/1.20.33",
    "homepage": "https://github.com/siteorigin/vantage",
@@ -1159,6 +1154,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-16 09:45:40",
+   "name": "Vantage",
+   "provider": "github",
+   "pushed_at": "2026-09-16T09:45:40Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page ",
+   "slug": "siteorigin--vantage",
+   "stars": 70,
    "tags": [
     "jetpack",
     "page-builder",
@@ -1167,25 +1170,17 @@
     "woocommerce-theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 70,
-   "pushed_at": "2026-09-16T09:45:40Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "develop"
+   "version": "1.20.33"
   },
   {
-   "slug": "ColorlibHQ--shapely",
-   "name": "Shapely",
-   "version": "1.3.6",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free multipurpose WordPress theme built using Bootstrap",
    "download_url": "https://github.com/ColorlibHQ/shapely/releases/download/v1.3.6/shapely.zip",
    "homepage": "https://github.com/ColorlibHQ/shapely",
@@ -1193,29 +1188,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-24 13:49:35",
+   "name": "Shapely",
+   "provider": "github",
+   "pushed_at": "2026-09-24T13:49:35Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
+   "slug": "ColorlibHQ--shapely",
+   "stars": 67,
    "tags": [
     "portfolio",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 67,
-   "pushed_at": "2026-09-24T13:49:35Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.6"
   },
   {
-   "slug": "braginteractive--StrapPress",
-   "name": "StrapPress",
-   "version": "4.1.3",
    "author": "<a href=\"https://github.com/braginteractive\">braginteractive</a>",
    "author_profile": "https://github.com/braginteractive",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Bootstrap 4 WordPress Starter Theme that is Gutenberg Compatible",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Bootstrap 4 WordPress Starter Theme that is Gutenberg Compatible",
    "download_url": "https://codeload.github.com/braginteractive/StrapPress/zip/refs/tags/v4.1.3",
    "homepage": "https://github.com/braginteractive/StrapPress",
@@ -1223,6 +1218,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2019-03-27 16:21:19",
+   "name": "StrapPress",
+   "provider": "github",
+   "pushed_at": "2019-03-27T16:21:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Bootstrap 4 WordPress Starter Theme that is Gutenberg Compatible",
+   "slug": "braginteractive--StrapPress",
+   "stars": 56,
    "tags": [
     "bootstrap4",
     "gutenberg",
@@ -1232,25 +1235,17 @@
     "strappress",
     "theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 56,
-   "pushed_at": "2019-03-27T16:21:19Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "4.1.3"
   },
   {
-   "slug": "ItalyStrap--italystrap",
-   "name": "ItalyStrap",
-   "version": "3.0.5",
    "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
    "author_profile": "https://github.com/ItalyStrap",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
    "homepage": "https://github.com/ItalyStrap/italystrap",
@@ -1258,29 +1253,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-03-29 11:53:45",
+   "name": "ItalyStrap",
+   "provider": "github",
+   "pushed_at": "2026-03-29T11:53:45Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "slug": "ItalyStrap--italystrap",
+   "stars": 49,
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 49,
-   "pushed_at": "2026-03-29T11:53:45Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.0.5"
   },
   {
-   "slug": "bigfa--Jaguar",
-   "name": "Jaguar",
-   "version": "3.1.1",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "card wordpress theme",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "card wordpress theme",
    "download_url": "https://codeload.github.com/bigfa/Jaguar/zip/refs/tags/v3.1.1",
    "homepage": "https://github.com/bigfa/Jaguar",
@@ -1288,26 +1283,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-10-23 04:47:24",
+   "name": "Jaguar",
+   "provider": "github",
+   "pushed_at": "2025-10-23T04:47:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "card wordpress theme",
+   "slug": "bigfa--Jaguar",
+   "stars": 49,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 49,
-   "pushed_at": "2025-10-23T04:47:24Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "3.1.1"
   },
   {
-   "slug": "ColorlibHQ--illdy",
-   "name": "Illdy",
-   "version": "2.3.0",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Illdy is a free one page WordPress business theme with a minimal design",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Illdy is a free one page WordPress business theme with a minimal design",
    "download_url": "https://github.com/ColorlibHQ/illdy/releases/download/v2.3.0/illdy.zip",
    "homepage": "https://github.com/ColorlibHQ/illdy",
@@ -1315,28 +1310,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-29 13:25:24",
+   "name": "Illdy",
+   "provider": "github",
+   "pushed_at": "2026-09-29T13:25:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Illdy is a free one page WordPress business theme with a minimal design",
+   "slug": "ColorlibHQ--illdy",
+   "stars": 44,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 44,
-   "pushed_at": "2026-09-29T13:25:24Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.3.0"
   },
   {
-   "slug": "bigfa--hera",
-   "name": "Hera",
-   "version": "0.3.2",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "✏️ wordpress theme for blogger",
+   "build": "tag-archive",
+   "default_branch": "develop",
    "description": "✏️ wordpress theme for blogger",
    "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
    "homepage": "https://github.com/bigfa/hera",
@@ -1344,26 +1339,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-08-07 16:54:14",
+   "name": "Hera",
+   "provider": "github",
+   "pushed_at": "2025-08-07T16:54:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "✏️ wordpress theme for blogger",
+   "slug": "bigfa--hera",
+   "stars": 43,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 43,
-   "pushed_at": "2025-08-07T16:54:14Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "develop"
+   "version": "0.3.2"
   },
   {
-   "slug": "jasewarner--gulp-wordpress",
-   "name": "<Theme_Name>",
-   "version": "2.1.2",
    "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
    "author_profile": "https://github.com/jasewarner",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
    "download_url": "https://codeload.github.com/jasewarner/gulp-wordpress/zip/refs/tags/v2.1.2",
    "homepage": "https://github.com/jasewarner/gulp-wordpress",
@@ -1371,6 +1366,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-08-13 11:25:41",
+   "name": "<Theme_Name>",
+   "provider": "github",
+   "pushed_at": "2026-08-13T11:25:41Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
+   "slug": "jasewarner--gulp-wordpress",
+   "stars": 42,
    "tags": [
     "boilerplate",
     "es6",
@@ -1382,25 +1385,17 @@
     "wordpress-development",
     "wordpress-starter-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 42,
-   "pushed_at": "2026-08-13T11:25:41Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.1.2"
   },
   {
-   "slug": "sdg32--maupassant",
-   "name": "Maupassant",
-   "version": "1.2.0",
    "author": "<a href=\"https://github.com/sdg32\">sdg32</a>",
    "author_profile": "https://github.com/sdg32",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A WordPress Theme ported from the Typecho Theme by Cho.",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "A WordPress Theme ported from the Typecho Theme by Cho.",
    "download_url": "https://github.com/sdg32/maupassant/releases/download/1.2/maupassant.zip",
    "homepage": "https://github.com/sdg32/maupassant",
@@ -1408,28 +1403,28 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2021-01-15 05:13:24",
+   "name": "Maupassant",
+   "provider": "github",
+   "pushed_at": "2021-01-15T05:13:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A WordPress Theme ported from the Typecho Theme by Cho.",
+   "slug": "sdg32--maupassant",
+   "stars": 41,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 41,
-   "pushed_at": "2021-01-15T05:13:24Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.2.0"
   },
   {
-   "slug": "chyvak1831--starter",
-   "name": "starter",
-   "version": "2.0.1",
    "author": "<a href=\"https://github.com/chyvak1831\">chyvak1831</a>",
    "author_profile": "https://github.com/chyvak1831",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Starter Wordpress \\ WooCommerce theme based on bootstrap.",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Starter Wordpress \\ WooCommerce theme based on bootstrap.",
    "download_url": "https://codeload.github.com/chyvak1831/starter/zip/refs/tags/v2.0.1",
    "homepage": "https://github.com/chyvak1831/starter",
@@ -1437,6 +1432,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2022-08-22 10:50:19",
+   "name": "starter",
+   "provider": "github",
+   "pushed_at": "2022-08-22T10:50:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Starter Wordpress \\ WooCommerce theme based on bootstrap.",
+   "slug": "chyvak1831--starter",
+   "stars": 36,
    "tags": [
     "bootstrap",
     "bootstrap5",
@@ -1448,25 +1451,17 @@
     "wordpress",
     "wordpress-starter-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 36,
-   "pushed_at": "2022-08-22T10:50:19Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.0.1"
   },
   {
-   "slug": "pixelgrade--rosa2-lite",
-   "name": "Rosa2 Lite",
-   "version": "1.3.1",
    "author": "<a href=\"https://github.com/pixelgrade\">pixelgrade</a>",
    "author_profile": "https://github.com/pixelgrade",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experience.",
    "download_url": "https://github.com/pixelgrade/rosa2-lite/releases/download/1.3.1/rosa2-lite-1-3-1.zip",
    "homepage": "https://github.com/pixelgrade/rosa2-lite",
@@ -1474,6 +1469,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2022-12-05 05:12:30",
+   "name": "Rosa2 Lite",
+   "provider": "github",
+   "pushed_at": "2022-12-05T05:12:30Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
+   "slug": "pixelgrade--rosa2-lite",
+   "stars": 36,
    "tags": [
     "business-website",
     "gutenberg-compatible",
@@ -1483,25 +1486,17 @@
     "wordpress",
     "wordpress-blocks"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 36,
-   "pushed_at": "2022-12-05T05:12:30Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.1"
   },
   {
-   "slug": "bigfa--Berry",
-   "name": "Berry",
-   "version": "2.2.2",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "🎬 single column wordpress theme",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "🎬 single column wordpress theme",
    "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
    "homepage": "https://github.com/bigfa/Berry",
@@ -1509,26 +1504,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-08-30 12:02:24",
+   "name": "Berry",
+   "provider": "github",
+   "pushed_at": "2025-08-30T12:02:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎬 single column wordpress theme",
+   "slug": "bigfa--Berry",
+   "stars": 33,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 33,
-   "pushed_at": "2025-08-30T12:02:24Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "2.2.2"
   },
   {
-   "slug": "sinanisler--SiForum",
-   "name": "SiForum Theme",
-   "version": "0.40.0",
    "author": "<a href=\"https://github.com/sinanisler\">sinanisler</a>",
    "author_profile": "https://github.com/sinanisler",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Minimalist Forum and Community WordPress Theme",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Minimalist Forum and Community WordPress Theme",
    "download_url": "https://codeload.github.com/sinanisler/SiForum/zip/refs/tags/v0.40.0",
    "homepage": "https://github.com/sinanisler/SiForum",
@@ -1536,31 +1531,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2022-08-24 07:22:06",
+   "name": "SiForum Theme",
+   "provider": "github",
+   "pushed_at": "2022-08-24T07:22:06Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Minimalist Forum and Community WordPress Theme",
+   "slug": "sinanisler--SiForum",
+   "stars": 33,
    "tags": [
     "community-project",
     "forum-software",
     "wordpress",
     "wordpress-development"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 33,
-   "pushed_at": "2022-08-24T07:22:06Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "0.40.0"
   },
   {
-   "slug": "torounit--Aetherium",
-   "name": "Aetherium",
-   "version": "0.0.1",
    "author": "<a href=\"https://github.com/torounit\">torounit</a>",
    "author_profile": "https://github.com/torounit",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A next-generation WordPress theme built with the Rest API and Vue.js .",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "A next-generation WordPress theme built with the Rest API and Vue.js .",
    "download_url": "https://codeload.github.com/torounit/Aetherium/zip/refs/tags/0.0.1",
    "homepage": "https://github.com/torounit/Aetherium",
@@ -1568,29 +1563,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2022-12-10 16:17:50",
+   "name": "Aetherium",
+   "provider": "github",
+   "pushed_at": "2022-12-10T16:17:50Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A next-generation WordPress theme built with the Rest API and Vue.js .",
+   "slug": "torounit--Aetherium",
+   "stars": 32,
    "tags": [
     "spa",
     "vuejs"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 32,
-   "pushed_at": "2022-12-10T16:17:50Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "0.0.1"
   },
   {
-   "slug": "qwqdanchun--win10exp",
-   "name": "win10exp",
-   "version": "1.0.0",
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
    "author_profile": "https://github.com/qwqdanchun",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WordPress win10exp主题",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "WordPress win10exp主题",
    "download_url": "https://github.com/qwqdanchun/win10exp/releases/download/v1.0/win10exp.zip",
    "homepage": "https://github.com/qwqdanchun/win10exp",
@@ -1598,6 +1593,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2021-07-09 02:48:09",
+   "name": "win10exp",
+   "provider": "github",
+   "pushed_at": "2021-07-09T02:48:09Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress win10exp主题",
+   "slug": "qwqdanchun--win10exp",
+   "stars": 32,
    "tags": [
     "explorer",
     "php",
@@ -1605,25 +1608,17 @@
     "win10",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 32,
-   "pushed_at": "2021-07-09T02:48:09Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.0.0"
   },
   {
-   "slug": "blockifywp--theme",
-   "name": "Blockify",
-   "version": "0.3.12",
    "author": "<a href=\"https://github.com/blockifywp\">blockifywp</a>",
    "author_profile": "https://github.com/blockifywp",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Blockify Theme",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Blockify Theme",
    "download_url": "https://codeload.github.com/blockifywp/theme/zip/refs/tags/v0.3.12",
    "homepage": "https://github.com/blockifywp/theme",
@@ -1631,26 +1626,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-01-01 03:37:23",
+   "name": "Blockify",
+   "provider": "github",
+   "pushed_at": "2024-01-01T03:37:23Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Blockify Theme",
+   "slug": "blockifywp--theme",
+   "stars": 31,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 31,
-   "pushed_at": "2024-01-01T03:37:23Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "0.3.12"
   },
   {
-   "slug": "rm-rf-run--Jasmine",
-   "name": "Jasmine",
-   "version": "1.0.0",
    "author": "<a href=\"https://github.com/rm-rf-run\">rm-rf-run</a>",
    "author_profile": "https://github.com/rm-rf-run",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "wordpress二次元主题、三栏、配置化Jasmine主题",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "wordpress二次元主题、三栏、配置化Jasmine主题",
    "download_url": "https://codeload.github.com/rm-rf-run/Jasmine/zip/refs/tags/v1.0.0",
    "homepage": "https://github.com/rm-rf-run/Jasmine",
@@ -1658,30 +1653,30 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-01-15 03:53:13",
+   "name": "Jasmine",
+   "provider": "github",
+   "pushed_at": "2025-01-15T03:53:13Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "wordpress二次元主题、三栏、配置化Jasmine主题",
+   "slug": "rm-rf-run--Jasmine",
+   "stars": 30,
    "tags": [
     "bootstrap-wordpress",
     "jasmine",
     "php"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 30,
-   "pushed_at": "2025-01-15T03:53:13Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.0.0"
   },
   {
-   "slug": "bigfa--Coffin",
-   "name": "Coffin",
-   "version": "2.2.2",
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "a card style wordpress theme",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "a card style wordpress theme",
    "download_url": "https://codeload.github.com/bigfa/Coffin/zip/refs/tags/v2.2.2",
    "homepage": "https://github.com/bigfa/Coffin",
@@ -1689,26 +1684,26 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-08-09 07:31:32",
+   "name": "Coffin",
+   "provider": "github",
+   "pushed_at": "2025-08-09T07:31:32Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "a card style wordpress theme",
+   "slug": "bigfa--Coffin",
+   "stars": 30,
    "tags": [],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 30,
-   "pushed_at": "2025-08-09T07:31:32Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.2.2"
   },
   {
-   "slug": "jdmdigital--bootplate",
-   "name": "Bootplate",
-   "version": "1.9.0",
    "author": "<a href=\"https://github.com/jdmdigital\">jdmdigital</a>",
    "author_profile": "https://github.com/jdmdigital",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Wicked-fast, mobile-first, Bootstrap 4 theme framework for building awesome WordPress websites.",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Wicked-fast, mobile-first, Bootstrap 4 theme framework for building awesome WordPress websites.",
    "download_url": "https://codeload.github.com/jdmdigital/bootplate/zip/refs/tags/1.9",
    "homepage": "https://github.com/jdmdigital/bootplate",
@@ -1716,29 +1711,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2018-04-17 21:39:32",
+   "name": "Bootplate",
+   "provider": "github",
+   "pushed_at": "2018-04-17T21:39:32Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Wicked-fast, mobile-first, Bootstrap 4 theme framework for building awesome WordPress websites.",
+   "slug": "jdmdigital--bootplate",
+   "stars": 29,
    "tags": [
     "bootstrap3",
     "bootstrap4"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 29,
-   "pushed_at": "2018-04-17T21:39:32Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.9.0"
   },
   {
-   "slug": "littlebizzy--hovercraft",
-   "name": "HoverCraft",
-   "version": "0.3.280",
    "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
    "author_profile": "https://github.com/littlebizzy",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "No maintenance WordPress theme",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "No maintenance WordPress theme",
    "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.280",
    "homepage": "https://github.com/littlebizzy/hovercraft",
@@ -1746,6 +1741,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-13 07:52:36",
+   "name": "HoverCraft",
+   "provider": "github",
+   "pushed_at": "2026-09-13T07:52:36Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "No maintenance WordPress theme",
+   "slug": "littlebizzy--hovercraft",
+   "stars": 28,
    "tags": [
     "bbpress",
     "font-awesome",
@@ -1759,25 +1762,17 @@
     "wordpress-customizer",
     "wordpress-menu"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 28,
-   "pushed_at": "2026-09-13T07:52:36Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "0.3.280"
   },
   {
-   "slug": "AvanamOrg--avanam",
-   "name": "Avanam",
-   "version": "1.6.0",
    "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
    "author_profile": "https://github.com/AvanamOrg",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
    "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
    "homepage": "https://github.com/AvanamOrg/avanam",
@@ -1785,31 +1780,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-08-11 11:21:19",
+   "name": "Avanam",
+   "provider": "github",
+   "pushed_at": "2026-08-11T11:21:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "slug": "AvanamOrg--avanam",
+   "stars": 28,
    "tags": [
     "woocommerce",
     "woocommerce-theme",
     "wordpress",
     "wordpress-development"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 28,
-   "pushed_at": "2026-08-11T11:21:19Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "1.6.0"
   },
   {
-   "slug": "vapvarun--buddyx",
-   "name": "BuddyX",
-   "version": "5.1.8",
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
    "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.8/buddyx-5.1.8.zip",
    "homepage": "https://github.com/vapvarun/buddyx",
@@ -1817,6 +1812,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-29 08:09:06",
+   "name": "BuddyX",
+   "provider": "github",
+   "pushed_at": "2026-09-29T08:09:06Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "slug": "vapvarun--buddyx",
+   "stars": 28,
    "tags": [
     "2021",
     "buddyboss-platform",
@@ -1827,25 +1830,17 @@
     "lifterlms",
     "tutorlms"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 28,
-   "pushed_at": "2026-09-29T08:09:06Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "5.1.8"
   },
   {
-   "slug": "christophery--geist",
-   "name": "Geist",
-   "version": "2.0.3",
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
    "author_profile": "https://github.com/christophery",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Casper 2.0 theme for WordPress.",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Casper 2.0 theme for WordPress.",
    "download_url": "https://github.com/christophery/geist/releases/download/2.0.3/geist.zip",
    "homepage": "https://github.com/christophery/geist",
@@ -1853,31 +1848,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2023-04-01 05:13:38",
+   "name": "Geist",
+   "provider": "github",
+   "pushed_at": "2023-04-01T05:13:38Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Casper 2.0 theme for WordPress.",
+   "slug": "christophery--geist",
+   "stars": 28,
    "tags": [
     "blog",
     "casper",
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 28,
-   "pushed_at": "2023-04-01T05:13:38Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.0.3"
   },
   {
-   "slug": "babobski--bootstrap-on-wordpress-theme",
-   "name": "Bootsrap 3.3.7",
-   "version": "1.3.0",
    "author": "<a href=\"https://github.com/babobski\">babobski</a>",
    "author_profile": "https://github.com/babobski",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "a blank bootstrap 3.3.7 ready wordpress theme",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "a blank bootstrap 3.3.7 ready wordpress theme",
    "download_url": "https://github.com/babobski/bootstrap-on-wordpress-theme/releases/download/1.3/Bootstrap-3.3.7-on-WorPress-1.3.zip",
    "homepage": "https://github.com/babobski/bootstrap-on-wordpress-theme",
@@ -1885,29 +1880,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2019-10-03 02:00:37",
+   "name": "Bootsrap 3.3.7",
+   "provider": "github",
+   "pushed_at": "2019-10-03T02:00:37Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "a blank bootstrap 3.3.7 ready wordpress theme",
+   "slug": "babobski--bootstrap-on-wordpress-theme",
+   "stars": 25,
    "tags": [
     "bootstrap3",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 25,
-   "pushed_at": "2019-10-03T02:00:37Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.0"
   },
   {
-   "slug": "Rodgath--dilaz-panel",
-   "name": "Dilaz Panel",
-   "version": "3.0.3",
    "author": "<a href=\"https://github.com/Rodgath\">Rodgath</a>",
    "author_profile": "https://github.com/Rodgath",
-   "requires": "5.0",
-   "tested": "6.7",
-   "requires_php": "7.0",
-   "short_description": "A WordPress plugin that adds an options panel framework for WordPress themes and plugins.",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "A WordPress plugin that adds an options panel framework for WordPress themes and plugins.",
    "download_url": "https://codeload.github.com/Rodgath/dilaz-panel/zip/refs/tags/v3.0.3",
    "homepage": "https://github.com/Rodgath/dilaz-panel",
@@ -1915,6 +1910,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2025-09-19 20:55:15",
+   "name": "Dilaz Panel",
+   "provider": "github",
+   "pushed_at": "2025-09-19T20:55:15Z",
+   "requires": "5.0",
+   "requires_php": "7.0",
+   "short_description": "A WordPress plugin that adds an options panel framework for WordPress themes and plugins.",
+   "slug": "Rodgath--dilaz-panel",
+   "stars": 23,
    "tags": [
     "checkbox",
     "color-picker",
@@ -1933,26 +1936,18 @@
     "wp-theme",
     "wp-theme-settings"
    ],
+   "tested": "6.7",
    "topics": [
     "wp-theme",
     "wordpress-theme"
    ],
-   "stars": 23,
-   "pushed_at": "2025-09-19T20:55:15Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "3.0.3"
   },
   {
-   "slug": "qrac--qroko",
-   "name": "Qroko",
-   "version": "1.0.2",
    "author": "<a href=\"https://github.com/qrac\">qrac</a>",
    "author_profile": "https://github.com/qrac",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WordPress theme for headless CMS",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "WordPress theme for headless CMS",
    "download_url": "https://codeload.github.com/qrac/qroko/zip/refs/tags/1.0.2",
    "homepage": "https://github.com/qrac/qroko",
@@ -1960,18 +1955,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-07-25 23:18:10",
+   "name": "Qroko",
+   "provider": "github",
+   "pushed_at": "2026-07-25T23:18:10Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress theme for headless CMS",
+   "slug": "qrac--qroko",
+   "stars": 23,
    "tags": [
     "headless-cms",
     "headless-wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 23,
-   "pushed_at": "2026-07-25T23:18:10Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.0.2"
   },
   {
    "slug": "JackFurby--Bootscout-theme",
@@ -1989,7 +1989,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-09-17 20:16:15",
+   "last_updated": "2026-10-02 10:35:53",
    "tags": [
     "scouting",
     "uk-scouts",
@@ -1999,21 +1999,16 @@
     "wordpress-theme"
    ],
    "stars": 23,
-   "pushed_at": "2026-09-17T20:16:15Z",
+   "pushed_at": "2026-10-02T10:35:53Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
   },
   {
-   "slug": "mustafauysal--wp-git",
-   "name": "WP-Git",
-   "version": "1.0.0",
    "author": "<a href=\"https://github.com/mustafauysal\">mustafauysal</a>",
    "author_profile": "https://github.com/mustafauysal",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "WP-Git is a WordPress theme for GitHub lovers.",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "WP-Git is a WordPress theme for GitHub lovers.",
    "download_url": "https://codeload.github.com/mustafauysal/wp-git/zip/refs/tags/1.0.0",
    "homepage": "https://github.com/mustafauysal/wp-git",
@@ -2021,31 +2016,31 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2016-12-18 19:01:46",
+   "name": "WP-Git",
+   "provider": "github",
+   "pushed_at": "2016-12-18T19:01:46Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WP-Git is a WordPress theme for GitHub lovers.",
+   "slug": "mustafauysal--wp-git",
+   "stars": 22,
    "tags": [
     "github",
     "theme",
     "wordpress",
     "wp-git"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 22,
-   "pushed_at": "2016-12-18T19:01:46Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.0.0"
   },
   {
-   "slug": "siteorigin--siteorigin-corp",
-   "name": "SiteOrigin Corp",
-   "version": "1.20.12",
    "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
    "author_profile": "https://github.com/siteorigin",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly",
+   "build": "tag-archive",
+   "default_branch": "develop",
    "description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly presented landing pages. Corp offers seamless integration with Page Builder by SiteOrigin, a custom WooCommerce design, five unique blog layouts and a stunning Jetpack Portfolio layout.",
    "download_url": "https://codeload.github.com/siteorigin/siteorigin-corp/zip/refs/tags/1.20.12",
    "homepage": "https://github.com/siteorigin/siteorigin-corp",
@@ -2053,6 +2048,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-15 19:10:57",
+   "name": "SiteOrigin Corp",
+   "provider": "github",
+   "pushed_at": "2026-09-15T19:10:57Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly",
+   "slug": "siteorigin--siteorigin-corp",
+   "stars": 21,
    "tags": [
     "jetpack",
     "jetpack-portfolio",
@@ -2060,25 +2063,17 @@
     "woocommerce",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 21,
-   "pushed_at": "2026-09-15T19:10:57Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "develop"
+   "version": "1.20.12"
   },
   {
-   "slug": "imjeff--wordpress-textonly",
-   "name": "Text Only",
-   "version": "1.0.2",
    "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
    "author_profile": "https://github.com/imjeff",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
    "download_url": "https://codeload.github.com/imjeff/wordpress-textonly/zip/refs/tags/v1.0.2",
    "homepage": "https://github.com/imjeff/wordpress-textonly",
@@ -2086,6 +2081,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2024-09-13 12:23:46",
+   "name": "Text Only",
+   "provider": "github",
+   "pushed_at": "2024-09-13T12:23:46Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "slug": "imjeff--wordpress-textonly",
+   "stars": 21,
    "tags": [
     "minimal-theme",
     "minimalistic-theme",
@@ -2093,25 +2096,17 @@
     "theme",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 21,
-   "pushed_at": "2024-09-13T12:23:46Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.0.2"
   },
   {
-   "slug": "Rundiz-WP--bootstrap-basic",
-   "name": "Bootstrap Basic",
-   "version": "1.3.9",
    "author": "<a href=\"https://github.com/Rundiz-WP\">Rundiz-WP</a>",
    "author_profile": "https://github.com/Rundiz-WP",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, pleas",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, please go to wordpress.org themes page in the link.",
    "download_url": "https://codeload.github.com/Rundiz-WP/bootstrap-basic/zip/refs/tags/1.3.9",
    "homepage": "https://github.com/Rundiz-WP/bootstrap-basic",
@@ -2119,29 +2114,29 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-04-08 17:29:55",
+   "name": "Bootstrap Basic",
+   "provider": "github",
+   "pushed_at": "2026-04-08T17:29:55Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, pleas",
+   "slug": "Rundiz-WP--bootstrap-basic",
+   "stars": 21,
    "tags": [
     "bootstrap3",
     "wordpress-starter-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 21,
-   "pushed_at": "2026-04-08T17:29:55Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.3.9"
   },
   {
-   "slug": "wpsf--wpsf",
-   "name": "WordPress-Settings-Framework Framework",
-   "version": "0.8.0",
    "author": "<a href=\"https://github.com/wpsf\">wpsf</a>",
    "author_profile": "https://github.com/wpsf",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Simple, Lightweight & Flexible WordPress Settings Framework",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Simple, Lightweight & Flexible WordPress Settings Framework",
    "download_url": "https://codeload.github.com/wpsf/wpsf/zip/refs/tags/0.8Beta",
    "homepage": "https://github.com/wpsf/wpsf",
@@ -2149,6 +2144,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2018-02-24 01:47:10",
+   "name": "WordPress-Settings-Framework Framework",
+   "provider": "github",
+   "pushed_at": "2018-02-24T01:47:10Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Simple, Lightweight & Flexible WordPress Settings Framework",
+   "slug": "wpsf--wpsf",
+   "stars": 20,
    "tags": [
     "checkbox",
     "metaboxes",
@@ -2169,26 +2172,18 @@
     "wpsf",
     "wpsf-framework"
    ],
+   "tested": "6.7",
    "topics": [
     "wp-theme",
     "wordpress-theme"
    ],
-   "stars": 20,
-   "pushed_at": "2018-02-24T01:47:10Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "0.8.0"
   },
   {
-   "slug": "ColorlibHQ--unapp",
-   "name": "Unapp",
-   "version": "2.5.10",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free Bootstrap WordPress landing page theme",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free Bootstrap WordPress landing page theme",
    "download_url": "https://github.com/ColorlibHQ/unapp/releases/download/v2.5.10/unapp.zip",
    "homepage": "https://github.com/ColorlibHQ/unapp",
@@ -2196,17 +2191,22 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-09-25 14:19:33",
+   "name": "Unapp",
+   "provider": "github",
+   "pushed_at": "2026-09-25T14:19:33Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Bootstrap WordPress landing page theme",
+   "slug": "ColorlibHQ--unapp",
+   "stars": 20,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 20,
-   "pushed_at": "2026-09-25T14:19:33Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.5.10"
   }
  ]
 }
