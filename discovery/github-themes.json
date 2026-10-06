@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-05T13:14:12Z",
+ "generated_at": "2026-10-06T12:33:35Z",
  "truncated": false,
  "themes": [
   {
@@ -23,7 +23,7 @@
    "requires_php": "7.4",
    "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "slug": "solstice23--argon-theme",
-   "stars": 5589,
+   "stars": 5590,
    "tags": [
     "argon",
     "argon-theme",
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4075,
+   "stars": 4077,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -1257,7 +1257,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-05 07:16:46",
+   "last_updated": "2026-10-06 09:17:50",
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
@@ -1266,7 +1266,7 @@
     "wordpress-theme"
    ],
    "stars": 49,
-   "pushed_at": "2026-10-05T07:16:46Z",
+   "pushed_at": "2026-10-06T09:17:50Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
@@ -1552,36 +1552,6 @@
    "version": "0.40.0"
   },
   {
-   "author": "<a href=\"https://github.com/torounit\">torounit</a>",
-   "author_profile": "https://github.com/torounit",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "A next-generation WordPress theme built with the Rest API and Vue.js .",
-   "download_url": "https://codeload.github.com/torounit/Aetherium/zip/refs/tags/0.0.1",
-   "homepage": "https://github.com/torounit/Aetherium",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2022-12-10 16:17:50",
-   "name": "Aetherium",
-   "provider": "github",
-   "pushed_at": "2022-12-10T16:17:50Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "A next-generation WordPress theme built with the Rest API and Vue.js .",
-   "slug": "torounit--Aetherium",
-   "stars": 32,
-   "tags": [
-    "spa",
-    "vuejs"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.0.1"
-  },
-  {
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
    "author_profile": "https://github.com/qwqdanchun",
    "build": "release-asset",
@@ -1769,6 +1739,38 @@
    "version": "0.3.280"
   },
   {
+   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
+   "author_profile": "https://github.com/AvanamOrg",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
+   "homepage": "https://github.com/AvanamOrg/avanam",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-08-11 11:21:19",
+   "name": "Avanam",
+   "provider": "github",
+   "pushed_at": "2026-08-11T11:21:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "slug": "AvanamOrg--avanam",
+   "stars": 28,
+   "tags": [
+    "woocommerce",
+    "woocommerce-theme",
+    "wordpress",
+    "wordpress-development"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.6.0"
+  },
+  {
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
    "build": "release-asset",
@@ -1803,38 +1805,6 @@
     "wordpress-theme"
    ],
    "version": "5.1.8"
-  },
-  {
-   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
-   "author_profile": "https://github.com/AvanamOrg",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
-   "homepage": "https://github.com/AvanamOrg/avanam",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-08-11 11:21:19",
-   "name": "Avanam",
-   "provider": "github",
-   "pushed_at": "2026-08-11T11:21:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "slug": "AvanamOrg--avanam",
-   "stars": 28,
-   "tags": [
-    "woocommerce",
-    "woocommerce-theme",
-    "wordpress",
-    "wordpress-development"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.6.0"
   },
   {
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
@@ -1974,15 +1944,10 @@
    "version": "1.0.2"
   },
   {
-   "slug": "JackFurby--Bootscout-theme",
-   "name": "Bootscout-theme",
-   "version": "3.0.2",
    "author": "<a href=\"https://github.com/JackFurby\">JackFurby</a>",
    "author_profile": "https://github.com/JackFurby",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A simple WordPress theme for scout based websites with full-site editing support",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "A simple WordPress theme for scout based websites with full-site editing support",
    "download_url": "https://github.com/JackFurby/Bootscout-theme/releases/download/3.0.2/Bootscout-theme-3.0.2.zip",
    "homepage": "https://github.com/JackFurby/Bootscout-theme",
@@ -1990,19 +1955,24 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-05 08:44:56",
+   "name": "Bootscout-theme",
+   "provider": "github",
+   "pushed_at": "2026-10-05T08:44:56Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A simple WordPress theme for scout based websites with full-site editing support",
+   "slug": "JackFurby--Bootscout-theme",
+   "stars": 23,
    "tags": [
     "scouting",
     "uk-scouts",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 23,
-   "pushed_at": "2026-10-05T08:44:56Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.0.2"
   },
   {
    "author": "<a href=\"https://github.com/mustafauysal\">mustafauysal</a>",
