@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-07T12:27:34Z",
+ "generated_at": "2026-10-08T12:36:10Z",
  "truncated": false,
  "themes": [
   {
@@ -96,7 +96,7 @@
    "requires_php": "8.0",
    "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "slug": "afragen--git-updater",
-   "stars": 3320,
+   "stars": 3321,
    "tags": [
     "git",
     "language-pack",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2975,
+   "stars": 2974,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -211,7 +211,7 @@
    "requires_php": "7.4",
    "short_description": "🎨 An Advanced WordPress theme",
    "slug": "imranhsayed--aquila",
-   "stars": 1057,
+   "stars": 1058,
    "tags": [
     "advanced-wordpress-theme-devlopment",
     "babel",
@@ -308,7 +308,7 @@
    "requires_php": "7.4",
    "short_description": "The ultimate WordPress block theme for website designers and developers.",
    "slug": "wpengine--frost",
-   "stars": 632,
+   "stars": 631,
    "tags": [
     "block-theme",
     "wordpress",
@@ -462,7 +462,7 @@
    "requires_php": "7.4",
    "short_description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
    "slug": "syfxlin--origami",
-   "stars": 402,
+   "stars": 403,
    "tags": [
     "origami",
     "php",
@@ -630,7 +630,7 @@
    "requires_php": "7.4",
    "short_description": "A web fiction theme for WordPress.",
    "slug": "Tetrakern--fictioneer",
-   "stars": 189,
+   "stars": 190,
    "tags": [
     "creative-writing",
     "epub",
@@ -669,7 +669,7 @@
    "requires_php": "7.4",
    "short_description": "📖 niRvana · 轻拟物WordPress主题",
    "slug": "michaelliunsky--niRvana-theme",
-   "stars": 175,
+   "stars": 174,
    "tags": [
     "ajax",
     "nirvana",
@@ -1257,7 +1257,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-07 09:58:59",
+   "last_updated": "2026-10-08 04:26:55",
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
@@ -1266,7 +1266,7 @@
     "wordpress-theme"
    ],
    "stars": 49,
-   "pushed_at": "2026-10-07T09:58:59Z",
+   "pushed_at": "2026-10-08T04:26:55Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
@@ -1493,33 +1493,6 @@
    "version": "1.3.1"
   },
   {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "🎬 single column wordpress theme",
-   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
-   "homepage": "https://github.com/bigfa/Berry",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-30 12:02:24",
-   "name": "Berry",
-   "provider": "github",
-   "pushed_at": "2025-08-30T12:02:24Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "🎬 single column wordpress theme",
-   "slug": "bigfa--Berry",
-   "stars": 33,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.2.2"
-  },
-  {
    "author": "<a href=\"https://github.com/sinanisler\">sinanisler</a>",
    "author_profile": "https://github.com/sinanisler",
    "build": "tag-archive",
@@ -1550,6 +1523,33 @@
     "wordpress-theme"
    ],
    "version": "0.40.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "🎬 single column wordpress theme",
+   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
+   "homepage": "https://github.com/bigfa/Berry",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-30 12:02:24",
+   "name": "Berry",
+   "provider": "github",
+   "pushed_at": "2025-08-30T12:02:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎬 single column wordpress theme",
+   "slug": "bigfa--Berry",
+   "stars": 33,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.2.2"
   },
   {
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
@@ -1585,33 +1585,6 @@
    "version": "1.0.0"
   },
   {
-   "author": "<a href=\"https://github.com/blockifywp\">blockifywp</a>",
-   "author_profile": "https://github.com/blockifywp",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "Blockify Theme",
-   "download_url": "https://codeload.github.com/blockifywp/theme/zip/refs/tags/v0.3.12",
-   "homepage": "https://github.com/blockifywp/theme",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-01-01 03:37:23",
-   "name": "Blockify",
-   "provider": "github",
-   "pushed_at": "2024-01-01T03:37:23Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Blockify Theme",
-   "slug": "blockifywp--theme",
-   "stars": 31,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.3.12"
-  },
-  {
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
    "build": "tag-archive",
@@ -1637,6 +1610,33 @@
     "wordpress-theme"
    ],
    "version": "2.2.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/blockifywp\">blockifywp</a>",
+   "author_profile": "https://github.com/blockifywp",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "Blockify Theme",
+   "download_url": "https://codeload.github.com/blockifywp/theme/zip/refs/tags/v0.3.12",
+   "homepage": "https://github.com/blockifywp/theme",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-01-01 03:37:23",
+   "name": "Blockify",
+   "provider": "github",
+   "pushed_at": "2024-01-01T03:37:23Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Blockify Theme",
+   "slug": "blockifywp--theme",
+   "stars": 31,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "0.3.12"
   },
   {
    "author": "<a href=\"https://github.com/rm-rf-run\">rm-rf-run</a>",
