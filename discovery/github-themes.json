@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-15T10:42:14Z",
+ "generated_at": "2026-10-16T10:28:27Z",
  "truncated": false,
  "themes": [
   {
@@ -23,7 +23,7 @@
    "requires_php": "7.4",
    "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "slug": "solstice23--argon-theme",
-   "stars": 5587,
+   "stars": 5588,
    "tags": [
     "argon",
     "argon-theme",
@@ -96,7 +96,7 @@
    "requires_php": "8.0",
    "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "slug": "afragen--git-updater",
-   "stars": 3320,
+   "stars": 3319,
    "tags": [
     "git",
     "language-pack",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2482,
+   "stars": 2483,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -796,15 +796,10 @@
    "version": "1.3.0"
   },
   {
-   "slug": "elmastudio--aino-theme",
-   "name": "Aino",
-   "version": "2.6.6",
    "author": "<a href=\"https://github.com/elmastudio\">elmastudio</a>",
    "author_profile": "https://github.com/elmastudio",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "A Gutenberg-ready WordPress theme.",
+   "build": "tag-archive",
+   "default_branch": "main",
    "description": "A Gutenberg-ready WordPress theme.",
    "download_url": "https://codeload.github.com/elmastudio/aino-theme/zip/refs/tags/2.6.6",
    "homepage": "https://github.com/elmastudio/aino-theme",
@@ -812,20 +807,25 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-15 09:56:17",
+   "name": "Aino",
+   "provider": "github",
+   "pushed_at": "2026-10-15T09:56:17Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A Gutenberg-ready WordPress theme.",
+   "slug": "elmastudio--aino-theme",
+   "stars": 113,
    "tags": [
     "blocks",
     "design-system",
     "gutenberg",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 113,
-   "pushed_at": "2026-10-15T09:56:17Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "main"
+   "version": "2.6.6"
   },
   {
    "author": "<a href=\"https://github.com/joshuaiz\">joshuaiz</a>",
@@ -934,6 +934,35 @@
    "version": "0.4.1"
   },
   {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
+  },
+  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -969,35 +998,6 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
@@ -1216,7 +1216,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-15 10:15:07",
+   "last_updated": "2026-10-15 16:23:44",
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
@@ -1225,7 +1225,7 @@
     "wordpress-theme"
    ],
    "stars": 49,
-   "pushed_at": "2026-10-15T10:15:07Z",
+   "pushed_at": "2026-10-15T16:23:44Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
@@ -1903,35 +1903,35 @@
    "version": "1.0.2"
   },
   {
+   "slug": "JackFurby--Bootscout-theme",
+   "name": "Bootscout-theme",
+   "version": "3.0.2",
    "author": "<a href=\"https://github.com/JackFurby\">JackFurby</a>",
    "author_profile": "https://github.com/JackFurby",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "A simple WordPress theme for scout based websites with full-site editing support",
    "description": "A simple WordPress theme for scout based websites with full-site editing support",
    "download_url": "https://github.com/JackFurby/Bootscout-theme/releases/download/3.0.2/Bootscout-theme-3.0.2.zip",
    "homepage": "https://github.com/JackFurby/Bootscout-theme",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-11 19:33:03",
-   "name": "Bootscout-theme",
-   "provider": "github",
-   "pushed_at": "2026-10-11T19:33:03Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "A simple WordPress theme for scout based websites with full-site editing support",
-   "slug": "JackFurby--Bootscout-theme",
-   "stars": 23,
+   "last_updated": "2026-10-16 06:59:38",
    "tags": [
     "scouting",
     "uk-scouts",
     "wordpress"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "3.0.2"
+   "stars": 23,
+   "pushed_at": "2026-10-16T06:59:38Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/mustafauysal\">mustafauysal</a>",
