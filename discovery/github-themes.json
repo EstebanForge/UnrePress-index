@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-17T10:00:31Z",
+ "generated_at": "2026-10-18T10:11:33Z",
  "truncated": false,
  "themes": [
   {
@@ -110,25 +110,22 @@
    "version": "14.4.2"
   },
   {
+   "slug": "Licoy--wordpress-theme-puock",
+   "name": "Puock",
+   "version": "2.11.0",
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
    "author_profile": "https://github.com/Licoy",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.",
    "download_url": "https://github.com/Licoy/wordpress-theme-puock/releases/download/v2.11.0/Puock-V2.11.0.zip",
    "homepage": "https://github.com/Licoy/wordpress-theme-puock",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-09-11 01:13:04",
-   "name": "Puock",
-   "provider": "github",
-   "pushed_at": "2026-09-11T01:13:04Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
-   "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2973,
+   "last_updated": "2026-10-18 04:36:54",
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -149,11 +146,14 @@
     "wordpress",
     "wp"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "2.11.0"
+   "stars": 2974,
+   "pushed_at": "2026-10-18T04:36:54Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/owen0o0\">owen0o0</a>",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2483,
+   "stars": 2484,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -249,7 +249,7 @@
    "requires_php": "7.4",
    "short_description": "MDx - Material Design WordPress Theme",
    "slug": "yrccondor--mdx",
-   "stars": 1011,
+   "stars": 1010,
    "tags": [
     "material-design",
     "php"
@@ -1136,15 +1136,10 @@
    "version": "1.20.33"
   },
   {
-   "slug": "ColorlibHQ--shapely",
-   "name": "Shapely",
-   "version": "1.3.6",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free multipurpose WordPress theme built using Bootstrap",
    "download_url": "https://github.com/ColorlibHQ/shapely/releases/download/v1.3.6/shapely.zip",
    "homepage": "https://github.com/ColorlibHQ/shapely",
@@ -1152,18 +1147,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-16 11:06:52",
+   "name": "Shapely",
+   "provider": "github",
+   "pushed_at": "2026-10-16T11:06:52Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
+   "slug": "ColorlibHQ--shapely",
+   "stars": 67,
    "tags": [
     "portfolio",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 67,
-   "pushed_at": "2026-10-16T11:06:52Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "1.3.6"
   },
   {
    "author": "<a href=\"https://github.com/braginteractive\">braginteractive</a>",
@@ -1314,15 +1314,10 @@
    "version": "0.3.2"
   },
   {
-   "slug": "jasewarner--gulp-wordpress",
-   "name": "<Theme_Name>",
-   "version": "2.1.2",
    "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
    "author_profile": "https://github.com/jasewarner",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
    "download_url": "https://codeload.github.com/jasewarner/gulp-wordpress/zip/refs/tags/v2.1.2",
    "homepage": "https://github.com/jasewarner/gulp-wordpress",
@@ -1330,6 +1325,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-16 11:36:42",
+   "name": "<Theme_Name>",
+   "provider": "github",
+   "pushed_at": "2026-10-16T11:36:42Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
+   "slug": "jasewarner--gulp-wordpress",
+   "stars": 42,
    "tags": [
     "boilerplate",
     "es6",
@@ -1341,14 +1344,11 @@
     "wordpress-development",
     "wordpress-starter-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 42,
-   "pushed_at": "2026-10-16T11:36:42Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.1.2"
   },
   {
    "author": "<a href=\"https://github.com/sdg32\">sdg32</a>",
@@ -1918,7 +1918,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-17 09:14:20",
+   "last_updated": "2026-10-17 16:48:31",
    "tags": [
     "scouting",
     "uk-scouts",
@@ -1928,7 +1928,7 @@
     "wordpress-theme"
    ],
    "stars": 23,
-   "pushed_at": "2026-10-17T09:14:20Z",
+   "pushed_at": "2026-10-17T16:48:31Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
