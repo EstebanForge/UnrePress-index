@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-25T10:30:16Z",
+ "generated_at": "2026-10-26T12:01:55Z",
  "truncated": false,
  "themes": [
   {
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4085,
+   "stars": 4086,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2976,
+   "stars": 2977,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2485,
+   "stars": 2487,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -1201,36 +1201,6 @@
    "version": "4.1.3"
   },
   {
-   "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
-   "author_profile": "https://github.com/ItalyStrap",
-   "build": "release-asset",
-   "default_branch": "master",
-   "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
-   "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
-   "homepage": "https://github.com/ItalyStrap/italystrap",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-10-21 10:16:52",
-   "name": "ItalyStrap",
-   "provider": "github",
-   "pushed_at": "2026-10-21T10:16:52Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
-   "slug": "ItalyStrap--italystrap",
-   "stars": 49,
-   "tags": [
-    "wordpress",
-    "wordpress-theme-framework"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "3.0.5"
-  },
-  {
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
    "author_profile": "https://github.com/bigfa",
    "build": "tag-archive",
@@ -1249,13 +1219,43 @@
    "requires_php": "7.4",
    "short_description": "card wordpress theme",
    "slug": "bigfa--Jaguar",
-   "stars": 49,
+   "stars": 50,
    "tags": [],
    "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
    "version": "3.1.1"
+  },
+  {
+   "slug": "ItalyStrap--italystrap",
+   "name": "ItalyStrap",
+   "version": "3.0.5",
+   "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
+   "author_profile": "https://github.com/ItalyStrap",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
+   "homepage": "https://github.com/ItalyStrap/italystrap",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-10-26 02:45:36",
+   "tags": [
+    "wordpress",
+    "wordpress-theme-framework"
+   ],
+   "topics": [
+    "wordpress-theme"
+   ],
+   "stars": 49,
+   "pushed_at": "2026-10-26T02:45:36Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
@@ -1285,33 +1285,6 @@
     "wordpress-theme"
    ],
    "version": "2.3.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "✏️ wordpress theme for blogger",
-   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
-   "homepage": "https://github.com/bigfa/hera",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-07 16:54:14",
-   "name": "Hera",
-   "provider": "github",
-   "pushed_at": "2025-08-07T16:54:14Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "✏️ wordpress theme for blogger",
-   "slug": "bigfa--hera",
-   "stars": 43,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.3.2"
   },
   {
    "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
@@ -1349,6 +1322,33 @@
     "wordpress-theme"
    ],
    "version": "2.1.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "✏️ wordpress theme for blogger",
+   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
+   "homepage": "https://github.com/bigfa/hera",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-07 16:54:14",
+   "name": "Hera",
+   "provider": "github",
+   "pushed_at": "2025-08-07T16:54:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "✏️ wordpress theme for blogger",
+   "slug": "bigfa--hera",
+   "stars": 42,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "0.3.2"
   },
   {
    "author": "<a href=\"https://github.com/sdg32\">sdg32</a>",
