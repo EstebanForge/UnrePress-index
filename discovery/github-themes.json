@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-26T12:01:55Z",
+ "generated_at": "2026-10-27T11:23:52Z",
  "truncated": false,
  "themes": [
   {
@@ -78,36 +78,36 @@
    "version": "3.0.10"
   },
   {
+   "slug": "afragen--git-updater",
+   "name": "Git Updater",
+   "version": "14.4.3",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "build": "release-asset",
-   "default_branch": "develop",
+   "requires": "5.9",
+   "tested": "6.7",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
-   "download_url": "https://github.com/afragen/git-updater/releases/download/14.4.2/git-updater-14.4.2.zip",
+   "download_url": "https://github.com/afragen/git-updater/releases/download/14.4.3/git-updater-14.4.3.zip",
    "homepage": "https://github.com/afragen/git-updater",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-23 01:35:26",
-   "name": "Git Updater",
-   "provider": "github",
-   "pushed_at": "2026-10-23T01:35:26Z",
-   "requires": "5.9",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
-   "slug": "afragen--git-updater",
-   "stars": 3321,
+   "last_updated": "2026-10-26 15:55:45",
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "14.4.2"
+   "stars": 3321,
+   "pushed_at": "2026-10-26T15:55:45Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "develop"
   },
   {
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2977,
+   "stars": 2979,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2487,
+   "stars": 2489,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -486,7 +486,7 @@
    "requires_php": "7.4",
    "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "slug": "friend-nicen--theme-document",
-   "stars": 347,
+   "stars": 348,
    "tags": [
     "wordpress"
    ],
@@ -628,7 +628,7 @@
    "requires_php": "7.4",
    "short_description": "📖 niRvana · 轻拟物WordPress主题",
    "slug": "michaelliunsky--niRvana-theme",
-   "stars": 174,
+   "stars": 175,
    "tags": [
     "ajax",
     "nirvana",
@@ -1228,15 +1228,10 @@
    "version": "3.1.1"
   },
   {
-   "slug": "ItalyStrap--italystrap",
-   "name": "ItalyStrap",
-   "version": "3.0.5",
    "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
    "author_profile": "https://github.com/ItalyStrap",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
    "homepage": "https://github.com/ItalyStrap/italystrap",
@@ -1244,18 +1239,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-26 02:45:36",
+   "name": "ItalyStrap",
+   "provider": "github",
+   "pushed_at": "2026-10-26T02:45:36Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "slug": "ItalyStrap--italystrap",
+   "stars": 49,
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 49,
-   "pushed_at": "2026-10-26T02:45:36Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.0.5"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
@@ -1659,45 +1659,6 @@
    "version": "1.9.0"
   },
   {
-   "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
-   "author_profile": "https://github.com/littlebizzy",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "No maintenance WordPress theme",
-   "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.280",
-   "homepage": "https://github.com/littlebizzy/hovercraft",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-09-13 07:52:36",
-   "name": "HoverCraft",
-   "provider": "github",
-   "pushed_at": "2026-09-13T07:52:36Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "No maintenance WordPress theme",
-   "slug": "littlebizzy--hovercraft",
-   "stars": 28,
-   "tags": [
-    "bbpress",
-    "font-awesome",
-    "git-updater",
-    "google-fonts",
-    "material-icons",
-    "parent-theme",
-    "seo",
-    "woocommerce",
-    "wordpress",
-    "wordpress-customizer",
-    "wordpress-menu"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.3.280"
-  },
-  {
    "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
    "author_profile": "https://github.com/AvanamOrg",
    "build": "tag-archive",
@@ -1764,6 +1725,45 @@
     "wordpress-theme"
    ],
    "version": "5.1.9"
+  },
+  {
+   "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
+   "author_profile": "https://github.com/littlebizzy",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "No maintenance WordPress theme",
+   "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.280",
+   "homepage": "https://github.com/littlebizzy/hovercraft",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-09-13 07:52:36",
+   "name": "HoverCraft",
+   "provider": "github",
+   "pushed_at": "2026-09-13T07:52:36Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "No maintenance WordPress theme",
+   "slug": "littlebizzy--hovercraft",
+   "stars": 28,
+   "tags": [
+    "bbpress",
+    "font-awesome",
+    "git-updater",
+    "google-fonts",
+    "material-icons",
+    "parent-theme",
+    "seo",
+    "woocommerce",
+    "wordpress",
+    "wordpress-customizer",
+    "wordpress-menu"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "0.3.280"
   },
   {
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
@@ -1966,39 +1966,6 @@
    "version": "1.0.0"
   },
   {
-   "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
-   "author_profile": "https://github.com/siteorigin",
-   "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly presented landing pages. Corp offers seamless integration with Page Builder by SiteOrigin, a custom WooCommerce design, five unique blog layouts and a stunning Jetpack Portfolio layout.",
-   "download_url": "https://codeload.github.com/siteorigin/siteorigin-corp/zip/refs/tags/1.20.12",
-   "homepage": "https://github.com/siteorigin/siteorigin-corp",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-09-15 19:10:57",
-   "name": "SiteOrigin Corp",
-   "provider": "github",
-   "pushed_at": "2026-09-15T19:10:57Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly",
-   "slug": "siteorigin--siteorigin-corp",
-   "stars": 21,
-   "tags": [
-    "jetpack",
-    "jetpack-portfolio",
-    "theme",
-    "woocommerce",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.20.12"
-  },
-  {
    "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
    "author_profile": "https://github.com/imjeff",
    "build": "tag-archive",
@@ -2030,6 +1997,39 @@
     "wordpress-theme"
    ],
    "version": "1.0.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
+   "author_profile": "https://github.com/siteorigin",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly presented landing pages. Corp offers seamless integration with Page Builder by SiteOrigin, a custom WooCommerce design, five unique blog layouts and a stunning Jetpack Portfolio layout.",
+   "download_url": "https://codeload.github.com/siteorigin/siteorigin-corp/zip/refs/tags/1.20.12",
+   "homepage": "https://github.com/siteorigin/siteorigin-corp",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-09-15 19:10:57",
+   "name": "SiteOrigin Corp",
+   "provider": "github",
+   "pushed_at": "2026-09-15T19:10:57Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly",
+   "slug": "siteorigin--siteorigin-corp",
+   "stars": 21,
+   "tags": [
+    "jetpack",
+    "jetpack-portfolio",
+    "theme",
+    "woocommerce",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.20.12"
   },
   {
    "author": "<a href=\"https://github.com/Rundiz-WP\">Rundiz-WP</a>",
