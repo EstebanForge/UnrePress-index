@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-27T11:23:52Z",
+ "generated_at": "2026-10-28T11:57:23Z",
  "truncated": false,
  "themes": [
   {
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4086,
+   "stars": 4085,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -78,15 +78,10 @@
    "version": "3.0.10"
   },
   {
-   "slug": "afragen--git-updater",
-   "name": "Git Updater",
-   "version": "14.4.3",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "requires": "5.9",
-   "tested": "6.7",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "build": "release-asset",
+   "default_branch": "develop",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "download_url": "https://github.com/afragen/git-updater/releases/download/14.4.3/git-updater-14.4.3.zip",
    "homepage": "https://github.com/afragen/git-updater",
@@ -94,20 +89,25 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-26 15:55:45",
+   "name": "Git Updater",
+   "provider": "github",
+   "pushed_at": "2026-10-26T15:55:45Z",
+   "requires": "5.9",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "slug": "afragen--git-updater",
+   "stars": 3322,
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 3321,
-   "pushed_at": "2026-10-26T15:55:45Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "develop"
+   "version": "14.4.3"
   },
   {
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2979,
+   "stars": 2980,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2489,
+   "stars": 2490,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -1287,6 +1287,33 @@
    "version": "2.3.0"
   },
   {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "✏️ wordpress theme for blogger",
+   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
+   "homepage": "https://github.com/bigfa/hera",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-07 16:54:14",
+   "name": "Hera",
+   "provider": "github",
+   "pushed_at": "2025-08-07T16:54:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "✏️ wordpress theme for blogger",
+   "slug": "bigfa--hera",
+   "stars": 43,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "0.3.2"
+  },
+  {
    "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
    "author_profile": "https://github.com/jasewarner",
    "build": "tag-archive",
@@ -1322,33 +1349,6 @@
     "wordpress-theme"
    ],
    "version": "2.1.2"
-  },
-  {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "✏️ wordpress theme for blogger",
-   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
-   "homepage": "https://github.com/bigfa/hera",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-07 16:54:14",
-   "name": "Hera",
-   "provider": "github",
-   "pushed_at": "2025-08-07T16:54:14Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "✏️ wordpress theme for blogger",
-   "slug": "bigfa--hera",
-   "stars": 42,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.3.2"
   },
   {
    "author": "<a href=\"https://github.com/sdg32\">sdg32</a>",
@@ -1659,38 +1659,6 @@
    "version": "1.9.0"
   },
   {
-   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
-   "author_profile": "https://github.com/AvanamOrg",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
-   "homepage": "https://github.com/AvanamOrg/avanam",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-08-11 11:21:19",
-   "name": "Avanam",
-   "provider": "github",
-   "pushed_at": "2026-08-11T11:21:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "slug": "AvanamOrg--avanam",
-   "stars": 28,
-   "tags": [
-    "woocommerce",
-    "woocommerce-theme",
-    "wordpress",
-    "wordpress-development"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.6.0"
-  },
-  {
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
    "build": "release-asset",
@@ -1764,6 +1732,38 @@
     "wordpress-theme"
    ],
    "version": "0.3.280"
+  },
+  {
+   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
+   "author_profile": "https://github.com/AvanamOrg",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
+   "homepage": "https://github.com/AvanamOrg/avanam",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-08-11 11:21:19",
+   "name": "Avanam",
+   "provider": "github",
+   "pushed_at": "2026-08-11T11:21:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "slug": "AvanamOrg--avanam",
+   "stars": 28,
+   "tags": [
+    "woocommerce",
+    "woocommerce-theme",
+    "wordpress",
+    "wordpress-development"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.6.0"
   },
   {
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
@@ -2109,33 +2109,33 @@
    "version": "0.8.0"
   },
   {
+   "slug": "ColorlibHQ--unapp",
+   "name": "Unapp",
+   "version": "2.6.0",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "Free Bootstrap WordPress landing page theme",
    "description": "Free Bootstrap WordPress landing page theme",
-   "download_url": "https://github.com/ColorlibHQ/unapp/releases/download/v2.5.10/unapp.zip",
+   "download_url": "https://github.com/ColorlibHQ/unapp/releases/download/v2.6.0/unapp-2.6.0.zip",
    "homepage": "https://github.com/ColorlibHQ/unapp",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-09-25 14:19:33",
-   "name": "Unapp",
-   "provider": "github",
-   "pushed_at": "2026-09-25T14:19:33Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Free Bootstrap WordPress landing page theme",
-   "slug": "ColorlibHQ--unapp",
-   "stars": 20,
+   "last_updated": "2026-10-28 10:57:50",
    "tags": [
     "wordpress"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "2.5.10"
+   "stars": 20,
+   "pushed_at": "2026-10-28T10:57:50Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   }
  ]
 }
