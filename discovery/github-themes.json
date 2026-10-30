@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-29T12:05:15Z",
+ "generated_at": "2026-10-30T11:58:22Z",
  "truncated": false,
  "themes": [
   {
@@ -23,7 +23,7 @@
    "requires_php": "7.4",
    "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "slug": "solstice23--argon-theme",
-   "stars": 5592,
+   "stars": 5593,
    "tags": [
     "argon",
     "argon-theme",
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4083,
+   "stars": 4082,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -249,7 +249,7 @@
    "requires_php": "7.4",
    "short_description": "MDx - Material Design WordPress Theme",
    "slug": "yrccondor--mdx",
-   "stars": 1009,
+   "stars": 1008,
    "tags": [
     "material-design",
     "php"
@@ -486,7 +486,7 @@
    "requires_php": "7.4",
    "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "slug": "friend-nicen--theme-document",
-   "stars": 348,
+   "stars": 347,
    "tags": [
     "wordpress"
    ],
@@ -934,35 +934,6 @@
    "version": "0.4.1"
   },
   {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
-  },
-  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -998,6 +969,35 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
@@ -1136,34 +1136,34 @@
    "version": "1.20.33"
   },
   {
+   "slug": "ColorlibHQ--shapely",
+   "name": "Shapely",
+   "version": "1.3.6",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
    "description": "Free multipurpose WordPress theme built using Bootstrap",
    "download_url": "https://github.com/ColorlibHQ/shapely/releases/download/v1.3.6/shapely.zip",
    "homepage": "https://github.com/ColorlibHQ/shapely",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-19 20:10:56",
-   "name": "Shapely",
-   "provider": "github",
-   "pushed_at": "2026-10-19T20:10:56Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Free multipurpose WordPress theme built using Bootstrap",
-   "slug": "ColorlibHQ--shapely",
-   "stars": 67,
+   "last_updated": "2026-10-30 03:41:11",
    "tags": [
     "portfolio",
     "wordpress"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "1.3.6"
+   "stars": 67,
+   "pushed_at": "2026-10-30T03:41:11Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/braginteractive\">braginteractive</a>",
@@ -1659,42 +1659,6 @@
    "version": "1.9.0"
   },
   {
-   "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
-   "author_profile": "https://github.com/vapvarun",
-   "build": "release-asset",
-   "default_branch": "master",
-   "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.9/buddyx-5.1.9.zip",
-   "homepage": "https://github.com/vapvarun/buddyx",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-10-23 20:08:19",
-   "name": "BuddyX",
-   "provider": "github",
-   "pushed_at": "2026-10-23T20:08:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "slug": "vapvarun--buddyx",
-   "stars": 28,
-   "tags": [
-    "2021",
-    "buddyboss-platform",
-    "buddypress",
-    "buddypress-theme",
-    "learndash",
-    "learnpress",
-    "lifterlms",
-    "tutorlms"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "5.1.9"
-  },
-  {
    "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
    "author_profile": "https://github.com/littlebizzy",
    "build": "tag-archive",
@@ -1732,6 +1696,42 @@
     "wordpress-theme"
    ],
    "version": "0.3.280"
+  },
+  {
+   "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
+   "author_profile": "https://github.com/vapvarun",
+   "build": "release-asset",
+   "default_branch": "master",
+   "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.9/buddyx-5.1.9.zip",
+   "homepage": "https://github.com/vapvarun/buddyx",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-10-23 20:08:19",
+   "name": "BuddyX",
+   "provider": "github",
+   "pushed_at": "2026-10-23T20:08:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "slug": "vapvarun--buddyx",
+   "stars": 28,
+   "tags": [
+    "2021",
+    "buddyboss-platform",
+    "buddypress",
+    "buddypress-theme",
+    "learndash",
+    "learnpress",
+    "lifterlms",
+    "tutorlms"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "5.1.9"
   },
   {
    "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
@@ -1966,39 +1966,6 @@
    "version": "1.0.0"
   },
   {
-   "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
-   "author_profile": "https://github.com/imjeff",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
-   "download_url": "https://codeload.github.com/imjeff/wordpress-textonly/zip/refs/tags/v1.0.2",
-   "homepage": "https://github.com/imjeff/wordpress-textonly",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-09-13 12:23:46",
-   "name": "Text Only",
-   "provider": "github",
-   "pushed_at": "2024-09-13T12:23:46Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
-   "slug": "imjeff--wordpress-textonly",
-   "stars": 21,
-   "tags": [
-    "minimal-theme",
-    "minimalistic-theme",
-    "plaintext",
-    "theme",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.0.2"
-  },
-  {
    "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
    "author_profile": "https://github.com/siteorigin",
    "build": "tag-archive",
@@ -2030,6 +1997,39 @@
     "wordpress-theme"
    ],
    "version": "1.20.12"
+  },
+  {
+   "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
+   "author_profile": "https://github.com/imjeff",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "download_url": "https://codeload.github.com/imjeff/wordpress-textonly/zip/refs/tags/v1.0.2",
+   "homepage": "https://github.com/imjeff/wordpress-textonly",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-09-13 12:23:46",
+   "name": "Text Only",
+   "provider": "github",
+   "pushed_at": "2024-09-13T12:23:46Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "slug": "imjeff--wordpress-textonly",
+   "stars": 21,
+   "tags": [
+    "minimal-theme",
+    "minimalistic-theme",
+    "plaintext",
+    "theme",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.0.2"
   },
   {
    "author": "<a href=\"https://github.com/Rundiz-WP\">Rundiz-WP</a>",
@@ -2109,15 +2109,10 @@
    "version": "0.8.0"
   },
   {
-   "slug": "ColorlibHQ--unapp",
-   "name": "Unapp",
-   "version": "2.6.0",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free Bootstrap WordPress landing page theme",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free Bootstrap WordPress landing page theme",
    "download_url": "https://github.com/ColorlibHQ/unapp/releases/download/v2.6.0/unapp-2.6.0.zip",
    "homepage": "https://github.com/ColorlibHQ/unapp",
@@ -2125,17 +2120,22 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-28 15:27:58",
+   "name": "Unapp",
+   "provider": "github",
+   "pushed_at": "2026-10-28T15:27:58Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Bootstrap WordPress landing page theme",
+   "slug": "ColorlibHQ--unapp",
+   "stars": 20,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 20,
-   "pushed_at": "2026-10-28T15:27:58Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.6.0"
   }
  ]
 }
