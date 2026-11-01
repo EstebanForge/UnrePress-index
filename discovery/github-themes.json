@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-10-31T11:31:25Z",
+ "generated_at": "2026-11-01T12:28:15Z",
  "truncated": false,
  "themes": [
   {
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2979,
+   "stars": 2978,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -249,7 +249,7 @@
    "requires_php": "7.4",
    "short_description": "MDx - Material Design WordPress Theme",
    "slug": "yrccondor--mdx",
-   "stars": 1008,
+   "stars": 1007,
    "tags": [
     "material-design",
     "php"
@@ -934,6 +934,35 @@
    "version": "0.4.1"
   },
   {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
+  },
+  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -969,35 +998,6 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
@@ -1228,15 +1228,10 @@
    "version": "3.1.1"
   },
   {
-   "slug": "ItalyStrap--italystrap",
-   "name": "ItalyStrap",
-   "version": "3.0.5",
    "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
    "author_profile": "https://github.com/ItalyStrap",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
    "homepage": "https://github.com/ItalyStrap/italystrap",
@@ -1244,18 +1239,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-10-31 10:18:14",
+   "name": "ItalyStrap",
+   "provider": "github",
+   "pushed_at": "2026-10-31T10:18:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "slug": "ItalyStrap--italystrap",
+   "stars": 49,
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 49,
-   "pushed_at": "2026-10-31T10:18:14Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.0.5"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
@@ -1629,6 +1629,42 @@
    "version": "1.0.0"
   },
   {
+   "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
+   "author_profile": "https://github.com/vapvarun",
+   "build": "release-asset",
+   "default_branch": "master",
+   "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.9/buddyx-5.1.9.zip",
+   "homepage": "https://github.com/vapvarun/buddyx",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-10-23 20:08:19",
+   "name": "BuddyX",
+   "provider": "github",
+   "pushed_at": "2026-10-23T20:08:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "slug": "vapvarun--buddyx",
+   "stars": 29,
+   "tags": [
+    "2021",
+    "buddyboss-platform",
+    "buddypress",
+    "buddypress-theme",
+    "learndash",
+    "learnpress",
+    "lifterlms",
+    "tutorlms"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "5.1.9"
+  },
+  {
    "author": "<a href=\"https://github.com/jdmdigital\">jdmdigital</a>",
    "author_profile": "https://github.com/jdmdigital",
    "build": "tag-archive",
@@ -1728,42 +1764,6 @@
     "wordpress-theme"
    ],
    "version": "1.6.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
-   "author_profile": "https://github.com/vapvarun",
-   "build": "release-asset",
-   "default_branch": "master",
-   "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.9/buddyx-5.1.9.zip",
-   "homepage": "https://github.com/vapvarun/buddyx",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-10-23 20:08:19",
-   "name": "BuddyX",
-   "provider": "github",
-   "pushed_at": "2026-10-23T20:08:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "slug": "vapvarun--buddyx",
-   "stars": 28,
-   "tags": [
-    "2021",
-    "buddyboss-platform",
-    "buddypress",
-    "buddypress-theme",
-    "learndash",
-    "learnpress",
-    "lifterlms",
-    "tutorlms"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "5.1.9"
   },
   {
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
