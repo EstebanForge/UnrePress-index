@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-04T13:37:10Z",
+ "generated_at": "2026-11-05T13:51:15Z",
  "truncated": false,
  "themes": [
   {
@@ -78,36 +78,36 @@
    "version": "3.0.10"
   },
   {
+   "slug": "afragen--git-updater",
+   "name": "Git Updater",
+   "version": "14.5.0",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "build": "release-asset",
-   "default_branch": "develop",
+   "requires": "5.9",
+   "tested": "6.7",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
-   "download_url": "https://github.com/afragen/git-updater/releases/download/14.4.3/git-updater-14.4.3.zip",
+   "download_url": "https://github.com/afragen/git-updater/releases/download/14.5.0/git-updater-14.5.0.zip",
    "homepage": "https://github.com/afragen/git-updater",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-26 15:55:45",
-   "name": "Git Updater",
-   "provider": "github",
-   "pushed_at": "2026-10-26T15:55:45Z",
-   "requires": "5.9",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
-   "slug": "afragen--git-updater",
-   "stars": 3321,
+   "last_updated": "2026-11-04 20:21:43",
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "14.4.3"
+   "stars": 3320,
+   "pushed_at": "2026-11-04T20:21:43Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "develop"
   },
   {
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
@@ -1228,34 +1228,34 @@
    "version": "3.1.1"
   },
   {
+   "slug": "ItalyStrap--italystrap",
+   "name": "ItalyStrap",
+   "version": "3.0.5",
    "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
    "author_profile": "https://github.com/ItalyStrap",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
    "homepage": "https://github.com/ItalyStrap/italystrap",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-03 03:41:34",
-   "name": "ItalyStrap",
-   "provider": "github",
-   "pushed_at": "2026-11-03T03:41:34Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
-   "slug": "ItalyStrap--italystrap",
-   "stars": 49,
+   "last_updated": "2026-11-05 09:09:17",
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "3.0.5"
+   "stars": 49,
+   "pushed_at": "2026-11-05T09:09:17Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
