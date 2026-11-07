@@ -1,29 +1,26 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-06T13:34:42Z",
+ "generated_at": "2026-11-07T12:14:02Z",
  "truncated": false,
  "themes": [
   {
+   "slug": "solstice23--argon-theme",
+   "name": "argon",
+   "version": "1.3.5",
    "author": "<a href=\"https://github.com/solstice23\">solstice23</a>",
    "author_profile": "https://github.com/solstice23",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "download_url": "https://github.com/solstice23/argon-theme/releases/download/v1.3.5/argon.zip",
    "homepage": "https://github.com/solstice23/argon-theme",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-07-21 23:40:29",
-   "name": "argon",
-   "provider": "github",
-   "pushed_at": "2026-07-21T23:40:29Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
-   "slug": "solstice23--argon-theme",
-   "stars": 5589,
+   "last_updated": "2026-11-07 08:48:29",
    "tags": [
     "argon",
     "argon-theme",
@@ -32,11 +29,14 @@
     "theme",
     "wordpress"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "1.3.5"
+   "stars": 5591,
+   "pushed_at": "2026-11-07T08:48:29Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/mirai-mamori\">mirai-mamori</a>",
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4078,
+   "stars": 4077,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2978,
+   "stars": 2979,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2493,
+   "stars": 2494,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -1452,6 +1452,33 @@
    "version": "1.3.1"
   },
   {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "🎬 single column wordpress theme",
+   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
+   "homepage": "https://github.com/bigfa/Berry",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-30 12:02:24",
+   "name": "Berry",
+   "provider": "github",
+   "pushed_at": "2025-08-30T12:02:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎬 single column wordpress theme",
+   "slug": "bigfa--Berry",
+   "stars": 33,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.2.2"
+  },
+  {
    "author": "<a href=\"https://github.com/sinanisler\">sinanisler</a>",
    "author_profile": "https://github.com/sinanisler",
    "build": "tag-archive",
@@ -1482,33 +1509,6 @@
     "wordpress-theme"
    ],
    "version": "0.40.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "🎬 single column wordpress theme",
-   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
-   "homepage": "https://github.com/bigfa/Berry",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-30 12:02:24",
-   "name": "Berry",
-   "provider": "github",
-   "pushed_at": "2025-08-30T12:02:24Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "🎬 single column wordpress theme",
-   "slug": "bigfa--Berry",
-   "stars": 33,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.2.2"
   },
   {
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
