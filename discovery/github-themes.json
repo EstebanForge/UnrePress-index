@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-08T12:34:11Z",
+ "generated_at": "2026-11-09T14:52:36Z",
  "truncated": false,
  "themes": [
   {
@@ -23,7 +23,7 @@
    "requires_php": "7.4",
    "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "slug": "solstice23--argon-theme",
-   "stars": 5594,
+   "stars": 5595,
    "tags": [
     "argon",
     "argon-theme",
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4077,
+   "stars": 4076,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -1287,33 +1287,6 @@
    "version": "2.3.0"
   },
   {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "✏️ wordpress theme for blogger",
-   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
-   "homepage": "https://github.com/bigfa/hera",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-07 16:54:14",
-   "name": "Hera",
-   "provider": "github",
-   "pushed_at": "2025-08-07T16:54:14Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "✏️ wordpress theme for blogger",
-   "slug": "bigfa--hera",
-   "stars": 42,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "0.3.2"
-  },
-  {
    "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
    "author_profile": "https://github.com/jasewarner",
    "build": "tag-archive",
@@ -1349,6 +1322,33 @@
     "wordpress-theme"
    ],
    "version": "2.1.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "✏️ wordpress theme for blogger",
+   "download_url": "https://codeload.github.com/bigfa/hera/zip/refs/tags/v0.3.2",
+   "homepage": "https://github.com/bigfa/hera",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-07 16:54:14",
+   "name": "Hera",
+   "provider": "github",
+   "pushed_at": "2025-08-07T16:54:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "✏️ wordpress theme for blogger",
+   "slug": "bigfa--hera",
+   "stars": 42,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "0.3.2"
   },
   {
    "author": "<a href=\"https://github.com/sdg32\">sdg32</a>",
@@ -1629,25 +1629,22 @@
    "version": "1.0.0"
   },
   {
+   "slug": "vapvarun--buddyx",
+   "name": "BuddyX",
+   "version": "5.2.0",
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
    "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.1.9/buddyx-5.1.9.zip",
+   "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.2.0/buddyx-5.2.0.zip",
    "homepage": "https://github.com/vapvarun/buddyx",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-10-23 20:08:19",
-   "name": "BuddyX",
-   "provider": "github",
-   "pushed_at": "2026-10-23T20:08:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-   "slug": "vapvarun--buddyx",
-   "stars": 29,
+   "last_updated": "2026-11-09 07:46:18",
    "tags": [
     "2021",
     "buddyboss-platform",
@@ -1658,11 +1655,14 @@
     "lifterlms",
     "tutorlms"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "5.1.9"
+   "stars": 29,
+   "pushed_at": "2026-11-09T07:46:18Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/jdmdigital\">jdmdigital</a>",
