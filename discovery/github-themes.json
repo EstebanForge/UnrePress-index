@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-09T14:52:36Z",
+ "generated_at": "2026-11-10T14:05:12Z",
  "truncated": false,
  "themes": [
   {
@@ -23,7 +23,7 @@
    "requires_php": "7.4",
    "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "slug": "solstice23--argon-theme",
-   "stars": 5595,
+   "stars": 5596,
    "tags": [
     "argon",
     "argon-theme",
@@ -249,7 +249,7 @@
    "requires_php": "7.4",
    "short_description": "MDx - Material Design WordPress Theme",
    "slug": "yrccondor--mdx",
-   "stars": 1004,
+   "stars": 1005,
    "tags": [
     "material-design",
     "php"
@@ -374,7 +374,7 @@
    "requires_php": "7.4",
    "short_description": "World's first WordPress theme with a decoupled frontend — served entirely through the WP REST API, powered by Vue",
    "slug": "ttttonyhe--tony",
-   "stars": 563,
+   "stars": 564,
    "tags": [
     "blog-theme",
     "bootstrap4",
@@ -421,7 +421,7 @@
    "requires_php": "7.4",
    "short_description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
    "slug": "syfxlin--origami",
-   "stars": 403,
+   "stars": 404,
    "tags": [
     "origami",
     "php",
@@ -486,7 +486,7 @@
    "requires_php": "7.4",
    "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "slug": "friend-nicen--theme-document",
-   "stars": 349,
+   "stars": 350,
    "tags": [
     "wordpress"
    ],
@@ -934,35 +934,6 @@
    "version": "0.4.1"
   },
   {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
-  },
-  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -998,6 +969,35 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
@@ -1285,43 +1285,6 @@
     "wordpress-theme"
    ],
    "version": "2.3.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/jasewarner\">jasewarner</a>",
-   "author_profile": "https://github.com/jasewarner",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
-   "download_url": "https://codeload.github.com/jasewarner/gulp-wordpress/zip/refs/tags/v2.1.2",
-   "homepage": "https://github.com/jasewarner/gulp-wordpress",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-10-19 09:28:22",
-   "name": "<Theme_Name>",
-   "provider": "github",
-   "pushed_at": "2026-10-19T09:28:22Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Blank slate WordPress theme for Developers, packaged with Gulp.js for processing SCSS and JavaScript (ES6)",
-   "slug": "jasewarner--gulp-wordpress",
-   "stars": 42,
-   "tags": [
-    "boilerplate",
-    "es6",
-    "gulp",
-    "scss",
-    "theme",
-    "wordpress",
-    "wordpress-boilerplate",
-    "wordpress-development",
-    "wordpress-starter-theme"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.1.2"
   },
   {
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
@@ -1629,15 +1592,10 @@
    "version": "1.0.0"
   },
   {
-   "slug": "vapvarun--buddyx",
-   "name": "BuddyX",
-   "version": "5.2.0",
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
    "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.2.0/buddyx-5.2.0.zip",
    "homepage": "https://github.com/vapvarun/buddyx",
@@ -1645,6 +1603,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-09 07:46:18",
+   "name": "BuddyX",
+   "provider": "github",
+   "pushed_at": "2026-11-09T07:46:18Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "slug": "vapvarun--buddyx",
+   "stars": 29,
    "tags": [
     "2021",
     "buddyboss-platform",
@@ -1655,14 +1621,11 @@
     "lifterlms",
     "tutorlms"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 29,
-   "pushed_at": "2026-11-09T07:46:18Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "5.2.0"
   },
   {
    "author": "<a href=\"https://github.com/jdmdigital\">jdmdigital</a>",
