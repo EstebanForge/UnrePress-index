@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-11T13:22:07Z",
+ "generated_at": "2026-11-12T14:27:15Z",
  "truncated": false,
  "themes": [
   {
@@ -96,7 +96,7 @@
    "requires_php": "8.0",
    "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "slug": "afragen--git-updater",
-   "stars": 3320,
+   "stars": 3319,
    "tags": [
     "git",
     "language-pack",
