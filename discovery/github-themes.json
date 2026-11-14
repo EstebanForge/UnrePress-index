@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-13T13:46:29Z",
+ "generated_at": "2026-11-14T12:49:13Z",
  "truncated": false,
  "themes": [
   {
@@ -96,7 +96,7 @@
    "requires_php": "8.0",
    "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "slug": "afragen--git-updater",
-   "stars": 3319,
+   "stars": 3320,
    "tags": [
     "git",
     "language-pack",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2978,
+   "stars": 2979,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2498,
+   "stars": 2500,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -1228,15 +1228,10 @@
    "version": "3.1.1"
   },
   {
-   "slug": "ItalyStrap--italystrap",
-   "name": "ItalyStrap",
-   "version": "3.0.5",
    "author": "<a href=\"https://github.com/ItalyStrap\">ItalyStrap</a>",
    "author_profile": "https://github.com/ItalyStrap",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
    "download_url": "https://github.com/ItalyStrap/italystrap/releases/download/3.0.5/ItalyStrap.3.0.5.zip",
    "homepage": "https://github.com/ItalyStrap/italystrap",
@@ -1244,18 +1239,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-13 04:07:08",
+   "name": "ItalyStrap",
+   "provider": "github",
+   "pushed_at": "2026-11-13T04:07:08Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "ItalyStrap is a WordPress theme Framework for awesome website, it is all developed in OOP, you can extend it with a child theme and is FSE compatible",
+   "slug": "ItalyStrap--italystrap",
+   "stars": 49,
    "tags": [
     "wordpress",
     "wordpress-theme-framework"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 49,
-   "pushed_at": "2026-11-13T04:07:08Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "3.0.5"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
