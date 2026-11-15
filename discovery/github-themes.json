@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-14T12:49:13Z",
+ "generated_at": "2026-11-15T13:16:28Z",
  "truncated": false,
  "themes": [
   {
@@ -340,7 +340,7 @@
    "requires_php": "7.4",
    "short_description": "Hueman WordPress theme is one of the best rated theme for blogs and magazines on WordPress.org. Powers 70k+ websites around the world.",
    "slug": "presscustomizr--hueman",
-   "stars": 573,
+   "stars": 574,
    "tags": [
     "free-software",
     "gplv3",
@@ -934,35 +934,6 @@
    "version": "0.4.1"
   },
   {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
-  },
-  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -998,6 +969,35 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/saltnpixels\">saltnpixels</a>",
