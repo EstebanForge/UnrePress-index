@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-19T15:02:22Z",
+ "generated_at": "2026-11-20T14:45:27Z",
  "truncated": false,
  "themes": [
   {
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4078,
+   "stars": 4077,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -93,7 +93,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-18 23:56:12",
+   "last_updated": "2026-11-20 02:04:58",
    "tags": [
     "git",
     "language-pack",
@@ -104,7 +104,7 @@
     "wordpress-theme"
    ],
    "stars": 3321,
-   "pushed_at": "2026-11-18T23:56:12Z",
+   "pushed_at": "2026-11-20T02:04:58Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "develop"
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2500,
+   "stars": 2499,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -211,7 +211,7 @@
    "requires_php": "7.4",
    "short_description": "🎨 An Advanced WordPress theme",
    "slug": "imranhsayed--aquila",
-   "stars": 1058,
+   "stars": 1057,
    "tags": [
     "advanced-wordpress-theme-devlopment",
     "babel",
@@ -249,7 +249,7 @@
    "requires_php": "7.4",
    "short_description": "MDx - Material Design WordPress Theme",
    "slug": "yrccondor--mdx",
-   "stars": 1004,
+   "stars": 1003,
    "tags": [
     "material-design",
     "php"
@@ -340,7 +340,7 @@
    "requires_php": "7.4",
    "short_description": "Hueman WordPress theme is one of the best rated theme for blogs and magazines on WordPress.org. Powers 70k+ websites around the world.",
    "slug": "presscustomizr--hueman",
-   "stars": 574,
+   "stars": 573,
    "tags": [
     "free-software",
     "gplv3",
@@ -374,7 +374,7 @@
    "requires_php": "7.4",
    "short_description": "World's first WordPress theme with a decoupled frontend — served entirely through the WP REST API, powered by Vue",
    "slug": "ttttonyhe--tony",
-   "stars": 564,
+   "stars": 563,
    "tags": [
     "blog-theme",
     "bootstrap4",
@@ -421,7 +421,7 @@
    "requires_php": "7.4",
    "short_description": ":art: Origami | 一个拥有许多强大功能，简洁，轻快的WordPress主题",
    "slug": "syfxlin--origami",
-   "stars": 404,
+   "stars": 403,
    "tags": [
     "origami",
     "php",
@@ -452,7 +452,7 @@
    "requires_php": "7.4",
    "short_description": "Wordpress + ViteJS + TailwindCSS development example theme, similar to Tailpress but without additional code added",
    "slug": "blonestar--wp-theme-vite-tailwind",
-   "stars": 355,
+   "stars": 353,
    "tags": [
     "tailpress",
     "tailwind",
@@ -468,15 +468,10 @@
    "version": "0.4.1"
   },
   {
-   "slug": "friend-nicen--theme-document",
-   "name": "Document",
-   "version": "1.2.108",
    "author": "<a href=\"https://github.com/friend-nicen\">friend-nicen</a>",
    "author_profile": "https://github.com/friend-nicen",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "download_url": "https://codeload.github.com/friend-nicen/theme-document/zip/refs/tags/1.2.108",
    "homepage": "https://github.com/friend-nicen/theme-document",
@@ -484,17 +479,22 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-19 08:56:47",
+   "name": "Document",
+   "provider": "github",
+   "pushed_at": "2026-11-19T08:56:47Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
+   "slug": "friend-nicen--theme-document",
+   "stars": 349,
    "tags": [
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 350,
-   "pushed_at": "2026-11-19T08:56:47Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.2.108"
   },
   {
    "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
@@ -1658,38 +1658,6 @@
    "version": "1.9.0"
   },
   {
-   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
-   "author_profile": "https://github.com/AvanamOrg",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
-   "homepage": "https://github.com/AvanamOrg/avanam",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-08-11 11:21:19",
-   "name": "Avanam",
-   "provider": "github",
-   "pushed_at": "2026-08-11T11:21:19Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
-   "slug": "AvanamOrg--avanam",
-   "stars": 28,
-   "tags": [
-    "woocommerce",
-    "woocommerce-theme",
-    "wordpress",
-    "wordpress-development"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.6.0"
-  },
-  {
    "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
    "author_profile": "https://github.com/littlebizzy",
    "build": "tag-archive",
@@ -1727,6 +1695,38 @@
     "wordpress-theme"
    ],
    "version": "0.3.280"
+  },
+  {
+   "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
+   "author_profile": "https://github.com/AvanamOrg",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "download_url": "https://codeload.github.com/AvanamOrg/avanam/zip/refs/tags/v1.6.0",
+   "homepage": "https://github.com/AvanamOrg/avanam",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-08-11 11:21:19",
+   "name": "Avanam",
+   "provider": "github",
+   "pushed_at": "2026-08-11T11:21:19Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Avanam is Starter WordPress WooCommerce Theme Created for Theme Developers",
+   "slug": "AvanamOrg--avanam",
+   "stars": 28,
+   "tags": [
+    "woocommerce",
+    "woocommerce-theme",
+    "wordpress",
+    "wordpress-development"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.6.0"
   },
   {
    "author": "<a href=\"https://github.com/christophery\">christophery</a>",
@@ -1929,39 +1929,6 @@
    "version": "1.0.0"
   },
   {
-   "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
-   "author_profile": "https://github.com/imjeff",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
-   "download_url": "https://codeload.github.com/imjeff/wordpress-textonly/zip/refs/tags/v1.0.2",
-   "homepage": "https://github.com/imjeff/wordpress-textonly",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-09-13 12:23:46",
-   "name": "Text Only",
-   "provider": "github",
-   "pushed_at": "2024-09-13T12:23:46Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
-   "slug": "imjeff--wordpress-textonly",
-   "stars": 21,
-   "tags": [
-    "minimal-theme",
-    "minimalistic-theme",
-    "plaintext",
-    "theme",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.0.2"
-  },
-  {
    "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
    "author_profile": "https://github.com/siteorigin",
    "build": "tag-archive",
@@ -1993,6 +1960,39 @@
     "wordpress-theme"
    ],
    "version": "1.20.12"
+  },
+  {
+   "author": "<a href=\"https://github.com/imjeff\">imjeff</a>",
+   "author_profile": "https://github.com/imjeff",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "download_url": "https://codeload.github.com/imjeff/wordpress-textonly/zip/refs/tags/v1.0.2",
+   "homepage": "https://github.com/imjeff/wordpress-textonly",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-09-13 12:23:46",
+   "name": "Text Only",
+   "provider": "github",
+   "pushed_at": "2024-09-13T12:23:46Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Text Only 为纯文本极简主题，黑白配色，对程序极简优化，主题无 JS 和图片文件载入。极简，博客，纯文本，单栏，自适应，免费。",
+   "slug": "imjeff--wordpress-textonly",
+   "stars": 21,
+   "tags": [
+    "minimal-theme",
+    "minimalistic-theme",
+    "plaintext",
+    "theme",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.0.2"
   },
   {
    "author": "<a href=\"https://github.com/Rundiz-WP\">Rundiz-WP</a>",
