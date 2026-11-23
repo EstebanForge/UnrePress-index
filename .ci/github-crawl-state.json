@@ -62,7 +62,7 @@
   },
   "10up/elasticpress": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T22:30:52Z"
+   "pushed_at": "2026-11-23T15:31:24Z"
   },
   "10up/insecure-content-warning": {
    "excluded": "composer-without-vendor",
@@ -225,7 +225,7 @@
   },
   "ahmedkaludi/accelerated-mobile-pages": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-21T10:09:03Z"
+   "pushed_at": "2026-11-23T09:18:57Z"
   },
   "aigptcode/aigpt-wordpress-exploitation-framework": {
    "excluded": "no-tags-or-releases",
@@ -285,7 +285,7 @@
   },
   "airattop/ad-generator": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-09-01T22:52:29Z"
+   "pushed_at": "2026-11-23T13:13:14Z"
   },
   "airesvsg/acf-to-rest-api": {
    "excluded": "composer-without-vendor",
@@ -293,15 +293,15 @@
   },
   "ajaxloadmore/ajax-load-more": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-10-21T00:30:56Z"
+   "pushed_at": "2026-11-23T15:43:43Z"
   },
   "akirk/enable-mastodon-apps": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-20T21:16:32Z"
+   "pushed_at": "2026-11-22T18:20:59Z"
   },
   "akirk/friends": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T21:14:32Z"
+   "pushed_at": "2026-11-22T17:09:44Z"
   },
   "alaca/wp-performance": {
    "excluded": "composer-without-vendor",
@@ -404,7 +404,7 @@
   },
   "alleyinteractive/mantle": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T04:00:56Z"
+   "pushed_at": "2026-11-23T04:00:47Z"
   },
   "alleyinteractive/meta-inspector": {
    "entry": {
@@ -570,7 +570,7 @@
   },
   "amnestywebsite/humanity-theme": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T12:53:52Z"
+   "pushed_at": "2026-11-23T16:56:43Z"
   },
   "ampproject/amp-wp": {
    "excluded": "composer-without-vendor",
@@ -662,7 +662,7 @@
   },
   "ash1234567ii/edd-bulk-cart-flow": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T07:55:49Z"
+   "pushed_at": "2026-11-23T14:07:19Z"
   },
   "ashhitch/wp-graphql-send-mail": {
    "excluded": "composer-without-vendor",
@@ -746,7 +746,7 @@
   },
   "automattic/ad-code-manager": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T22:41:14Z"
+   "pushed_at": "2026-11-23T14:04:55Z"
   },
   "automattic/adbusters": {
    "excluded": "no-plugin-header",
@@ -778,7 +778,7 @@
   },
   "automattic/cron-control": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-13T19:04:06Z"
+   "pushed_at": "2026-11-23T08:20:41Z"
   },
   "automattic/custom-metadata": {
    "excluded": "composer-without-vendor",
@@ -808,10 +808,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-21 18:34:39",
+    "last_updated": "2026-11-23 16:54:09",
     "name": "Jetpack by WordPress.com",
     "provider": "github",
-    "pushed_at": "2026-11-21T18:34:39Z",
+    "pushed_at": "2026-11-23T16:54:09Z",
     "requires": "5.5",
     "requires_php": "5.6",
     "short_description": "Security, performance, marketing, and design tools \u2014 Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your tr",
@@ -831,7 +831,7 @@
     ],
     "version": "9.3.2"
    },
-   "pushed_at": "2026-11-21T18:34:39Z"
+   "pushed_at": "2026-11-23T16:54:09Z"
   },
   "automattic/legacy-redirector": {
    "excluded": "composer-without-vendor",
@@ -847,7 +847,7 @@
   },
   "automattic/maintenance-mode-wp": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T22:30:33Z"
+   "pushed_at": "2026-11-23T14:04:29Z"
   },
   "automattic/media-explorer": {
    "excluded": "no-plugin-header",
@@ -900,7 +900,7 @@
   },
   "automattic/rewrite-rules-inspector": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T23:29:55Z"
+   "pushed_at": "2026-11-23T14:05:01Z"
   },
   "automattic/s3-media-sync": {
    "excluded": "composer-without-vendor",
@@ -908,7 +908,7 @@
   },
   "automattic/sensei": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T20:00:09Z"
+   "pushed_at": "2026-11-23T15:20:17Z"
   },
   "automattic/syndication": {
    "excluded": "composer-without-vendor",
@@ -991,15 +991,15 @@
   },
   "automattic/wordpress-activitypub": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T11:47:25Z"
+   "pushed_at": "2026-11-23T16:34:40Z"
   },
   "automattic/wordpress-atmosphere": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T08:23:45Z"
+   "pushed_at": "2026-11-23T15:58:41Z"
   },
   "automattic/zoninator": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T12:11:24Z"
+   "pushed_at": "2026-11-23T16:38:34Z"
   },
   "av3nger/cf-images": {
    "excluded": "composer-without-vendor",
@@ -1131,10 +1131,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-21 17:19:20",
+    "last_updated": "2026-11-23 01:00:50",
     "name": "Vibe AI \u2013 Connect Your Site to Claude, ChatGPT & AI Assistants",
     "provider": "github",
-    "pushed_at": "2026-11-21T17:19:20Z",
+    "pushed_at": "2026-11-23T01:00:50Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "WPVibe \u2014 MCP server plugin for WordPress. Connect Claude, ChatGPT, Cursor, Windsurf and any MCP-compatible AI client to your self-hosted WordPress sit",
@@ -1161,7 +1161,7 @@
     ],
     "version": "1.5.1"
    },
-   "pushed_at": "2026-11-21T17:19:20Z"
+   "pushed_at": "2026-11-23T01:00:50Z"
   },
   "awsmin/embed-any-documents": {
    "excluded": "composer-without-vendor",
@@ -1191,10 +1191,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-21 07:07:41",
+    "last_updated": "2026-11-23 08:27:19",
     "name": "GeoDirectory",
     "provider": "github",
-    "pushed_at": "2026-11-21T07:07:41Z",
+    "pushed_at": "2026-11-23T08:27:19Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "GeoDirectory is the leading Directory Plugin for WordPress. Compatible with Gutenberg and the most popular page builders such as Elementor, Oxygen, Be",
@@ -1211,7 +1211,7 @@
     ],
     "version": "2.8.207"
    },
-   "pushed_at": "2026-11-21T07:07:41Z"
+   "pushed_at": "2026-11-23T08:27:19Z"
   },
   "ayecode/invoicing": {
    "entry": {
@@ -1225,10 +1225,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-19 09:50:29",
+    "last_updated": "2026-11-23 16:46:00",
     "name": "GetPaid",
     "provider": "github",
-    "pushed_at": "2026-11-19T09:50:29Z",
+    "pushed_at": "2026-11-23T16:46:00Z",
     "requires": "6.0",
     "requires_php": "5.6",
     "short_description": "GetPaid (Formerly the Invoicing plugin) is a lightweight Payments and Invoicing system for WordPress. It can be used to sell anything online via payme",
@@ -1247,7 +1247,7 @@
     ],
     "version": "2.8.67"
    },
-   "pushed_at": "2026-11-19T09:50:29Z"
+   "pushed_at": "2026-11-23T16:46:00Z"
   },
   "ayecode/userswp": {
    "excluded": "no-plugin-header",
@@ -1300,7 +1300,7 @@
   },
   "bbpress/bbpress": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T00:28:34Z"
+   "pushed_at": "2026-11-23T15:54:43Z"
   },
   "beapi/acf-options-for-polylang": {
    "excluded": "composer-without-vendor",
@@ -1320,7 +1320,7 @@
   },
   "beapi/beapi-frontend-framework": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T07:50:18Z"
+   "pushed_at": "2026-11-23T12:09:11Z"
   },
   "beats0/mygalgame": {
    "excluded": "no-tags-or-releases",
@@ -1338,10 +1338,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-20 16:52:53",
+    "last_updated": "2026-11-23 16:14:59",
     "name": "Static Site Exporter",
     "provider": "github",
-    "pushed_at": "2026-11-20T16:52:53Z",
+    "pushed_at": "2026-11-23T16:14:59Z",
     "requires": "6.4",
     "requires_php": "8.2",
     "short_description": "WordPress plugin to export posts, pages & metadata to Markdown + YAML for Jekyll, Hugo, or any static site generator",
@@ -1368,7 +1368,7 @@
     ],
     "version": "4.6.0"
    },
-   "pushed_at": "2026-11-20T16:52:53Z"
+   "pushed_at": "2026-11-23T16:14:59Z"
   },
   "benfiratkaya/wp-blog-theme": {
    "excluded": "no-tags-or-releases",
@@ -1380,7 +1380,7 @@
   },
   "bermfs/blockonomics-edd-wallet-gateway": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T12:57:08Z"
+   "pushed_at": "2026-11-23T10:01:35Z"
   },
   "bigcommerce/bigcommerce-for-wordpress": {
    "excluded": "no-plugin-header",
@@ -1657,7 +1657,7 @@
     "requires_php": "8.0",
     "short_description": "Let AI agents do real WordPress work via MCP. 61 core abilities, 12 add-ons, 280+ ecosystem abilities for content, builders, SEO, security, files, and",
     "slug": "bjornfix--mcp-expose-abilities",
-    "stars": 39,
+    "stars": 40,
     "tags": [
      "agentic-ai",
      "ai-agents",
@@ -1746,7 +1746,7 @@
   },
   "bootscore/bootscore": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T10:45:58Z"
+   "pushed_at": "2026-11-23T09:35:18Z"
   },
   "bozdoz/wp-plugin-leaflet-map": {
    "excluded": "no-plugin-header",
@@ -1816,7 +1816,7 @@
   },
   "braojosfalconjesus-afk/edd-subscription-cancel-confirmer": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T12:59:48Z"
+   "pushed_at": "2026-11-23T10:09:31Z"
   },
   "brettsmason/luxe": {
    "excluded": "composer-without-vendor",
@@ -2097,7 +2097,7 @@
   },
   "chethankumar1/ed-donation-drive": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T07:55:40Z"
+   "pushed_at": "2026-11-23T14:06:29Z"
   },
   "chriskthomas/author-child": {
    "excluded": "no-tags-or-releases",
@@ -2188,7 +2188,7 @@
   },
   "cleantalk/security-malware-firewall": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T10:54:38Z"
+   "pushed_at": "2026-11-23T10:20:08Z"
   },
   "cliffordp/cliff-wp-plugin-boilerplate": {
    "excluded": "no-tags-or-releases",
@@ -2196,7 +2196,7 @@
   },
   "cloudinary/cloudinary_wordpress": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T01:06:10Z"
+   "pushed_at": "2026-11-23T15:26:55Z"
   },
   "cloudverve/wordpress-cloud-media-offloader-plugin": {
    "excluded": "composer-without-vendor",
@@ -2216,11 +2216,11 @@
   },
   "codeinwp/neve": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T11:41:57Z"
+   "pushed_at": "2026-11-23T00:18:14Z"
   },
   "codesnippetspro/code-snippets": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-20T09:29:29Z"
+   "pushed_at": "2026-11-23T11:11:59Z"
   },
   "codestag/stagtools": {
    "entry": {
@@ -2666,7 +2666,7 @@
   },
   "cyberhobo/wordpress-geo-mashup": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T13:27:00Z"
+   "pushed_at": "2026-11-22T15:34:09Z"
   },
   "cyberwani/acf-image-select": {
    "excluded": "no-tags-or-releases",
@@ -2764,10 +2764,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-20 16:42:41",
+    "last_updated": "2026-11-23 13:43:01",
     "name": "OMGF",
     "provider": "github",
-    "pushed_at": "2026-11-20T16:42:41Z",
+    "pushed_at": "2026-11-23T13:43:01Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "OMGF automagically caches the Google Fonts used by your theme/plugins locally. No configuration (or brains) required!",
@@ -2787,7 +2787,7 @@
     ],
     "version": "6.4.1"
    },
-   "pushed_at": "2026-11-20T16:42:41Z"
+   "pushed_at": "2026-11-23T13:43:01Z"
   },
   "dannyvankooten/change-username": {
    "excluded": "composer-without-vendor",
@@ -2804,16 +2804,16 @@
     "build": "tag-archive",
     "default_branch": "main",
     "description": "WordPress plugin to make embedding of code in posts really, really easy",
-    "download_url": "https://codeload.github.com/dartiss/code-embed/zip/refs/tags/2.6.4",
+    "download_url": "https://codeload.github.com/dartiss/code-embed/zip/refs/tags/2.6.5",
     "homepage": "https://github.com/dartiss/code-embed",
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-08-21 16:47:49",
+    "last_updated": "2026-11-23 11:45:23",
     "name": "Code Embed",
     "provider": "github",
-    "pushed_at": "2026-08-21T16:47:49Z",
-    "requires": "4.9",
+    "pushed_at": "2026-11-23T11:45:23Z",
+    "requires": "6.2",
     "requires_php": "7.4",
     "short_description": "WordPress plugin to make embedding of code in posts really, really easy",
     "slug": "dartiss--code-embed",
@@ -2830,9 +2830,9 @@
     "topics": [
      "wordpress-plugin"
     ],
-    "version": "2.6.4"
+    "version": "2.6.5"
    },
-   "pushed_at": "2026-08-21T16:47:49Z"
+   "pushed_at": "2026-11-23T11:45:23Z"
   },
   "dashed-slug/wallets": {
    "entry": {
@@ -2942,7 +2942,7 @@
   },
   "digitoimistodude/air-helper": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-17T11:27:00Z"
+   "pushed_at": "2026-11-23T13:50:22Z"
   },
   "digitoimistodude/air-light": {
    "excluded": "composer-without-vendor",
@@ -3161,15 +3161,15 @@
     "build": "tag-archive",
     "default_branch": "main",
     "description": "A modern hypermedia stack for WordPress. Integrates Datastar, HTMX, and Alpine.js to build rich, interactive blocks and pages with server-rendered PHP templates. Includes a custom field framework with conditional logic. All the power of real-time UIs, none of the JavaScript/React overhead.",
-    "download_url": "https://codeload.github.com/EstebanForge/HyperPress/zip/refs/tags/3.6.7",
+    "download_url": "https://codeload.github.com/EstebanForge/HyperPress/zip/refs/tags/3.6.8",
     "homepage": "https://github.com/EstebanForge/HyperPress",
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-15 21:39:25",
+    "last_updated": "2026-11-22 22:52:35",
     "name": "HyperPress: Modern Hypermedia for WordPress",
     "provider": "github",
-    "pushed_at": "2026-11-15T21:39:25Z",
+    "pushed_at": "2026-11-22T22:52:35Z",
     "requires": "6.9",
     "requires_php": "8.2",
     "short_description": "A modern hypermedia stack for WordPress. Integrates Datastar, HTMX, and Alpine.js to build rich, interactive blocks and pages with server-rendered PHP",
@@ -3187,9 +3187,9 @@
     "topics": [
      "wordpress-plugin"
     ],
-    "version": "3.6.7"
+    "version": "3.6.8"
    },
-   "pushed_at": "2026-11-15T21:39:25Z"
+   "pushed_at": "2026-11-22T22:52:35Z"
   },
   "evanagee/vuejs-wordpress-plugin-starter": {
    "excluded": "no-tags-or-releases",
@@ -3217,7 +3217,7 @@
   },
   "extra-chill/data-machine": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-22T02:36:23Z"
+   "pushed_at": "2026-11-23T16:03:42Z"
   },
   "f/gutenwright": {
    "entry": {
@@ -3384,7 +3384,7 @@
   },
   "fluent-cart/fluent-cart": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-18T03:57:43Z"
+   "pushed_at": "2026-11-23T05:00:43Z"
   },
   "flyntwp/flynt": {
    "excluded": "composer-without-vendor",
@@ -3530,7 +3530,7 @@
     "requires_php": "7.4",
     "short_description": "Document\u4e3b\u9898\uff0c\u4e00\u6b3e\u4e13\u4e3a\u505a\u7b14\u8bb0\u800c\u5f00\u53d1\u7684wordpress\u4e3b\u9898",
     "slug": "friend-nicen--theme-document",
-    "stars": 349,
+    "stars": 348,
     "tags": [
      "wordpress"
     ],
@@ -3560,7 +3560,7 @@
   },
   "futtta/autoptimize": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-10-29T18:24:32Z"
+   "pushed_at": "2026-11-22T20:21:22Z"
   },
   "g023/superez-ai-seo-wordpress-plugin": {
    "excluded": "no-plugin-header",
@@ -3568,7 +3568,7 @@
   },
   "gambitph/stackable": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T05:09:29Z"
+   "pushed_at": "2026-11-23T13:51:04Z"
   },
   "garciaalvaro/block-navigation": {
    "entry": {
@@ -3615,7 +3615,7 @@
   },
   "gatographql/gatographql": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T11:16:13Z"
+   "pushed_at": "2026-11-23T12:55:30Z"
   },
   "gedex/wp-slack": {
    "entry": {
@@ -3715,7 +3715,7 @@
   },
   "glotpress/glotpress": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T18:59:55Z"
+   "pushed_at": "2026-11-23T06:46:37Z"
   },
   "goaround/gallery-block-lightbox": {
    "excluded": "composer-without-vendor",
@@ -3787,10 +3787,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-19 20:25:16",
+    "last_updated": "2026-11-23 16:29:19",
     "name": "LifterLMS",
     "provider": "github",
-    "pushed_at": "2026-11-19T20:25:16Z",
+    "pushed_at": "2026-11-23T16:29:19Z",
     "requires": "5.9",
     "requires_php": "7.4",
     "short_description": "LifterLMS, a WordPress LMS Solution: Easily create, sell, and protect engaging online courses.",
@@ -3813,7 +3813,7 @@
     ],
     "version": "11.1.0"
    },
-   "pushed_at": "2026-11-19T20:25:16Z"
+   "pushed_at": "2026-11-23T16:29:19Z"
   },
   "godaddy-wordpress/coblocks": {
    "excluded": "composer-without-vendor",
@@ -3860,11 +3860,11 @@
   },
   "gravitypdf/gravity-pdf": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T04:44:09Z"
+   "pushed_at": "2026-11-23T06:00:59Z"
   },
   "greenpeace/planet4-master-theme": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T14:37:13Z"
+   "pushed_at": "2026-11-23T14:19:42Z"
   },
   "groundhoggwp/groundhogg": {
    "excluded": "composer-without-vendor",
@@ -4079,7 +4079,7 @@
   },
   "humanmade/asset-manager-framework": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-17T12:14:29Z"
+   "pushed_at": "2026-11-23T09:17:24Z"
   },
   "humanmade/authorship": {
    "excluded": "composer-without-vendor",
@@ -4339,7 +4339,7 @@
   },
   "impress-org/givewp": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-20T21:13:16Z"
+   "pushed_at": "2026-11-23T16:21:25Z"
   },
   "imranhsayed/aquila": {
    "entry": {
@@ -4416,7 +4416,7 @@
   },
   "indieweb/wordpress-indieauth": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T10:40:50Z"
+   "pushed_at": "2026-11-23T11:11:38Z"
   },
   "indieweb/wordpress-indieweb": {
    "excluded": "composer-without-vendor",
@@ -4460,7 +4460,7 @@
   },
   "inpsyde/google-tag-manager": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-09T02:15:56Z"
+   "pushed_at": "2026-11-23T02:16:48Z"
   },
   "inpsyde/modularity": {
    "excluded": "composer-without-vendor",
@@ -4990,7 +4990,7 @@
   },
   "jonimmswordpressdev/stratawp-seo": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T21:42:22Z"
+   "pushed_at": "2026-11-23T01:54:54Z"
   },
   "jonoalderson/edge-images": {
    "entry": {
@@ -5429,7 +5429,7 @@
   },
   "learnpress/learnpress": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T11:18:58Z"
+   "pushed_at": "2026-11-23T10:35:05Z"
   },
   "leocaoyvr/ilite": {
    "excluded": "no-tags-or-releases",
@@ -5567,11 +5567,11 @@
   },
   "liedekef/events-made-easy": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-21T22:05:35Z"
+   "pushed_at": "2026-11-23T16:09:56Z"
   },
   "lightspeedwp/lsx": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T01:04:33Z"
+   "pushed_at": "2026-11-23T01:07:35Z"
   },
   "likecoin/likecoin-wordpress": {
    "excluded": "composer-without-vendor",
@@ -5608,15 +5608,15 @@
     "build": "tag-archive",
     "default_branch": "master",
     "description": "No maintenance WordPress theme",
-    "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.281",
+    "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.282",
     "homepage": "https://github.com/littlebizzy/hovercraft",
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-22 13:06:18",
+    "last_updated": "2026-11-22 13:53:51",
     "name": "HoverCraft",
     "provider": "github",
-    "pushed_at": "2026-11-22T13:06:18Z",
+    "pushed_at": "2026-11-22T13:53:51Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "No maintenance WordPress theme",
@@ -5639,9 +5639,9 @@
     "topics": [
      "wordpress-theme"
     ],
-    "version": "0.3.281"
+    "version": "0.3.282"
    },
-   "pushed_at": "2026-11-22T13:06:18Z"
+   "pushed_at": "2026-11-22T13:53:51Z"
   },
   "littlebizzy/repoman": {
    "excluded": "no-plugin-header",
@@ -5887,7 +5887,7 @@
   },
   "mailpoet/mailpoet": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-21T00:05:04Z"
+   "pushed_at": "2026-11-23T15:23:06Z"
   },
   "mainwp/mainwp": {
    "excluded": "composer-without-vendor",
@@ -6415,7 +6415,7 @@
     "requires_php": "7.4",
     "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
     "slug": "mirai-mamori--Sakurairo",
-    "stars": 4076,
+    "stars": 4077,
     "tags": [
      "ai-assisted",
      "ai-assisted-reading",
@@ -6579,20 +6579,20 @@
     "build": "release-asset",
     "default_branch": "main",
     "description": "WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating your site. Availability depends on installed integrations and enabled tools.",
-    "download_url": "https://github.com/msrbuilds/elementor-mcp/releases/download/v3.22.0/emcp-tools-3.22.0.zip",
+    "download_url": "https://github.com/msrbuilds/elementor-mcp/releases/download/v3.22.1/emcp-tools-3.22.1.zip",
     "homepage": "https://github.com/msrbuilds/elementor-mcp",
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-21 22:52:23",
+    "last_updated": "2026-11-23 14:39:23",
     "name": "EMCP Tools",
     "provider": "github",
-    "pushed_at": "2026-11-21T22:52:23Z",
+    "pushed_at": "2026-11-23T14:39:23Z",
     "requires": "6.9",
     "requires_php": "8.1",
     "short_description": "WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating your site. Availability depends on",
     "slug": "msrbuilds--elementor-mcp",
-    "stars": 767,
+    "stars": 768,
     "tags": [
      "elementor",
      "mcp-server",
@@ -6602,9 +6602,9 @@
     "topics": [
      "wordpress-plugin"
     ],
-    "version": "3.22.0"
+    "version": "3.22.1"
    },
-   "pushed_at": "2026-11-21T22:52:23Z"
+   "pushed_at": "2026-11-23T14:39:23Z"
   },
   "mtekk/breadcrumb-navxt": {
    "excluded": "composer-without-vendor",
@@ -6708,7 +6708,7 @@
   },
   "myparcelnl/woocommerce": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T09:03:58Z"
+   "pushed_at": "2026-11-23T01:56:33Z"
   },
   "nadimtuhin/facebook-request-throttle-wordpress-plugin": {
    "excluded": "composer-without-vendor",
@@ -6931,7 +6931,7 @@
   },
   "nicumicle/simple-jwt-login": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T16:26:21Z"
+   "pushed_at": "2026-11-23T05:49:47Z"
   },
   "nielsdeblaauw/query-monitor-twig-profile": {
    "excluded": "composer-without-vendor",
@@ -7077,7 +7077,7 @@
   },
   "oaris-dev/diviops": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-20T17:00:36Z"
+   "pushed_at": "2026-11-23T14:42:19Z"
   },
   "ocean90/public-post-preview": {
    "excluded": "composer-without-vendor",
@@ -7200,7 +7200,7 @@
   },
   "openreceive/openreceive": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-21T10:18:49Z"
+   "pushed_at": "2026-11-23T14:48:55Z"
   },
   "optimocha/speed-booster-pack": {
    "excluded": "no-tags-or-releases",
@@ -7267,7 +7267,7 @@
     "requires_php": "7.4",
     "short_description": "WordPress \u7248 WebStack \u5bfc\u822a\u4e3b\u9898 https://nav.iowen.cn",
     "slug": "owen0o0--WebStack",
-    "stars": 2499,
+    "stars": 2498,
     "tags": [
      "bookmark",
      "dao-hang",
@@ -7392,10 +7392,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-20 16:35:29",
+    "last_updated": "2026-11-23 13:55:40",
     "name": "Parse.ly",
     "provider": "github",
-    "pushed_at": "2026-11-20T16:35:29Z",
+    "pushed_at": "2026-11-23T13:55:40Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "The official WordPress plugin for Parse.ly - makes it a snap to add the required tracking code to enable Parse.ly on your WordPress site.",
@@ -7413,7 +7413,7 @@
     ],
     "version": "3.26.0"
    },
-   "pushed_at": "2026-11-20T16:35:29Z"
+   "pushed_at": "2026-11-23T13:55:40Z"
   },
   "perfectdotexe/wordpress-plugins-list": {
    "excluded": "no-tags-or-releases",
@@ -7449,7 +7449,7 @@
   },
   "pfefferle/wordpress-opengraph": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-12T12:33:11Z"
+   "pushed_at": "2026-11-23T11:14:03Z"
   },
   "pfefferle/wordpress-webfinger": {
    "excluded": "composer-without-vendor",
@@ -7457,7 +7457,7 @@
   },
   "pfefferle/wordpress-webmention": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T11:42:49Z"
+   "pushed_at": "2026-11-23T11:13:25Z"
   },
   "philbuchanan/accordion-blocks": {
    "entry": {
@@ -7723,7 +7723,7 @@
   },
   "pluginkollektiv/antispam-bee": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T09:26:30Z"
+   "pushed_at": "2026-11-23T09:45:32Z"
   },
   "pluginkollektiv/antivirus": {
    "excluded": "composer-without-vendor",
@@ -7982,7 +7982,7 @@
   },
   "progressplanner/aaa-option-optimizer": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-18T14:04:20Z"
+   "pushed_at": "2026-11-23T09:23:03Z"
   },
   "progressplanner/comment-hacks": {
    "excluded": "composer-without-vendor",
@@ -8008,7 +8008,7 @@
     "requires_php": "7.4",
     "short_description": "Advanced Custom Fields Pro, Git-ified. Automatically synced via GitHub Actions! This repository is just a mirror of the Advanced Custom Fields Pro plu",
     "slug": "pronamic--advanced-custom-fields-pro",
-    "stars": 1356,
+    "stars": 1357,
     "tags": [
      "acf",
      "acf-field",
@@ -8066,7 +8066,7 @@
   },
   "publishpress/publishpress-planner": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T19:58:15Z"
+   "pushed_at": "2026-11-23T15:02:30Z"
   },
   "pubsubhubbub/wordpress-pubsubhubbub": {
    "excluded": "composer-without-vendor",
@@ -8165,7 +8165,7 @@
   },
   "quizandsurveymaster/quiz_master_next": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T06:05:10Z"
+   "pushed_at": "2026-11-23T13:25:12Z"
   },
   "qwqdanchun/win10exp": {
    "entry": {
@@ -8306,7 +8306,7 @@
   },
   "reduxframework/redux-framework": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T10:09:41Z"
+   "pushed_at": "2026-11-23T08:59:16Z"
   },
   "renatonascalves/wp-graphql-buddypress": {
    "excluded": "composer-without-vendor",
@@ -8367,7 +8367,7 @@
   },
   "rix4uni/wordpress-plugins": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T13:42:21Z"
+   "pushed_at": "2026-11-23T16:39:21Z"
   },
   "rm-rf-run/jasmine": {
    "entry": {
@@ -8646,11 +8646,11 @@
   },
   "roots/acorn": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T09:16:39Z"
+   "pushed_at": "2026-11-23T16:56:40Z"
   },
   "roots/allow-svg": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-10-14T01:13:22Z"
+   "pushed_at": "2026-11-23T15:09:14Z"
   },
   "roots/multisite-url-fixer": {
    "excluded": "composer-without-vendor",
@@ -8662,11 +8662,11 @@
   },
   "roots/sage": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-10-07T22:19:29Z"
+   "pushed_at": "2026-11-23T15:08:55Z"
   },
   "roots/wp-stage-switcher": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-04-26T23:03:17Z"
+   "pushed_at": "2026-11-23T15:09:34Z"
   },
   "rtcamp/login-with-google": {
    "excluded": "composer-without-vendor",
@@ -9175,7 +9175,7 @@
     "requires_php": "7.4",
     "short_description": "\ud83d\udcd6 Argon - \u4e00\u4e2a\u8f7b\u76c8\u3001\u7b80\u6d01\u7684 WordPress \u4e3b\u9898",
     "slug": "solstice23--argon-theme",
-    "stars": 5594,
+    "stars": 5596,
     "tags": [
      "argon",
      "argon-theme",
@@ -9546,7 +9546,7 @@
   },
   "strategy11/formidable-forms": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T19:15:50Z"
+   "pushed_at": "2026-11-23T15:30:33Z"
   },
   "stuttter/ludicrousdb": {
    "excluded": "composer-without-vendor",
@@ -9594,11 +9594,11 @@
   },
   "superpwa/super-progressive-web-apps": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-17T06:17:37Z"
+   "pushed_at": "2026-11-23T10:14:44Z"
   },
   "surveyjs/surveyjs-wordpress": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T12:04:44Z"
+   "pushed_at": "2026-11-23T16:53:32Z"
   },
   "surveywp/kk-star-ratings": {
    "entry": {
@@ -9646,11 +9646,11 @@
   },
   "swissspidy/disable-embeds": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-20T22:32:18Z"
+   "pushed_at": "2026-11-23T08:34:13Z"
   },
   "swissspidy/performant-translations": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T06:10:34Z"
+   "pushed_at": "2026-11-23T09:45:21Z"
   },
   "swissspidy/preferred-languages": {
    "excluded": "composer-without-vendor",
@@ -9756,7 +9756,7 @@
   },
   "tainacan/tainacan": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T21:11:09Z"
+   "pushed_at": "2026-11-23T12:05:34Z"
   },
   "taniarascia/startwordpress": {
    "excluded": "no-tags-or-releases",
@@ -9972,7 +9972,7 @@
   },
   "theabdullah25/xtra-wordpress-theme": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-22T10:47:06Z"
+   "pushed_at": "2026-11-23T10:18:31Z"
   },
   "thebatclaudio/wp-rest-api-v2-menus": {
    "excluded": "no-plugin-header",
@@ -10051,7 +10051,7 @@
   },
   "themefuse/brizy": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T16:07:57Z"
+   "pushed_at": "2026-11-23T13:25:58Z"
   },
   "themegrill/everest-forms": {
    "entry": {
@@ -10065,10 +10065,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-20 13:16:22",
+    "last_updated": "2026-11-23 08:56:19",
     "name": "Everest Forms",
     "provider": "github",
-    "pushed_at": "2026-11-20T13:16:22Z",
+    "pushed_at": "2026-11-23T08:56:19Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "A drag and drop form builder plugin to create powerful WordPress forms in minutes.",
@@ -10086,7 +10086,7 @@
     ],
     "version": "3.6.5"
    },
-   "pushed_at": "2026-11-20T13:16:22Z"
+   "pushed_at": "2026-11-23T08:56:19Z"
   },
   "themeum/kirki": {
    "excluded": "composer-without-vendor",
@@ -10209,7 +10209,7 @@
   },
   "thimpresswp/wp-hotel-booking": {
    "excluded": "no-tags-or-releases",
-   "pushed_at": "2026-11-19T09:51:16Z"
+   "pushed_at": "2026-11-23T02:43:56Z"
   },
   "thingsym/custom-post-type-widgets": {
    "excluded": "composer-without-vendor",
@@ -10336,7 +10336,7 @@
   },
   "torounit/custom-post-type-permalinks": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T12:55:33Z"
+   "pushed_at": "2026-11-22T17:00:29Z"
   },
   "torounit/vanilla": {
    "excluded": "composer-without-vendor",
@@ -10498,7 +10498,7 @@
   },
   "twistedandy/wp-theme": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T09:37:22Z"
+   "pushed_at": "2026-11-23T07:21:14Z"
   },
   "tzri/open-wordpress-seo": {
    "excluded": "no-plugin-header",
@@ -10510,11 +10510,11 @@
   },
   "ultimate-multisite/superdav-ai-agent": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T05:22:35Z"
+   "pushed_at": "2026-11-23T05:22:55Z"
   },
   "ultimate-multisite/ultimate-multisite": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T07:21:00Z"
+   "pushed_at": "2026-11-23T05:21:04Z"
   },
   "umutphp/wp-vulnerability-check": {
    "excluded": "composer-without-vendor",
@@ -10613,15 +10613,15 @@
     "build": "release-asset",
     "default_branch": "master",
     "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
-    "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.2.0/buddyx-5.2.0.zip",
+    "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.3.0/buddyx-5.3.0.zip",
     "homepage": "https://github.com/vapvarun/buddyx",
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-09 07:46:18",
+    "last_updated": "2026-11-23 16:34:18",
     "name": "BuddyX",
     "provider": "github",
-    "pushed_at": "2026-11-09T07:46:18Z",
+    "pushed_at": "2026-11-23T16:34:18Z",
     "requires": "6.0",
     "requires_php": "7.4",
     "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
@@ -10641,9 +10641,9 @@
     "topics": [
      "wordpress-theme"
     ],
-    "version": "5.2.0"
+    "version": "5.3.0"
    },
-   "pushed_at": "2026-11-09T07:46:18Z"
+   "pushed_at": "2026-11-23T16:34:18Z"
   },
   "varunsridharan/woocommerce-role-based-price": {
    "entry": {
@@ -10683,7 +10683,7 @@
   },
   "vektor-inc/lightning": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T00:14:11Z"
+   "pushed_at": "2026-11-23T00:09:43Z"
   },
   "vektor-inc/vk-all-in-one-expansion-unit": {
    "excluded": "composer-without-vendor",
@@ -10829,7 +10829,7 @@
   },
   "w3bdesign/wp-algolia-woo-indexer": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T04:03:49Z"
+   "pushed_at": "2026-11-23T04:03:20Z"
   },
   "warengonzaga/thirdweb-wp": {
    "entry": {
@@ -10875,7 +10875,7 @@
   },
   "wcpos/woocommerce-pos": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T09:01:41Z"
+   "pushed_at": "2026-11-23T16:39:59Z"
   },
   "wearenolte/lean-theme": {
    "excluded": "no-description",
@@ -10983,7 +10983,7 @@
   },
   "webdevstudios/wp-search-with-algolia": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T17:23:40Z"
+   "pushed_at": "2026-11-23T14:21:19Z"
   },
   "webfactoryltd/bulk-delete": {
    "excluded": "composer-without-vendor",
@@ -11064,7 +11064,7 @@
   },
   "westonruter/syntax-highlighting-code-block": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T07:00:39Z"
+   "pushed_at": "2026-11-23T08:45:13Z"
   },
   "widdin/wp-bricks-elements": {
    "excluded": "no-tags-or-releases",
@@ -11110,7 +11110,7 @@
   },
   "wielebenwir/commonsbooking": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T17:09:06Z"
+   "pushed_at": "2026-11-23T08:53:05Z"
   },
   "wikitribune/fabrica-collaborative-editing": {
    "excluded": "composer-without-vendor",
@@ -11130,7 +11130,7 @@
   },
   "woocommerce/storefront": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T15:29:09Z"
+   "pushed_at": "2026-11-23T12:37:09Z"
   },
   "woocommerce/woosidebars": {
    "entry": {
@@ -11219,7 +11219,7 @@
   },
   "wordpress/ai": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T19:24:59Z"
+   "pushed_at": "2026-11-23T16:51:05Z"
   },
   "wordpress/community-team": {
    "excluded": "no-tags-or-releases",
@@ -11235,19 +11235,19 @@
   },
   "wordpress/gutenberg": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T09:12:46Z"
+   "pushed_at": "2026-11-23T15:40:00Z"
   },
   "wordpress/openstation": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T13:25:09Z"
+   "pushed_at": "2026-11-22T18:56:07Z"
   },
   "wordpress/plugin-check": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T15:11:14Z"
+   "pushed_at": "2026-11-23T11:15:45Z"
   },
   "wordpress/presence-api": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-18T16:34:05Z"
+   "pushed_at": "2026-11-23T15:58:32Z"
   },
   "wordpress/theme-check": {
    "excluded": "no-tags-or-releases",
@@ -11458,7 +11458,7 @@
   },
   "wp-document-revisions/wp-document-revisions": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T18:17:43Z"
+   "pushed_at": "2026-11-23T06:05:04Z"
   },
   "wp-for-church/sermon-manager": {
    "excluded": "composer-without-vendor",
@@ -11466,7 +11466,7 @@
   },
   "wp-graphql/wp-graphql": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-20T23:01:09Z"
+   "pushed_at": "2026-11-23T01:32:36Z"
   },
   "wp-graphql/wp-graphql-jwt-authentication": {
    "entry": {
@@ -11518,7 +11518,7 @@
   },
   "wp-media/wp-rocket": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-20T21:01:35Z"
+   "pushed_at": "2026-11-23T16:29:43Z"
   },
   "wp-papi/papi": {
    "excluded": "composer-without-vendor",
@@ -11526,7 +11526,7 @@
   },
   "wp-slimstat/wp-slimstat": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-22T12:32:28Z"
+   "pushed_at": "2026-11-23T11:53:26Z"
   },
   "wp-statistics/wp-statistics": {
    "entry": {
@@ -11540,10 +11540,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-21 15:26:04",
+    "last_updated": "2026-11-23 15:29:00",
     "name": "WP Statistics",
     "provider": "github",
-    "pushed_at": "2026-11-21T15:26:04Z",
+    "pushed_at": "2026-11-23T15:29:00Z",
     "requires": "6.6",
     "requires_php": "7.4",
     "short_description": "The Most Popular Privacy-Friendly Analytics Plugin",
@@ -11568,11 +11568,11 @@
     ],
     "version": "14.16.20"
    },
-   "pushed_at": "2026-11-21T15:26:04Z"
+   "pushed_at": "2026-11-23T15:29:00Z"
   },
   "wpbones/wpbones": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-16T13:25:31Z"
+   "pushed_at": "2026-11-23T10:54:21Z"
   },
   "wpclouddeploy/wp-cloud-deploy": {
    "excluded": "no-plugin-header",
@@ -11580,7 +11580,7 @@
   },
   "wpdevelopers/essential-addons-for-elementor-lite": {
    "excluded": "no-plugin-header",
-   "pushed_at": "2026-11-22T12:36:18Z"
+   "pushed_at": "2026-11-23T10:06:31Z"
   },
   "wpengine/frost": {
    "entry": {
@@ -11637,10 +11637,10 @@
     "icons": {
      "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
     },
-    "last_updated": "2026-11-22 01:15:12",
+    "last_updated": "2026-11-23 14:12:28",
     "name": "WP Event Manager",
     "provider": "github",
-    "pushed_at": "2026-11-22T01:15:12Z",
+    "pushed_at": "2026-11-23T14:12:28Z",
     "requires": "6.5",
     "requires_php": "7.6",
     "short_description": "WP Event Manager is a lightweight, scalable and full-featured event management plugin for adding event listing functionality to your WordPress site. T",
@@ -11663,7 +11663,7 @@
     ],
     "version": "3.4.2"
    },
-   "pushed_at": "2026-11-22T01:15:12Z"
+   "pushed_at": "2026-11-23T14:12:28Z"
   },
   "wpexpertsio/login-designer": {
    "excluded": "composer-without-vendor",
@@ -11716,7 +11716,7 @@
   },
   "wpmanageninja/fluent-security": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-21T13:59:53Z"
+   "pushed_at": "2026-11-23T13:34:22Z"
   },
   "wpmanageninja/fluent-smtp": {
    "excluded": "no-plugin-header",
@@ -11880,7 +11880,7 @@
   },
   "xtendify/simple-calendar": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-19T03:47:04Z"
+   "pushed_at": "2026-11-23T08:24:35Z"
   },
   "xunhuweb/weixin-payments-for-woocommerce": {
    "excluded": "no-tags-or-releases",
@@ -11970,7 +11970,7 @@
   },
   "yoast/yoast-acf-analysis": {
    "excluded": "composer-without-vendor",
-   "pushed_at": "2026-11-18T09:45:07Z"
+   "pushed_at": "2026-11-23T15:31:23Z"
   },
   "youknowriad/dropit": {
    "excluded": "composer-without-vendor",
