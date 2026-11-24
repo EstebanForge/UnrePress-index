@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-23T17:02:19Z",
+ "generated_at": "2026-11-24T16:50:23Z",
  "truncated": false,
  "themes": [
   {
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4077,
+   "stars": 4078,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -1063,40 +1063,6 @@
    "version": "4.0.1"
   },
   {
-   "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
-   "author_profile": "https://github.com/siteorigin",
-   "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page layouts, Smart Slider 3 for big beautiful sliders and WooCommerce to help you sell online. Vantage is fully responsive and retina ready. Use it to start a business site, portfolio or online store.",
-   "download_url": "https://codeload.github.com/siteorigin/vantage/zip/refs/tags/1.20.33",
-   "homepage": "https://github.com/siteorigin/vantage",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-09-16 09:45:40",
-   "name": "Vantage",
-   "provider": "github",
-   "pushed_at": "2026-09-16T09:45:40Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page ",
-   "slug": "siteorigin--vantage",
-   "stars": 70,
-   "tags": [
-    "jetpack",
-    "page-builder",
-    "theme",
-    "widgets-bundle",
-    "woocommerce-theme",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.20.33"
-  },
-  {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
    "build": "release-asset",
@@ -1134,6 +1100,40 @@
     "wordpress-theme"
    ],
    "version": "3.1.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/siteorigin\">siteorigin</a>",
+   "author_profile": "https://github.com/siteorigin",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page layouts, Smart Slider 3 for big beautiful sliders and WooCommerce to help you sell online. Vantage is fully responsive and retina ready. Use it to start a business site, portfolio or online store.",
+   "download_url": "https://codeload.github.com/siteorigin/vantage/zip/refs/tags/1.20.33",
+   "homepage": "https://github.com/siteorigin/vantage",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-09-16 09:45:40",
+   "name": "Vantage",
+   "provider": "github",
+   "pushed_at": "2026-09-16T09:45:40Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page ",
+   "slug": "siteorigin--vantage",
+   "stars": 70,
+   "tags": [
+    "jetpack",
+    "page-builder",
+    "theme",
+    "widgets-bundle",
+    "woocommerce-theme",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.20.33"
   },
   {
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
@@ -1343,6 +1343,41 @@
    "version": "1.2.0"
   },
   {
+   "author": "<a href=\"https://github.com/pixelgrade\">pixelgrade</a>",
+   "author_profile": "https://github.com/pixelgrade",
+   "build": "release-asset",
+   "default_branch": "master",
+   "description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experience.",
+   "download_url": "https://github.com/pixelgrade/rosa2-lite/releases/download/1.3.1/rosa2-lite-1-3-1.zip",
+   "homepage": "https://github.com/pixelgrade/rosa2-lite",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2022-12-05 05:12:30",
+   "name": "Rosa2 Lite",
+   "provider": "github",
+   "pushed_at": "2022-12-05T05:12:30Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
+   "slug": "pixelgrade--rosa2-lite",
+   "stars": 36,
+   "tags": [
+    "business-website",
+    "gutenberg-compatible",
+    "gutenberg-theme",
+    "presentation-website",
+    "restaurant-website",
+    "wordpress",
+    "wordpress-blocks"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.3.1"
+  },
+  {
    "author": "<a href=\"https://github.com/chyvak1831\">chyvak1831</a>",
    "author_profile": "https://github.com/chyvak1831",
    "build": "tag-archive",
@@ -1380,68 +1415,6 @@
    "version": "2.0.1"
   },
   {
-   "author": "<a href=\"https://github.com/pixelgrade\">pixelgrade</a>",
-   "author_profile": "https://github.com/pixelgrade",
-   "build": "release-asset",
-   "default_branch": "master",
-   "description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experience.",
-   "download_url": "https://github.com/pixelgrade/rosa2-lite/releases/download/1.3.1/rosa2-lite-1-3-1.zip",
-   "homepage": "https://github.com/pixelgrade/rosa2-lite",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2022-12-05 05:12:30",
-   "name": "Rosa2 Lite",
-   "provider": "github",
-   "pushed_at": "2022-12-05T05:12:30Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
-   "slug": "pixelgrade--rosa2-lite",
-   "stars": 36,
-   "tags": [
-    "business-website",
-    "gutenberg-compatible",
-    "gutenberg-theme",
-    "presentation-website",
-    "restaurant-website",
-    "wordpress",
-    "wordpress-blocks"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.3.1"
-  },
-  {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "🎬 single column wordpress theme",
-   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
-   "homepage": "https://github.com/bigfa/Berry",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-30 12:02:24",
-   "name": "Berry",
-   "provider": "github",
-   "pushed_at": "2025-08-30T12:02:24Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "🎬 single column wordpress theme",
-   "slug": "bigfa--Berry",
-   "stars": 33,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.2.2"
-  },
-  {
    "author": "<a href=\"https://github.com/sinanisler\">sinanisler</a>",
    "author_profile": "https://github.com/sinanisler",
    "build": "tag-archive",
@@ -1472,6 +1445,33 @@
     "wordpress-theme"
    ],
    "version": "0.40.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "🎬 single column wordpress theme",
+   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
+   "homepage": "https://github.com/bigfa/Berry",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-30 12:02:24",
+   "name": "Berry",
+   "provider": "github",
+   "pushed_at": "2025-08-30T12:02:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎬 single column wordpress theme",
+   "slug": "bigfa--Berry",
+   "stars": 33,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.2.2"
   },
   {
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
@@ -1592,15 +1592,10 @@
    "version": "1.0.0"
   },
   {
-   "slug": "vapvarun--buddyx",
-   "name": "BuddyX",
-   "version": "5.3.0",
    "author": "<a href=\"https://github.com/vapvarun\">vapvarun</a>",
    "author_profile": "https://github.com/vapvarun",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
    "download_url": "https://github.com/vapvarun/buddyx/releases/download/v5.3.0/buddyx-5.3.0.zip",
    "homepage": "https://github.com/vapvarun/buddyx",
@@ -1608,6 +1603,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-23 16:34:18",
+   "name": "BuddyX",
+   "provider": "github",
+   "pushed_at": "2026-11-23T16:34:18Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Free Theme for BuddyPress, LearnDash, LifterLMS, LearnPress, TutorLMS & BuddyBoss Platform - BuddyX ( AVAILABLE AT WORDPRESS.ORG )",
+   "slug": "vapvarun--buddyx",
+   "stars": 29,
    "tags": [
     "2021",
     "buddyboss-platform",
@@ -1618,14 +1621,11 @@
     "lifterlms",
     "tutorlms"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 29,
-   "pushed_at": "2026-11-23T16:34:18Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "5.3.0"
   },
   {
    "author": "<a href=\"https://github.com/jdmdigital\">jdmdigital</a>",
@@ -1658,15 +1658,10 @@
    "version": "1.9.0"
   },
   {
-   "slug": "littlebizzy--hovercraft",
-   "name": "HoverCraft",
-   "version": "0.3.282",
    "author": "<a href=\"https://github.com/littlebizzy\">littlebizzy</a>",
    "author_profile": "https://github.com/littlebizzy",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "No maintenance WordPress theme",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "No maintenance WordPress theme",
    "download_url": "https://codeload.github.com/littlebizzy/hovercraft/zip/refs/tags/0.3.282",
    "homepage": "https://github.com/littlebizzy/hovercraft",
@@ -1674,6 +1669,14 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-22 13:53:51",
+   "name": "HoverCraft",
+   "provider": "github",
+   "pushed_at": "2026-11-22T13:53:51Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "No maintenance WordPress theme",
+   "slug": "littlebizzy--hovercraft",
+   "stars": 28,
    "tags": [
     "bbpress",
     "font-awesome",
@@ -1687,14 +1690,11 @@
     "wordpress-customizer",
     "wordpress-menu"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 28,
-   "pushed_at": "2026-11-22T13:53:51Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "0.3.282"
   },
   {
    "author": "<a href=\"https://github.com/AvanamOrg\">AvanamOrg</a>",
