@@ -1,29 +1,26 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-24T16:50:23Z",
+ "generated_at": "2026-11-25T16:38:27Z",
  "truncated": false,
  "themes": [
   {
+   "slug": "solstice23--argon-theme",
+   "name": "argon",
+   "version": "1.3.5",
    "author": "<a href=\"https://github.com/solstice23\">solstice23</a>",
    "author_profile": "https://github.com/solstice23",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.0",
+   "tested": "6.7",
+   "requires_php": "7.4",
+   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
    "download_url": "https://github.com/solstice23/argon-theme/releases/download/v1.3.5/argon.zip",
    "homepage": "https://github.com/solstice23/argon-theme",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-17 20:19:18",
-   "name": "argon",
-   "provider": "github",
-   "pushed_at": "2026-11-17T20:19:18Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "📖 Argon - 一个轻盈、简洁的 WordPress 主题",
-   "slug": "solstice23--argon-theme",
-   "stars": 5596,
+   "last_updated": "2026-11-25 14:32:05",
    "tags": [
     "argon",
     "argon-theme",
@@ -32,11 +29,14 @@
     "theme",
     "wordpress"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "version": "1.3.5"
+   "stars": 5596,
+   "pushed_at": "2026-11-25T14:32:05Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/mirai-mamori\">mirai-mamori</a>",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2978,
+   "stars": 2979,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2498,
+   "stars": 2499,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -628,7 +628,7 @@
    "requires_php": "7.4",
    "short_description": "📖 niRvana · 轻拟物WordPress主题",
    "slug": "michaelliunsky--niRvana-theme",
-   "stars": 176,
+   "stars": 178,
    "tags": [
     "ajax",
     "nirvana",
@@ -934,6 +934,35 @@
    "version": "0.4.1"
   },
   {
+   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
+   "author_profile": "https://github.com/jevantang",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "WordPress Themes",
+   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
+   "homepage": "https://github.com/jevantang/JieStyle-Two",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-05-20 20:47:20",
+   "name": "JieStyle Two",
+   "provider": "github",
+   "pushed_at": "2024-05-20T20:47:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "WordPress Themes",
+   "slug": "jevantang--JieStyle-Two",
+   "stars": 90,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.6.3"
+  },
+  {
    "author": "<a href=\"https://github.com/TheYahya\">TheYahya</a>",
    "author_profile": "https://github.com/TheYahya",
    "build": "tag-archive",
@@ -969,35 +998,6 @@
     "wordpress-theme"
    ],
    "version": "2.0.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/jevantang\">jevantang</a>",
-   "author_profile": "https://github.com/jevantang",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "WordPress Themes",
-   "download_url": "https://codeload.github.com/jevantang/JieStyle-Two/zip/refs/tags/v2.6.3",
-   "homepage": "https://github.com/jevantang/JieStyle-Two",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-05-20 20:47:20",
-   "name": "JieStyle Two",
-   "provider": "github",
-   "pushed_at": "2024-05-20T20:47:20Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "WordPress Themes",
-   "slug": "jevantang--JieStyle-Two",
-   "stars": 90,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.6.3"
   },
   {
    "author": "<a href=\"https://github.com/sukiwp\">sukiwp</a>",
@@ -1343,41 +1343,6 @@
    "version": "1.2.0"
   },
   {
-   "author": "<a href=\"https://github.com/pixelgrade\">pixelgrade</a>",
-   "author_profile": "https://github.com/pixelgrade",
-   "build": "release-asset",
-   "default_branch": "master",
-   "description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experience.",
-   "download_url": "https://github.com/pixelgrade/rosa2-lite/releases/download/1.3.1/rosa2-lite-1-3-1.zip",
-   "homepage": "https://github.com/pixelgrade/rosa2-lite",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2022-12-05 05:12:30",
-   "name": "Rosa2 Lite",
-   "provider": "github",
-   "pushed_at": "2022-12-05T05:12:30Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
-   "slug": "pixelgrade--rosa2-lite",
-   "stars": 36,
-   "tags": [
-    "business-website",
-    "gutenberg-compatible",
-    "gutenberg-theme",
-    "presentation-website",
-    "restaurant-website",
-    "wordpress",
-    "wordpress-blocks"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "1.3.1"
-  },
-  {
    "author": "<a href=\"https://github.com/chyvak1831\">chyvak1831</a>",
    "author_profile": "https://github.com/chyvak1831",
    "build": "tag-archive",
@@ -1415,6 +1380,68 @@
    "version": "2.0.1"
   },
   {
+   "author": "<a href=\"https://github.com/pixelgrade\">pixelgrade</a>",
+   "author_profile": "https://github.com/pixelgrade",
+   "build": "release-asset",
+   "default_branch": "master",
+   "description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experience.",
+   "download_url": "https://github.com/pixelgrade/rosa2-lite/releases/download/1.3.1/rosa2-lite-1-3-1.zip",
+   "homepage": "https://github.com/pixelgrade/rosa2-lite",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2022-12-05 05:12:30",
+   "name": "Rosa2 Lite",
+   "provider": "github",
+   "pushed_at": "2022-12-05T05:12:30Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "This is the free version of Rosa 2, the #1 best selling restaurant WordPress theme, built to help small businesses shape an appealing online experienc",
+   "slug": "pixelgrade--rosa2-lite",
+   "stars": 36,
+   "tags": [
+    "business-website",
+    "gutenberg-compatible",
+    "gutenberg-theme",
+    "presentation-website",
+    "restaurant-website",
+    "wordpress",
+    "wordpress-blocks"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "1.3.1"
+  },
+  {
+   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
+   "author_profile": "https://github.com/bigfa",
+   "build": "tag-archive",
+   "default_branch": "main",
+   "description": "🎬 single column wordpress theme",
+   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
+   "homepage": "https://github.com/bigfa/Berry",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-08-30 12:02:24",
+   "name": "Berry",
+   "provider": "github",
+   "pushed_at": "2025-08-30T12:02:24Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "🎬 single column wordpress theme",
+   "slug": "bigfa--Berry",
+   "stars": 33,
+   "tags": [],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-theme"
+   ],
+   "version": "2.2.2"
+  },
+  {
    "author": "<a href=\"https://github.com/sinanisler\">sinanisler</a>",
    "author_profile": "https://github.com/sinanisler",
    "build": "tag-archive",
@@ -1445,33 +1472,6 @@
     "wordpress-theme"
    ],
    "version": "0.40.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/bigfa\">bigfa</a>",
-   "author_profile": "https://github.com/bigfa",
-   "build": "tag-archive",
-   "default_branch": "main",
-   "description": "🎬 single column wordpress theme",
-   "download_url": "https://codeload.github.com/bigfa/Berry/zip/refs/tags/v2.2.2",
-   "homepage": "https://github.com/bigfa/Berry",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-08-30 12:02:24",
-   "name": "Berry",
-   "provider": "github",
-   "pushed_at": "2025-08-30T12:02:24Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "🎬 single column wordpress theme",
-   "slug": "bigfa--Berry",
-   "stars": 33,
-   "tags": [],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-theme"
-   ],
-   "version": "2.2.2"
   },
   {
    "author": "<a href=\"https://github.com/qwqdanchun\">qwqdanchun</a>",
