@@ -1,19 +1,14 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-27T15:57:31Z",
+ "generated_at": "2026-11-28T14:52:46Z",
  "truncated": false,
  "plugins": [
   {
-   "slug": "afragen--git-updater",
-   "name": "Git Updater",
-   "version": "15.0.1",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "requires": "5.9",
-   "tested": "6.7",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "build": "release-asset",
+   "default_branch": "develop",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "download_url": "https://github.com/afragen/git-updater/releases/download/15.0.1/git-updater-15.0.1.zip",
    "homepage": "https://github.com/afragen/git-updater",
@@ -21,20 +16,25 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-26 19:01:15",
+   "name": "Git Updater",
+   "provider": "github",
+   "pushed_at": "2026-11-26T19:01:15Z",
+   "requires": "5.9",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "slug": "afragen--git-updater",
+   "stars": 3321,
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 3321,
-   "pushed_at": "2026-11-26T19:01:15Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "develop"
+   "version": "15.0.1"
   },
   {
    "slug": "Automattic--jetpack",
@@ -52,7 +52,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 15:37:40",
+   "last_updated": "2026-11-28 12:34:58",
    "tags": [
     "hacktoberfest",
     "js",
@@ -65,7 +65,7 @@
     "wordpress-plugin"
    ],
    "stars": 1861,
-   "pushed_at": "2026-11-27T15:37:40Z",
+   "pushed_at": "2026-11-28T12:34:58Z",
    "provider": "github",
    "build": "tag-archive",
    "default_branch": "trunk"
@@ -89,7 +89,7 @@
    "requires_php": "7.4",
    "short_description": "Advanced Custom Fields Pro, Git-ified. Automatically synced via GitHub Actions! This repository is just a mirror of the Advanced Custom Fields Pro plu",
    "slug": "pronamic--advanced-custom-fields-pro",
-   "stars": 1357,
+   "stars": 1355,
    "tags": [
     "acf",
     "acf-field",
@@ -517,7 +517,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 11:01:56",
+   "last_updated": "2026-11-27 21:19:26",
    "tags": [
     "elearning",
     "hacktoberfest",
@@ -533,7 +533,7 @@
     "wordpress-plugin"
    ],
    "stars": 211,
-   "pushed_at": "2026-11-27T11:01:56Z",
+   "pushed_at": "2026-11-27T21:19:26Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "trunk"
@@ -554,7 +554,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 14:53:44",
+   "last_updated": "2026-11-27 19:03:54",
    "tags": [
     "gutenberg",
     "gutenberg-blocks",
@@ -567,7 +567,7 @@
     "wordpress-plugin"
    ],
    "stars": 197,
-   "pushed_at": "2026-11-27T14:53:44Z",
+   "pushed_at": "2026-11-27T19:03:54Z",
    "provider": "github",
    "build": "tag-archive",
    "default_branch": "main"
@@ -883,7 +883,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 15:17:43",
+   "last_updated": "2026-11-28 08:18:06",
    "tags": [
     "analytics",
     "chart",
@@ -901,7 +901,7 @@
     "wordpress-plugin"
    ],
    "stars": 129,
-   "pushed_at": "2026-11-27T15:17:43Z",
+   "pushed_at": "2026-11-28T08:18:06Z",
    "provider": "github",
    "build": "tag-archive",
    "default_branch": "master"
@@ -1101,36 +1101,6 @@
    "version": "0.9.2"
   },
   {
-   "author": "<a href=\"https://github.com/friend-nicen\">friend-nicen</a>",
-   "author_profile": "https://github.com/friend-nicen",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "wordpress用于本地化文章的外部图片的插件，支持文章发布前通过编辑器插件本地化、文章发布时自动本地化、文章定时发布时自动本地化、已发布的文章批量本地化。",
-   "download_url": "https://codeload.github.com/friend-nicen/nicen-localize-image/zip/refs/tags/1.4.7",
-   "homepage": "https://github.com/friend-nicen/nicen-localize-image",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-09-16 03:55:03",
-   "name": "nicen-localize-image",
-   "provider": "github",
-   "pushed_at": "2025-09-16T03:55:03Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "wordpress用于本地化文章的外部图片的插件，支持文章发布前通过编辑器插件本地化、文章发布时自动本地化、文章定时发布时自动本地化、已发布的文章批量本地化。",
-   "slug": "friend-nicen--nicen-localize-image",
-   "stars": 103,
-   "tags": [
-    "wordpress",
-    "wordpress-development"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.4.7"
-  },
-  {
    "author": "<a href=\"https://github.com/MinnPost\">MinnPost</a>",
    "author_profile": "https://github.com/MinnPost",
    "build": "tag-archive",
@@ -1162,6 +1132,36 @@
     "wordpress-plugin"
    ],
    "version": "2.2.14"
+  },
+  {
+   "author": "<a href=\"https://github.com/friend-nicen\">friend-nicen</a>",
+   "author_profile": "https://github.com/friend-nicen",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "wordpress用于本地化文章的外部图片的插件，支持文章发布前通过编辑器插件本地化、文章发布时自动本地化、文章定时发布时自动本地化、已发布的文章批量本地化。",
+   "download_url": "https://codeload.github.com/friend-nicen/nicen-localize-image/zip/refs/tags/1.4.7",
+   "homepage": "https://github.com/friend-nicen/nicen-localize-image",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-09-16 03:55:03",
+   "name": "nicen-localize-image",
+   "provider": "github",
+   "pushed_at": "2025-09-16T03:55:03Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "wordpress用于本地化文章的外部图片的插件，支持文章发布前通过编辑器插件本地化、文章发布时自动本地化、文章定时发布时自动本地化、已发布的文章批量本地化。",
+   "slug": "friend-nicen--nicen-localize-image",
+   "stars": 103,
+   "tags": [
+    "wordpress",
+    "wordpress-development"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.4.7"
   },
   {
    "author": "<a href=\"https://github.com/michelegiorgi\">michelegiorgi</a>",
@@ -1293,7 +1293,7 @@
    "requires_php": "7.4",
    "short_description": "Rock-solid SAML authentication for WordPress built on a modern foundation.",
    "slug": "pantheon-systems--wp-saml-auth",
-   "stars": 95,
+   "stars": 96,
    "tags": [
     "authentication",
     "hacktoberfest",
@@ -1493,15 +1493,10 @@
    "version": "1.0.4"
   },
   {
-   "slug": "WPManageNinja--easy-code-manager",
-   "name": "Fluent Snippets",
-   "version": "10.56.0",
    "author": "<a href=\"https://github.com/WPManageNinja\">WPManageNinja</a>",
    "author_profile": "https://github.com/WPManageNinja",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.3",
-   "short_description": "The High-Performance File Based Code Snippet Plugin for WP",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "The High-Performance File Based Code Snippet Plugin for WP",
    "download_url": "https://github.com/WPManageNinja/easy-code-manager/releases/download/10.56/easy-code-manager.10.56.1.zip",
    "homepage": "https://github.com/WPManageNinja/easy-code-manager",
@@ -1509,18 +1504,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-26 21:24:47",
+   "name": "Fluent Snippets",
+   "provider": "github",
+   "pushed_at": "2026-11-26T21:24:47Z",
+   "requires": "6.0",
+   "requires_php": "7.3",
+   "short_description": "The High-Performance File Based Code Snippet Plugin for WP",
+   "slug": "WPManageNinja--easy-code-manager",
+   "stars": 72,
    "tags": [
     "wordpress",
     "wordpress-development"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "stars": 72,
-   "pushed_at": "2026-11-26T21:24:47Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "10.56.0"
   },
   {
    "author": "<a href=\"https://github.com/godaddy\">godaddy</a>",
@@ -1639,15 +1639,10 @@
    "version": "4.8.0"
   },
   {
-   "slug": "Parsely--wp-parsely",
-   "name": "Parse.ly",
-   "version": "3.26.1",
    "author": "<a href=\"https://github.com/Parsely\">Parsely</a>",
    "author_profile": "https://github.com/Parsely",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "The official WordPress plugin for Parse.ly - makes it a snap to add the required tracking code to enable Parse.ly on your WordPress site.",
+   "build": "release-asset",
+   "default_branch": "develop",
    "description": "The official WordPress plugin for Parse.ly - makes it a snap to add the required tracking code to enable Parse.ly on your WordPress site.",
    "download_url": "https://github.com/Parsely/wp-parsely/releases/download/3.26.1/wp-parsely.zip",
    "homepage": "https://github.com/Parsely/wp-parsely",
@@ -1655,41 +1650,43 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-27 01:53:20",
+   "name": "Parse.ly",
+   "provider": "github",
+   "pushed_at": "2026-11-27T01:53:20Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "The official WordPress plugin for Parse.ly - makes it a snap to add the required tracking code to enable Parse.ly on your WordPress site.",
+   "slug": "Parsely--wp-parsely",
+   "stars": 67,
    "tags": [
     "analytics",
     "parsely",
     "wordpress",
     "wpvip-plugin"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "stars": 67,
-   "pushed_at": "2026-11-27T01:53:20Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "develop"
+   "version": "3.26.1"
   },
   {
+   "slug": "gobuildwp--wordpress-mcp-ai-gobuildwp",
+   "name": "GoBuildWP",
+   "version": "1.22.0",
    "author": "<a href=\"https://github.com/gobuildwp\">gobuildwp</a>",
    "author_profile": "https://github.com/gobuildwp",
-   "build": "release-asset",
-   "default_branch": "main",
+   "requires": "6.9",
+   "tested": "6.7",
+   "requires_php": "8.0",
+   "short_description": "GoBuildWP (formerly WPPilot): WordPress MCP server & AI agent for ChatGPT, Claude, Cursor, Codex. Build and edit sites in Elementor and Gutenberg, run",
    "description": "GoBuildWP (formerly WPPilot): WordPress MCP server & AI agent for ChatGPT, Claude, Cursor, Codex. Build and edit sites in Elementor and Gutenberg, run SEO, PageSpeed, safe updates, maintenance mode, redirects, backups and security, many sites via GoBuildWP Cloud. Human approval, undo, audit log. Free core; Pro adds WooCommerce and more builders.",
-   "download_url": "https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp/releases/download/v1.21.0/gobuildwp.zip",
+   "download_url": "https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp/releases/download/v1.22.0/gobuildwp.zip",
    "homepage": "https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-18 22:39:27",
-   "name": "GoBuildWP",
-   "provider": "github",
-   "pushed_at": "2026-11-18T22:39:27Z",
-   "requires": "6.9",
-   "requires_php": "8.0",
-   "short_description": "GoBuildWP (formerly WPPilot): WordPress MCP server & AI agent for ChatGPT, Claude, Cursor, Codex. Build and edit sites in Elementor and Gutenberg, run",
-   "slug": "gobuildwp--wordpress-mcp-ai-gobuildwp",
-   "stars": 66,
+   "last_updated": "2026-11-28 14:22:11",
    "tags": [
     "ai-agent",
     "ai-website-builder",
@@ -1711,11 +1708,14 @@
     "wordpress-seo",
     "wordpress-updates"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "1.21.0"
+   "stars": 66,
+   "pushed_at": "2026-11-28T14:22:11Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "main"
   },
   {
    "author": "<a href=\"https://github.com/mukhortov\">mukhortov</a>",
@@ -1748,15 +1748,10 @@
    "version": "3.0.0"
   },
   {
-   "slug": "kognetiks--kognetiks-chatbot",
-   "name": "Kognetiks Chatbot",
-   "version": "2.6.2",
    "author": "<a href=\"https://github.com/kognetiks\">kognetiks</a>",
    "author_profile": "https://github.com/kognetiks",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "8.0",
-   "short_description": "Kognetiks Chatbot for WordPress is a plugin that allows you to effortlessly integrate OpenAI's ChatGPT API into your website, providing a powerful, AI",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Kognetiks Chatbot for WordPress is a plugin that allows you to effortlessly integrate OpenAI's ChatGPT API into your website, providing a powerful, AI-driven chatbot for enhanced user experience and personalized support.",
    "download_url": "https://codeload.github.com/kognetiks/kognetiks-chatbot/zip/refs/tags/V2.6.2",
    "homepage": "https://github.com/kognetiks/kognetiks-chatbot",
@@ -1764,18 +1759,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-27 00:53:18",
+   "name": "Kognetiks Chatbot",
+   "provider": "github",
+   "pushed_at": "2026-11-27T00:53:18Z",
+   "requires": "6.0",
+   "requires_php": "8.0",
+   "short_description": "Kognetiks Chatbot for WordPress is a plugin that allows you to effortlessly integrate OpenAI's ChatGPT API into your website, providing a powerful, AI",
+   "slug": "kognetiks--kognetiks-chatbot",
+   "stars": 63,
    "tags": [
     "chatbot",
     "wordpress"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "stars": 63,
-   "pushed_at": "2026-11-27T00:53:18Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "2.6.2"
   },
   {
    "author": "<a href=\"https://github.com/rock-solid\">rock-solid</a>",
@@ -1905,36 +1905,6 @@
    "version": "3.7.6"
   },
   {
-   "author": "<a href=\"https://github.com/richtabor\">richtabor</a>",
-   "author_profile": "https://github.com/richtabor",
-   "build": "release-asset",
-   "default_branch": "main",
-   "description": "A WordPress block to add a toggle between light and dark mode on a site.",
-   "download_url": "https://github.com/richtabor/dark-mode-toggle-block/releases/download/v1.0.5/dark-mode-toggle-block.zip",
-   "homepage": "https://github.com/richtabor/dark-mode-toggle-block",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-12-01 16:35:56",
-   "name": "Dark Mode Toggle Block",
-   "provider": "github",
-   "pushed_at": "2025-12-01T16:35:56Z",
-   "requires": "6.4",
-   "requires_php": "7.0",
-   "short_description": "A WordPress block to add a toggle between light and dark mode on a site.",
-   "slug": "richtabor--dark-mode-toggle-block",
-   "stars": 53,
-   "tags": [
-    "wordpress",
-    "wordpress-block"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.0.5"
-  },
-  {
    "author": "<a href=\"https://github.com/alextselegidis\">alextselegidis</a>",
    "author_profile": "https://github.com/alextselegidis",
    "build": "release-asset",
@@ -2021,6 +1991,36 @@
     "wordpress-plugin"
    ],
    "version": "3.2.38"
+  },
+  {
+   "author": "<a href=\"https://github.com/richtabor\">richtabor</a>",
+   "author_profile": "https://github.com/richtabor",
+   "build": "release-asset",
+   "default_branch": "main",
+   "description": "A WordPress block to add a toggle between light and dark mode on a site.",
+   "download_url": "https://github.com/richtabor/dark-mode-toggle-block/releases/download/v1.0.5/dark-mode-toggle-block.zip",
+   "homepage": "https://github.com/richtabor/dark-mode-toggle-block",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2025-12-01 16:35:56",
+   "name": "Dark Mode Toggle Block",
+   "provider": "github",
+   "pushed_at": "2025-12-01T16:35:56Z",
+   "requires": "6.4",
+   "requires_php": "7.0",
+   "short_description": "A WordPress block to add a toggle between light and dark mode on a site.",
+   "slug": "richtabor--dark-mode-toggle-block",
+   "stars": 53,
+   "tags": [
+    "wordpress",
+    "wordpress-block"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.0.5"
   },
   {
    "author": "<a href=\"https://github.com/mayeenulislam\">mayeenulislam</a>",
@@ -2498,25 +2498,22 @@
    "version": "2.8.67"
   },
   {
+   "slug": "bjornfix--mcp-expose-abilities",
+   "name": "MCP Expose Abilities",
+   "version": "3.0.115",
    "author": "<a href=\"https://github.com/bjornfix\">bjornfix</a>",
    "author_profile": "https://github.com/bjornfix",
-   "build": "release-asset",
-   "default_branch": "master",
+   "requires": "6.9",
+   "tested": "6.7",
+   "requires_php": "8.0",
+   "short_description": "Let AI agents do real WordPress work via MCP. 61 core abilities, 12 add-ons, 280+ ecosystem abilities for content, builders, SEO, security, files, and",
    "description": "Let AI agents do real WordPress work via MCP. 61 core abilities, 12 add-ons, 280+ ecosystem abilities for content, builders, SEO, security, files, and operations.",
    "download_url": "https://github.com/bjornfix/mcp-expose-abilities/releases/download/v3.0.115/mcp-expose-abilities.zip",
    "homepage": "https://github.com/bjornfix/mcp-expose-abilities",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-09 00:00:07",
-   "name": "MCP Expose Abilities",
-   "provider": "github",
-   "pushed_at": "2026-11-09T00:00:07Z",
-   "requires": "6.9",
-   "requires_php": "8.0",
-   "short_description": "Let AI agents do real WordPress work via MCP. 61 core abilities, 12 add-ons, 280+ ecosystem abilities for content, builders, SEO, security, files, and",
-   "slug": "bjornfix--mcp-expose-abilities",
-   "stars": 40,
+   "last_updated": "2026-11-28 12:26:51",
    "tags": [
     "agentic-ai",
     "ai-agents",
@@ -2528,11 +2525,14 @@
     "wordpress-ai",
     "wordpress-automation"
    ],
-   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "3.0.115"
+   "stars": 40,
+   "pushed_at": "2026-11-28T12:26:51Z",
+   "provider": "github",
+   "build": "release-asset",
+   "default_branch": "master"
   },
   {
    "author": "<a href=\"https://github.com/jinksraevan\">jinksraevan</a>",
@@ -2587,7 +2587,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 00:40:56",
+   "last_updated": "2026-11-28 13:19:10",
    "tags": [
     "calendar",
     "event",
@@ -2603,7 +2603,7 @@
     "wordpress-plugin"
    ],
    "stars": 40,
-   "pushed_at": "2026-11-27T00:40:56Z",
+   "pushed_at": "2026-11-28T13:19:10Z",
    "provider": "github",
    "build": "tag-archive",
    "default_branch": "master"
@@ -2818,7 +2818,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 11:14:25",
+   "last_updated": "2026-11-28 05:14:36",
    "tags": [
     "everest-forms",
     "form-builder",
@@ -2829,7 +2829,7 @@
     "wordpress-plugin"
    ],
    "stars": 36,
-   "pushed_at": "2026-11-27T11:14:25Z",
+   "pushed_at": "2026-11-28T05:14:36Z",
    "provider": "github",
    "build": "tag-archive",
    "default_branch": "develop"
@@ -2967,15 +2967,10 @@
    "version": "2.3.0"
   },
   {
-   "slug": "ColorlibHQ--simple-custom-post-order",
-   "name": "Simple Custom Post Order",
-   "version": "2.9.1",
    "author": "<a href=\"https://github.com/ColorlibHQ\">ColorlibHQ</a>",
    "author_profile": "https://github.com/ColorlibHQ",
-   "requires": "6.2",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Order posts(posts, any custom post types) using a Drag and Drop Sortable JavaScript. Configuration is unnecessary.",
+   "build": "release-asset",
+   "default_branch": "master",
    "description": "Order posts(posts, any custom post types) using a Drag and Drop Sortable JavaScript. Configuration is unnecessary.",
    "download_url": "https://github.com/ColorlibHQ/simple-custom-post-order/releases/download/2.9.1/simple-custom-post-order.zip",
    "homepage": "https://github.com/ColorlibHQ/simple-custom-post-order",
@@ -2983,18 +2978,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-26 16:48:51",
+   "name": "Simple Custom Post Order",
+   "provider": "github",
+   "pushed_at": "2026-11-26T16:48:51Z",
+   "requires": "6.2",
+   "requires_php": "7.4",
+   "short_description": "Order posts(posts, any custom post types) using a Drag and Drop Sortable JavaScript. Configuration is unnecessary.",
+   "slug": "ColorlibHQ--simple-custom-post-order",
+   "stars": 34,
    "tags": [
     "wordpress",
     "wordpress-development"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "stars": 34,
-   "pushed_at": "2026-11-26T16:48:51Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "master"
+   "version": "2.9.1"
   },
   {
    "author": "<a href=\"https://github.com/lubusIN-archive\">lubusIN-archive</a>",
@@ -3347,6 +3347,35 @@
    "author": "<a href=\"https://github.com/alleyinteractive\">alleyinteractive</a>",
    "author_profile": "https://github.com/alleyinteractive",
    "build": "tag-archive",
+   "default_branch": "production",
+   "description": "Asset Manager is a toolkit for managing front-end assets and more tightly controlling where, when, and how they're loaded.",
+   "download_url": "https://codeload.github.com/alleyinteractive/wp-asset-manager/zip/refs/tags/v2.0.0",
+   "homepage": "https://github.com/alleyinteractive/wp-asset-manager",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-09-24 12:37:04",
+   "name": "Asset Manager",
+   "provider": "github",
+   "pushed_at": "2026-09-24T12:37:04Z",
+   "requires": "6.3",
+   "requires_php": "8.3",
+   "short_description": "Asset Manager is a toolkit for managing front-end assets and more tightly controlling where, when, and how they're loaded.",
+   "slug": "alleyinteractive--wp-asset-manager",
+   "stars": 30,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "2.0.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/alleyinteractive\">alleyinteractive</a>",
+   "author_profile": "https://github.com/alleyinteractive",
+   "build": "tag-archive",
    "default_branch": "develop",
    "description": "A Monolog-based logging tool for WordPress. Supports storing log message in a custom post type or in individual posts and terms.",
    "download_url": "https://codeload.github.com/alleyinteractive/logger/zip/refs/tags/v2.6.4",
@@ -3405,35 +3434,6 @@
     "wordpress-plugin"
    ],
    "version": "0.1.6"
-  },
-  {
-   "author": "<a href=\"https://github.com/alleyinteractive\">alleyinteractive</a>",
-   "author_profile": "https://github.com/alleyinteractive",
-   "build": "tag-archive",
-   "default_branch": "production",
-   "description": "Asset Manager is a toolkit for managing front-end assets and more tightly controlling where, when, and how they're loaded.",
-   "download_url": "https://codeload.github.com/alleyinteractive/wp-asset-manager/zip/refs/tags/v2.0.0",
-   "homepage": "https://github.com/alleyinteractive/wp-asset-manager",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-09-24 12:37:04",
-   "name": "Asset Manager",
-   "provider": "github",
-   "pushed_at": "2026-09-24T12:37:04Z",
-   "requires": "6.3",
-   "requires_php": "8.3",
-   "short_description": "Asset Manager is a toolkit for managing front-end assets and more tightly controlling where, when, and how they're loaded.",
-   "slug": "alleyinteractive--wp-asset-manager",
-   "stars": 30,
-   "tags": [
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "2.0.0"
   },
   {
    "author": "<a href=\"https://github.com/mecachisenros\">mecachisenros</a>",
@@ -3694,36 +3694,6 @@
    "version": "1.0.3"
   },
   {
-   "author": "<a href=\"https://github.com/Automattic\">Automattic</a>",
-   "author_profile": "https://github.com/Automattic",
-   "build": "release-asset",
-   "default_branch": "trunk",
-   "description": "WordPress plugin that adds additional governance capabilities to the block editor.",
-   "download_url": "https://github.com/Automattic/vip-governance-plugin/releases/download/1.0.20/vip-governance-1.0.20.zip",
-   "homepage": "https://github.com/Automattic/vip-governance-plugin",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-11-25 10:09:26",
-   "name": "WordPress VIP Block Governance",
-   "provider": "github",
-   "pushed_at": "2026-11-25T10:09:26Z",
-   "requires": "6.8",
-   "requires_php": "8.2",
-   "short_description": "WordPress plugin that adds additional governance capabilities to the block editor.",
-   "slug": "Automattic--vip-governance-plugin",
-   "stars": 27,
-   "tags": [
-    "wordpress",
-    "wpvip-plugin"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.0.20"
-  },
-  {
    "author": "<a href=\"https://github.com/markjaquith\">markjaquith</a>",
    "author_profile": "https://github.com/markjaquith",
    "build": "tag-archive",
@@ -3794,33 +3764,34 @@
    "version": "1.5.1"
   },
   {
-   "author": "<a href=\"https://github.com/2ndkauboy\">2ndkauboy</a>",
-   "author_profile": "https://github.com/2ndkauboy",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "A simple plugin which enables a user to overwrite localization string from the WordPress core, plugins and themes, using it's own language files",
-   "download_url": "https://codeload.github.com/2ndkauboy/textdomain-overwrite/zip/refs/tags/1.0",
-   "homepage": "https://github.com/2ndkauboy/textdomain-overwrite",
+   "author": "<a href=\"https://github.com/Automattic\">Automattic</a>",
+   "author_profile": "https://github.com/Automattic",
+   "build": "release-asset",
+   "default_branch": "trunk",
+   "description": "WordPress plugin that adds additional governance capabilities to the block editor.",
+   "download_url": "https://github.com/Automattic/vip-governance-plugin/releases/download/1.0.20/vip-governance-1.0.20.zip",
+   "homepage": "https://github.com/Automattic/vip-governance-plugin",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2015-08-06 14:17:37",
-   "name": "Textdomain Overwrite",
+   "last_updated": "2026-11-25 10:09:26",
+   "name": "WordPress VIP Block Governance",
    "provider": "github",
-   "pushed_at": "2015-08-06T14:17:37Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "A simple plugin which enables a user to overwrite localization string from the WordPress core, plugins and themes, using it's own language files",
-   "slug": "2ndkauboy--textdomain-overwrite",
+   "pushed_at": "2026-11-25T10:09:26Z",
+   "requires": "6.8",
+   "requires_php": "8.2",
+   "short_description": "WordPress plugin that adds additional governance capabilities to the block editor.",
+   "slug": "Automattic--vip-governance-plugin",
    "stars": 27,
    "tags": [
-    "wordpress"
+    "wordpress",
+    "wpvip-plugin"
    ],
    "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "1.0.0"
+   "version": "1.0.20"
   },
   {
    "author": "<a href=\"https://github.com/WP-Autoplugin\">WP-Autoplugin</a>",
@@ -3855,6 +3826,35 @@
    "version": "1.1.4"
   },
   {
+   "author": "<a href=\"https://github.com/2ndkauboy\">2ndkauboy</a>",
+   "author_profile": "https://github.com/2ndkauboy",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "A simple plugin which enables a user to overwrite localization string from the WordPress core, plugins and themes, using it's own language files",
+   "download_url": "https://codeload.github.com/2ndkauboy/textdomain-overwrite/zip/refs/tags/1.0",
+   "homepage": "https://github.com/2ndkauboy/textdomain-overwrite",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2015-08-06 14:17:37",
+   "name": "Textdomain Overwrite",
+   "provider": "github",
+   "pushed_at": "2015-08-06T14:17:37Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "A simple plugin which enables a user to overwrite localization string from the WordPress core, plugins and themes, using it's own language files",
+   "slug": "2ndkauboy--textdomain-overwrite",
+   "stars": 27,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.0.0"
+  },
+  {
    "author": "<a href=\"https://github.com/lubusIN-archive\">lubusIN-archive</a>",
    "author_profile": "https://github.com/lubusIN-archive",
    "build": "release-asset",
@@ -3885,37 +3885,6 @@
     "wordpress-plugin"
    ],
    "version": "1.0.0"
-  },
-  {
-   "author": "<a href=\"https://github.com/strangerstudios\">strangerstudios</a>",
-   "author_profile": "https://github.com/strangerstudios",
-   "build": "tag-archive",
-   "default_branch": "dev",
-   "description": "Charge for access to specific pages or other post types in WordPress. Requires the Paid Memberships Pro plugin.",
-   "download_url": "https://codeload.github.com/strangerstudios/pmpro-addon-packages/zip/refs/tags/0.9.4",
-   "homepage": "https://github.com/strangerstudios/pmpro-addon-packages",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-11-18 17:43:37",
-   "name": "Paid Memberships Pro - Addon Packages",
-   "provider": "github",
-   "pushed_at": "2026-11-18T17:43:37Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Charge for access to specific pages or other post types in WordPress. Requires the Paid Memberships Pro plugin.",
-   "slug": "strangerstudios--pmpro-addon-packages",
-   "stars": 26,
-   "tags": [
-    "paid-memberships-pro",
-    "strangerstudios-product",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "0.9.4"
   },
   {
    "author": "<a href=\"https://github.com/getdave\">getdave</a>",
@@ -3953,36 +3922,68 @@
    "version": "1.1.0"
   },
   {
-   "author": "<a href=\"https://github.com/inpsyde\">inpsyde</a>",
-   "author_profile": "https://github.com/inpsyde",
-   "build": "release-asset",
-   "default_branch": "dev/main",
-   "description": "A WordPress plugin that explores potential improvements for WordPress Multisite.",
-   "download_url": "https://github.com/inpsyde/multisyde/releases/download/1.3.0/multisyde.zip",
-   "homepage": "https://github.com/inpsyde/multisyde",
+   "author": "<a href=\"https://github.com/strangerstudios\">strangerstudios</a>",
+   "author_profile": "https://github.com/strangerstudios",
+   "build": "tag-archive",
+   "default_branch": "dev",
+   "description": "Charge for access to specific pages or other post types in WordPress. Requires the Paid Memberships Pro plugin.",
+   "download_url": "https://codeload.github.com/strangerstudios/pmpro-addon-packages/zip/refs/tags/0.9.4",
+   "homepage": "https://github.com/strangerstudios/pmpro-addon-packages",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-25 16:03:43",
-   "name": "MultiSyde",
+   "last_updated": "2026-11-18 17:43:37",
+   "name": "Paid Memberships Pro - Addon Packages",
    "provider": "github",
-   "pushed_at": "2026-11-25T16:03:43Z",
-   "requires": "6.8",
+   "pushed_at": "2026-11-18T17:43:37Z",
+   "requires": "6.0",
    "requires_php": "7.4",
-   "short_description": "A WordPress plugin that explores potential improvements for WordPress Multisite.",
-   "slug": "inpsyde--multisyde",
+   "short_description": "Charge for access to specific pages or other post types in WordPress. Requires the Paid Memberships Pro plugin.",
+   "slug": "strangerstudios--pmpro-addon-packages",
    "stars": 26,
    "tags": [
-    "experimental",
-    "hacktoberfest",
-    "multisite",
+    "paid-memberships-pro",
+    "strangerstudios-product",
     "wordpress"
    ],
    "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "1.3.0"
+   "version": "0.9.4"
+  },
+  {
+   "author": "<a href=\"https://github.com/JAW-Dev\">JAW-Dev</a>",
+   "author_profile": "https://github.com/JAW-Dev",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "Automatically update your local ACF JSON field groups",
+   "download_url": "https://codeload.github.com/JAW-Dev/advanced-custom-fields-auto-json-sync/zip/refs/tags/0.2.0",
+   "homepage": "https://github.com/JAW-Dev/advanced-custom-fields-auto-json-sync",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2017-05-30 13:34:14",
+   "name": "Advanced Custom Fields: Auto JSON Sync",
+   "provider": "github",
+   "pushed_at": "2017-05-30T13:34:14Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Automatically update your local ACF JSON field groups",
+   "slug": "JAW-Dev--advanced-custom-fields-auto-json-sync",
+   "stars": 26,
+   "tags": [
+    "advanced-custom-fields",
+    "field-groups",
+    "json",
+    "json-sync",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "0.2.0"
   },
   {
    "author": "<a href=\"https://github.com/dartiss\">dartiss</a>",
@@ -4019,37 +4020,36 @@
    "version": "2.6.5"
   },
   {
-   "author": "<a href=\"https://github.com/JAW-Dev\">JAW-Dev</a>",
-   "author_profile": "https://github.com/JAW-Dev",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Automatically update your local ACF JSON field groups",
-   "download_url": "https://codeload.github.com/JAW-Dev/advanced-custom-fields-auto-json-sync/zip/refs/tags/0.2.0",
-   "homepage": "https://github.com/JAW-Dev/advanced-custom-fields-auto-json-sync",
+   "author": "<a href=\"https://github.com/inpsyde\">inpsyde</a>",
+   "author_profile": "https://github.com/inpsyde",
+   "build": "release-asset",
+   "default_branch": "dev/main",
+   "description": "A WordPress plugin that explores potential improvements for WordPress Multisite.",
+   "download_url": "https://github.com/inpsyde/multisyde/releases/download/1.3.0/multisyde.zip",
+   "homepage": "https://github.com/inpsyde/multisyde",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2017-05-30 13:34:14",
-   "name": "Advanced Custom Fields: Auto JSON Sync",
+   "last_updated": "2026-11-25 16:03:43",
+   "name": "MultiSyde",
    "provider": "github",
-   "pushed_at": "2017-05-30T13:34:14Z",
-   "requires": "6.0",
+   "pushed_at": "2026-11-25T16:03:43Z",
+   "requires": "6.8",
    "requires_php": "7.4",
-   "short_description": "Automatically update your local ACF JSON field groups",
-   "slug": "JAW-Dev--advanced-custom-fields-auto-json-sync",
+   "short_description": "A WordPress plugin that explores potential improvements for WordPress Multisite.",
+   "slug": "inpsyde--multisyde",
    "stars": 26,
    "tags": [
-    "advanced-custom-fields",
-    "field-groups",
-    "json",
-    "json-sync",
+    "experimental",
+    "hacktoberfest",
+    "multisite",
     "wordpress"
    ],
    "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "0.2.0"
+   "version": "1.3.0"
   },
   {
    "author": "<a href=\"https://github.com/verygoodplugins\">verygoodplugins</a>",
@@ -4445,6 +4445,36 @@
    "version": "6.4.1"
   },
   {
+   "author": "<a href=\"https://github.com/ffscz\">ffscz</a>",
+   "author_profile": "https://github.com/ffscz",
+   "build": "release-asset",
+   "default_branch": "main",
+   "description": "Smart Admin Plugin Manager - Advanced WordPress admin optimization & conditional plugin loading!",
+   "download_url": "https://github.com/ffscz/Smart-Admin-Plugin-Manager-for-WordPress/releases/download/v1.3.6/smart-admin-plugin-manager.zip",
+   "homepage": "https://github.com/ffscz/Smart-Admin-Plugin-Manager-for-WordPress",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-04-16 19:19:56",
+   "name": "Smart Admin Plugin Manager",
+   "provider": "github",
+   "pushed_at": "2026-04-16T19:19:56Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Smart Admin Plugin Manager - Advanced WordPress admin optimization & conditional plugin loading!",
+   "slug": "ffscz--Smart-Admin-Plugin-Manager-for-WordPress",
+   "stars": 23,
+   "tags": [
+    "wordpress-development",
+    "wordpress-plugins"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.3.6"
+  },
+  {
    "author": "<a href=\"https://github.com/codestag\">codestag</a>",
    "author_profile": "https://github.com/codestag",
    "build": "tag-archive",
@@ -4475,36 +4505,6 @@
     "wordpress-plugin"
    ],
    "version": "2.3.8"
-  },
-  {
-   "author": "<a href=\"https://github.com/ffscz\">ffscz</a>",
-   "author_profile": "https://github.com/ffscz",
-   "build": "release-asset",
-   "default_branch": "main",
-   "description": "Smart Admin Plugin Manager - Advanced WordPress admin optimization & conditional plugin loading!",
-   "download_url": "https://github.com/ffscz/Smart-Admin-Plugin-Manager-for-WordPress/releases/download/v1.3.6/smart-admin-plugin-manager.zip",
-   "homepage": "https://github.com/ffscz/Smart-Admin-Plugin-Manager-for-WordPress",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2026-04-16 19:19:56",
-   "name": "Smart Admin Plugin Manager",
-   "provider": "github",
-   "pushed_at": "2026-04-16T19:19:56Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Smart Admin Plugin Manager - Advanced WordPress admin optimization & conditional plugin loading!",
-   "slug": "ffscz--Smart-Admin-Plugin-Manager-for-WordPress",
-   "stars": 23,
-   "tags": [
-    "wordpress-development",
-    "wordpress-plugins"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.3.6"
   },
   {
    "author": "<a href=\"https://github.com/joel-james\">joel-james</a>",
@@ -4555,7 +4555,7 @@
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-27 13:33:30",
+   "last_updated": "2026-11-28 11:30:28",
    "tags": [
     "ajax",
     "gdpr",
@@ -4568,43 +4568,10 @@
     "wordpress-plugin"
    ],
    "stars": 23,
-   "pushed_at": "2026-11-27T13:33:30Z",
+   "pushed_at": "2026-11-28T11:30:28Z",
    "provider": "github",
    "build": "release-asset",
    "default_branch": "master"
-  },
-  {
-   "author": "<a href=\"https://github.com/AgoraIO\">AgoraIO</a>",
-   "author_profile": "https://github.com/AgoraIO",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "The Agora Video for WordPress plugin allows you to easily add live broadcast or video conferencing functionality into your posts and pages.",
-   "download_url": "https://codeload.github.com/AgoraIO/Agora-WordPress/zip/refs/tags/v2.0.0",
-   "homepage": "https://github.com/AgoraIO/Agora-WordPress",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2024-01-09 14:32:04",
-   "name": "WP Agora.io",
-   "provider": "github",
-   "pushed_at": "2024-01-09T14:32:04Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "The Agora Video for WordPress plugin allows you to easily add live broadcast or video conferencing functionality into your posts and pages.",
-   "slug": "AgoraIO--Agora-WordPress",
-   "stars": 23,
-   "tags": [
-    "agora-video",
-    "video-call",
-    "video-conferencing",
-    "video-streaming",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "2.0.0"
   },
   {
    "author": "<a href=\"https://github.com/grabwp\">grabwp</a>",
@@ -4675,6 +4642,39 @@
     "wordpress-plugin"
    ],
    "version": "0.0.2"
+  },
+  {
+   "author": "<a href=\"https://github.com/AgoraIO\">AgoraIO</a>",
+   "author_profile": "https://github.com/AgoraIO",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "The Agora Video for WordPress plugin allows you to easily add live broadcast or video conferencing functionality into your posts and pages.",
+   "download_url": "https://codeload.github.com/AgoraIO/Agora-WordPress/zip/refs/tags/v2.0.0",
+   "homepage": "https://github.com/AgoraIO/Agora-WordPress",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2024-01-09 14:32:04",
+   "name": "WP Agora.io",
+   "provider": "github",
+   "pushed_at": "2024-01-09T14:32:04Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "The Agora Video for WordPress plugin allows you to easily add live broadcast or video conferencing functionality into your posts and pages.",
+   "slug": "AgoraIO--Agora-WordPress",
+   "stars": 23,
+   "tags": [
+    "agora-video",
+    "video-call",
+    "video-conferencing",
+    "video-streaming",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "2.0.0"
   },
   {
    "author": "<a href=\"https://github.com/Analytify\">Analytify</a>",
@@ -4775,41 +4775,6 @@
    "version": "0.4.0"
   },
   {
-   "author": "<a href=\"https://github.com/elightup\">elightup</a>",
-   "author_profile": "https://github.com/elightup",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Filter posts or custom post types in the admin area by custom taxonomies.",
-   "download_url": "https://codeload.github.com/elightup/admin-taxonomy-filter/zip/refs/tags/1.0.5",
-   "homepage": "https://github.com/elightup/admin-taxonomy-filter",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2025-10-06 01:36:37",
-   "name": "Admin Taxonomy Filter",
-   "provider": "github",
-   "pushed_at": "2025-10-06T01:36:37Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Filter posts or custom post types in the admin area by custom taxonomies.",
-   "slug": "elightup--admin-taxonomy-filter",
-   "stars": 21,
-   "tags": [
-    "admin",
-    "post-filter",
-    "post-list",
-    "taxonomies",
-    "taxonomy",
-    "taxonomy-filter",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.0.5"
-  },
-  {
    "author": "<a href=\"https://github.com/februality\">februality</a>",
    "author_profile": "https://github.com/februality",
    "build": "tag-archive",
@@ -4857,33 +4822,39 @@
    "version": "1.7.9"
   },
   {
-   "author": "<a href=\"https://github.com/alleyinteractive\">alleyinteractive</a>",
-   "author_profile": "https://github.com/alleyinteractive",
+   "author": "<a href=\"https://github.com/elightup\">elightup</a>",
+   "author_profile": "https://github.com/elightup",
    "build": "tag-archive",
-   "default_branch": "develop",
-   "description": "See your post, term, and user meta data.",
-   "download_url": "https://codeload.github.com/alleyinteractive/meta-inspector/zip/refs/tags/v1.3.0",
-   "homepage": "https://github.com/alleyinteractive/meta-inspector",
+   "default_branch": "master",
+   "description": "Filter posts or custom post types in the admin area by custom taxonomies.",
+   "download_url": "https://codeload.github.com/elightup/admin-taxonomy-filter/zip/refs/tags/1.0.5",
+   "homepage": "https://github.com/elightup/admin-taxonomy-filter",
    "icons": {
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
-   "last_updated": "2026-11-11 19:02:16",
-   "name": "Meta Inspector",
+   "last_updated": "2025-10-06 01:36:37",
+   "name": "Admin Taxonomy Filter",
    "provider": "github",
-   "pushed_at": "2026-11-11T19:02:16Z",
-   "requires": "6.5",
-   "requires_php": "8.3",
-   "short_description": "See your post, term, and user meta data.",
-   "slug": "alleyinteractive--meta-inspector",
+   "pushed_at": "2025-10-06T01:36:37Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Filter posts or custom post types in the admin area by custom taxonomies.",
+   "slug": "elightup--admin-taxonomy-filter",
    "stars": 21,
    "tags": [
+    "admin",
+    "post-filter",
+    "post-list",
+    "taxonomies",
+    "taxonomy",
+    "taxonomy-filter",
     "wordpress"
    ],
    "tested": "6.7",
    "topics": [
     "wordpress-plugin"
    ],
-   "version": "1.3.0"
+   "version": "1.0.5"
   },
   {
    "author": "<a href=\"https://github.com/pixelbart\">pixelbart</a>",
@@ -4945,6 +4916,35 @@
     "wordpress-plugin"
    ],
    "version": "0.1.4"
+  },
+  {
+   "author": "<a href=\"https://github.com/alleyinteractive\">alleyinteractive</a>",
+   "author_profile": "https://github.com/alleyinteractive",
+   "build": "tag-archive",
+   "default_branch": "develop",
+   "description": "See your post, term, and user meta data.",
+   "download_url": "https://codeload.github.com/alleyinteractive/meta-inspector/zip/refs/tags/v1.3.0",
+   "homepage": "https://github.com/alleyinteractive/meta-inspector",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2026-11-11 19:02:16",
+   "name": "Meta Inspector",
+   "provider": "github",
+   "pushed_at": "2026-11-11T19:02:16Z",
+   "requires": "6.5",
+   "requires_php": "8.3",
+   "short_description": "See your post, term, and user meta data.",
+   "slug": "alleyinteractive--meta-inspector",
+   "stars": 21,
+   "tags": [
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.3.0"
   },
   {
    "author": "<a href=\"https://github.com/csalzano\">csalzano</a>",
@@ -5198,6 +5198,36 @@
    "version": "1.9.4"
   },
   {
+   "author": "<a href=\"https://github.com/strangerstudios\">strangerstudios</a>",
+   "author_profile": "https://github.com/strangerstudios",
+   "build": "tag-archive",
+   "default_branch": "dev",
+   "description": "Connect multiple non-multisite WordPress sites together to share logins through SSO.",
+   "download_url": "https://codeload.github.com/strangerstudios/wp-sso/zip/refs/tags/0.1.2",
+   "homepage": "https://github.com/strangerstudios/wp-sso",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2022-07-22 14:53:28",
+   "name": "WP Single Sign On (SSO)",
+   "provider": "github",
+   "pushed_at": "2022-07-22T14:53:28Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Connect multiple non-multisite WordPress sites together to share logins through SSO.",
+   "slug": "strangerstudios--wp-sso",
+   "stars": 20,
+   "tags": [
+    "strangerstudios-product",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "0.1.2"
+  },
+  {
    "author": "<a href=\"https://github.com/hiwelo\">hiwelo</a>",
    "author_profile": "https://github.com/hiwelo",
    "build": "tag-archive",
@@ -5230,36 +5260,6 @@
     "wordpress-plugin"
    ],
    "version": "1.4.3"
-  },
-  {
-   "author": "<a href=\"https://github.com/strangerstudios\">strangerstudios</a>",
-   "author_profile": "https://github.com/strangerstudios",
-   "build": "tag-archive",
-   "default_branch": "dev",
-   "description": "Connect multiple non-multisite WordPress sites together to share logins through SSO.",
-   "download_url": "https://codeload.github.com/strangerstudios/wp-sso/zip/refs/tags/0.1.2",
-   "homepage": "https://github.com/strangerstudios/wp-sso",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2022-07-22 14:53:28",
-   "name": "WP Single Sign On (SSO)",
-   "provider": "github",
-   "pushed_at": "2022-07-22T14:53:28Z",
-   "requires": "6.0",
-   "requires_php": "7.4",
-   "short_description": "Connect multiple non-multisite WordPress sites together to share logins through SSO.",
-   "slug": "strangerstudios--wp-sso",
-   "stars": 20,
-   "tags": [
-    "strangerstudios-product",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "0.1.2"
   },
   {
    "author": "<a href=\"https://github.com/WebberZone\">WebberZone</a>",
@@ -5358,39 +5358,6 @@
    "version": "1.0.0"
   },
   {
-   "author": "<a href=\"https://github.com/Preciousomonze\">Preciousomonze</a>",
-   "author_profile": "https://github.com/Preciousomonze",
-   "build": "tag-archive",
-   "default_branch": "master",
-   "description": "Forces validation of woocommerce phone field on checkout and billing address edit page",
-   "download_url": "https://codeload.github.com/Preciousomonze/woocommerce-phone-validator/zip/refs/tags/1.3.0",
-   "homepage": "https://github.com/Preciousomonze/woocommerce-phone-validator",
-   "icons": {
-    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
-   },
-   "last_updated": "2023-10-29 08:38:55",
-   "name": "Phone Validator for WooCommerce",
-   "provider": "github",
-   "pushed_at": "2023-10-29T08:38:55Z",
-   "requires": "5.0",
-   "requires_php": "7.4",
-   "short_description": "Forces validation of woocommerce phone field on checkout and billing address edit page",
-   "slug": "Preciousomonze--woocommerce-phone-validator",
-   "stars": 20,
-   "tags": [
-    "hacktoberfest",
-    "international-phone-validator",
-    "intltelinput",
-    "woocommerce-phone-validation",
-    "wordpress"
-   ],
-   "tested": "6.7",
-   "topics": [
-    "wordpress-plugin"
-   ],
-   "version": "1.3.0"
-  },
-  {
    "author": "<a href=\"https://github.com/rock-solid\">rock-solid</a>",
    "author_profile": "https://github.com/rock-solid",
    "build": "tag-archive",
@@ -5423,6 +5390,39 @@
     "wordpress-plugin"
    ],
    "version": "0.5.0"
+  },
+  {
+   "author": "<a href=\"https://github.com/Preciousomonze\">Preciousomonze</a>",
+   "author_profile": "https://github.com/Preciousomonze",
+   "build": "tag-archive",
+   "default_branch": "master",
+   "description": "Forces validation of woocommerce phone field on checkout and billing address edit page",
+   "download_url": "https://codeload.github.com/Preciousomonze/woocommerce-phone-validator/zip/refs/tags/1.3.0",
+   "homepage": "https://github.com/Preciousomonze/woocommerce-phone-validator",
+   "icons": {
+    "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
+   },
+   "last_updated": "2023-10-29 08:38:55",
+   "name": "Phone Validator for WooCommerce",
+   "provider": "github",
+   "pushed_at": "2023-10-29T08:38:55Z",
+   "requires": "5.0",
+   "requires_php": "7.4",
+   "short_description": "Forces validation of woocommerce phone field on checkout and billing address edit page",
+   "slug": "Preciousomonze--woocommerce-phone-validator",
+   "stars": 20,
+   "tags": [
+    "hacktoberfest",
+    "international-phone-validator",
+    "intltelinput",
+    "woocommerce-phone-validation",
+    "wordpress"
+   ],
+   "tested": "6.7",
+   "topics": [
+    "wordpress-plugin"
+   ],
+   "version": "1.3.0"
   },
   {
    "author": "<a href=\"https://github.com/krilor\">krilor</a>",

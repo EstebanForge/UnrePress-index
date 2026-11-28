@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "source": "github-topic",
- "generated_at": "2026-11-27T15:57:31Z",
+ "generated_at": "2026-11-28T14:52:46Z",
  "truncated": false,
  "themes": [
   {
@@ -57,7 +57,7 @@
    "requires_php": "7.4",
    "short_description": "A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese",
    "slug": "mirai-mamori--Sakurairo",
-   "stars": 4078,
+   "stars": 4079,
    "tags": [
     "ai-assisted",
     "ai-assisted-reading",
@@ -78,15 +78,10 @@
    "version": "3.0.10"
   },
   {
-   "slug": "afragen--git-updater",
-   "name": "Git Updater",
-   "version": "15.0.1",
    "author": "<a href=\"https://github.com/afragen\">afragen</a>",
    "author_profile": "https://github.com/afragen",
-   "requires": "5.9",
-   "tested": "6.7",
-   "requires_php": "8.0",
-   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "build": "release-asset",
+   "default_branch": "develop",
    "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
    "download_url": "https://github.com/afragen/git-updater/releases/download/15.0.1/git-updater-15.0.1.zip",
    "homepage": "https://github.com/afragen/git-updater",
@@ -94,20 +89,25 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-26 19:01:15",
+   "name": "Git Updater",
+   "provider": "github",
+   "pushed_at": "2026-11-26T19:01:15Z",
+   "requires": "5.9",
+   "requires_php": "8.0",
+   "short_description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+   "slug": "afragen--git-updater",
+   "stars": 3321,
    "tags": [
     "git",
     "language-pack",
     "updater",
     "wordpress-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 3321,
-   "pushed_at": "2026-11-26T19:01:15Z",
-   "provider": "github",
-   "build": "release-asset",
-   "default_branch": "develop"
+   "version": "15.0.1"
   },
   {
    "author": "<a href=\"https://github.com/Licoy\">Licoy</a>",
@@ -128,7 +128,7 @@
    "requires_php": "7.4",
    "short_description": ":art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh",
    "slug": "Licoy--wordpress-theme-puock",
-   "stars": 2979,
+   "stars": 2978,
    "tags": [
     "bootstrap",
     "chatgpt",
@@ -174,7 +174,7 @@
    "requires_php": "7.4",
    "short_description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
    "slug": "owen0o0--WebStack",
-   "stars": 2499,
+   "stars": 2500,
    "tags": [
     "bookmark",
     "dao-hang",
@@ -486,7 +486,7 @@
    "requires_php": "7.4",
    "short_description": "Document主题，一款专为做笔记而开发的wordpress主题",
    "slug": "friend-nicen--theme-document",
-   "stars": 348,
+   "stars": 347,
    "tags": [
     "wordpress"
    ],
@@ -783,7 +783,7 @@
    "requires_php": "7.4",
    "short_description": "Visual Composer Starter theme for WordPress designed to be a perfect companion for a simple and good looking website or blog.",
    "slug": "VisualComposer--visual-composer-starter",
-   "stars": 132,
+   "stars": 133,
    "tags": [
     "gpl",
     "visual-composer",
@@ -1995,15 +1995,10 @@
    "version": "1.20.12"
   },
   {
-   "slug": "Rundiz-WP--bootstrap-basic",
-   "name": "Bootstrap Basic",
-   "version": "1.3.9",
    "author": "<a href=\"https://github.com/Rundiz-WP\">Rundiz-WP</a>",
    "author_profile": "https://github.com/Rundiz-WP",
-   "requires": "6.0",
-   "tested": "6.7",
-   "requires_php": "7.4",
-   "short_description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, pleas",
+   "build": "tag-archive",
+   "default_branch": "master",
    "description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, please go to wordpress.org themes page in the link.",
    "download_url": "https://codeload.github.com/Rundiz-WP/bootstrap-basic/zip/refs/tags/1.3.9",
    "homepage": "https://github.com/Rundiz-WP/bootstrap-basic",
@@ -2011,18 +2006,23 @@
     "default": "https://raw.githubusercontent.com/estebanforge/unrepress-index/main/assets/images/icon-256.webp"
    },
    "last_updated": "2026-11-27 05:00:13",
+   "name": "Bootstrap Basic",
+   "provider": "github",
+   "pushed_at": "2026-11-27T05:00:13Z",
+   "requires": "6.0",
+   "requires_php": "7.4",
+   "short_description": "Bootstrap 3 css framework theme for wordpress. For theme developer can start build their theme very fast. To download for use with your project, pleas",
+   "slug": "Rundiz-WP--bootstrap-basic",
+   "stars": 21,
    "tags": [
     "bootstrap3",
     "wordpress-starter-theme"
    ],
+   "tested": "6.7",
    "topics": [
     "wordpress-theme"
    ],
-   "stars": 21,
-   "pushed_at": "2026-11-27T05:00:13Z",
-   "provider": "github",
-   "build": "tag-archive",
-   "default_branch": "master"
+   "version": "1.3.9"
   },
   {
    "author": "<a href=\"https://github.com/wpsf\">wpsf</a>",
